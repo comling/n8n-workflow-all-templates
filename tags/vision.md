@@ -1,4 +1,4 @@
-# vision : 55
+# vision : 57
 
 |id|file|
 |----|----|
@@ -57,3 +57,5 @@
 |13004|[13004_Extract_structured_data_from_Gmail_attachments_to_Google_Sheets__GPT_vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13004_Extract_structured_data_from_Gmail_attachments_to_Google_Sheets__GPT_vision.json)|
 |13546|[13546_Analyze_support_screenshots_with_UploadToURL__GPT-4o_Vision__Zendesk__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13546_Analyze_support_screenshots_with_UploadToURL__GPT-4o_Vision__Zendesk__and_Jira.json)|
 |13635|[13635_List_properties_instantly_with_UploadToURL__OpenAI_Vision__WordPress_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13635_List_properties_instantly_with_UploadToURL__OpenAI_Vision__WordPress_and_Airtable.json)|
+|14061|[14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json)|
+|14912|[14912_Create_post_trip_journals_and_review_drafts_with_Claude_Sonnet_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14912_Create_post_trip_journals_and_review_drafts_with_Claude_Sonnet_Vision.json)|

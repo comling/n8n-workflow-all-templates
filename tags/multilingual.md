@@ -1,4 +1,4 @@
-# multilingual : 25
+# multilingual : 28
 
 |id|file|
 |----|----|
@@ -27,3 +27,6 @@
 |12382|[12382_Translate_Chinese_text_to_multilingual_audio_with_GPT-4o_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12382_Translate_Chinese_text_to_multilingual_audio_with_GPT-4o_and_ElevenLabs.json)|
 |12383|[12383_Create_multilingual_localized_speech_audio_with_GPT-4_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12383_Create_multilingual_localized_speech_audio_with_GPT-4_and_ElevenLabs.json)|
 |12384|[12384_Convert_Japanese_scripts_to_multilingual_speech_with_GPT-4_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12384_Convert_Japanese_scripts_to_multilingual_speech_with_GPT-4_and_ElevenLabs.json)|
+|13940|[13940_Triage_and_reply_to_multilingual_support_tickets_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13940_Triage_and_reply_to_multilingual_support_tickets_with_Anthropic_Claude.json)|
+|14662|[14662_Translate_and_dub_spokesperson_videos_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14662_Translate_and_dub_spokesperson_videos_using_Anthropic_and_deAPI.json)|
+|14707|[14707_Generate_multilingual_AI_video_clips_using_WayinVideo_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14707_Generate_multilingual_AI_video_clips_using_WayinVideo_and_Google_Drive.json)|

@@ -1,4 +1,4 @@
-# docx : 7
+# docx : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |9406|[9406_Generate___Email_Custom_NDA_Documents_from_Web_Form_Submissions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9406_Generate___Email_Custom_NDA_Documents_from_Web_Form_Submissions.json)|
 |13713|[13713_Generate_AI_research_papers_with_Claude__arXiv__Google_Scholar_and_DOCX_export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13713_Generate_AI_research_papers_with_Claude__arXiv__Google_Scholar_and_DOCX_export.json)|
 |13777|[13777_Generate_styled_PDF_or_DOCX_business_reports_from_Markdown_with_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13777_Generate_styled_PDF_or_DOCX_business_reports_from_Markdown_with_Autype.json)|
+|14992|[14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json)|

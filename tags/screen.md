@@ -1,4 +1,4 @@
-# screen : 9
+# screen : 17
 
 |id|file|
 |----|----|
@@ -11,3 +11,11 @@
 |12268|[12268_Screen_DPDP_consent_manager_registrations_with_GPT-4o__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12268_Screen_DPDP_consent_manager_registrations_with_GPT-4o__Google_Sheets_and_Gmail.json)|
 |13034|[13034_Screen_and_score_resumes_from_Gmail_with_PDF_parsing__HubSpot__Slack_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13034_Screen_and_score_resumes_from_Gmail_with_PDF_parsing__HubSpot__Slack_and_PostgreSQL.json)|
 |13876|[13876_Screen_CVs_with_OpenAI_and_PostgreSQL_using_chained_prompts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13876_Screen_CVs_with_OpenAI_and_PostgreSQL_using_chained_prompts.json)|
+|13970|[13970_Screen_CVs_and_score_candidates_with_Gmail__Google_Drive__OpenAI__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13970_Screen_CVs_and_score_candidates_with_Gmail__Google_Drive__OpenAI__and_Sheets.json)|
+|13990|[13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json)|
+|14138|[14138_Screen_job_applications_from_Google_Forms_with_Google_Gemini_and_email_results.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14138_Screen_job_applications_from_Google_Forms_with_Google_Gemini_and_email_results.json)|
+|14239|[14239_Screen_and_score_investment_deals_with_AI_using_OpenAI__Gmail__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14239_Screen_and_score_investment_deals_with_AI_using_OpenAI__Gmail__and_Telegram.json)|
+|14295|[14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json)|
+|14442|[14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json)|
+|14686|[14686_Screen_resumes_with_OpenAI_GPT_4.1_and_route_candidates_via_Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14686_Screen_resumes_with_OpenAI_GPT_4.1_and_route_candidates_via_Gmail__Slack_and_Sheets.json)|
+|14856|[14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json)|

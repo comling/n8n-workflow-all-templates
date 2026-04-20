@@ -1,4 +1,4 @@
-# performance : 50
+# performance : 55
 
 |id|file|
 |----|----|
@@ -52,3 +52,8 @@
 |13432|[13432_Validate_academic_promotion_decisions_with_GPT-4o__policy_rules__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13432_Validate_academic_promotion_decisions_with_GPT-4o__policy_rules__and_Gmail.json)|
 |13714|[13714_Track_athlete_sessions_and_weekly_performance_with_OpenAI__Google_Sheets__Slack__and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13714_Track_athlete_sessions_and_weekly_performance_with_OpenAI__Google_Sheets__Slack__and_email.json)|
 |13840|[13840_Analyze_WooCommerce_category_sales_over_time_with_Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13840_Analyze_WooCommerce_category_sales_over_time_with_Airtable_and_Slack.json)|
+|14003|[14003_Generate_daily_multi-cloud_FinOps_cost_and_carbon_reports_with_OpenAI_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14003_Generate_daily_multi-cloud_FinOps_cost_and_carbon_reports_with_OpenAI_GPT-4o.json)|
+|14011|[14011_Analyze_ad_performance_from_Meta__Google_and_Microsoft_using_Groq_Llama_3.3_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14011_Analyze_ad_performance_from_Meta__Google_and_Microsoft_using_Groq_Llama_3.3_and_Gmail.json)|
+|14321|[14321_Send_weekly_Databox_paid_ads_performance_reports_to_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14321_Send_weekly_Databox_paid_ads_performance_reports_to_Slack_and_email.json)|
+|14332|[14332_Generate_weekly_AI_business_digest_from_Google_Sheets_with_GPT-4o_and_send_to_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14332_Generate_weekly_AI_business_digest_from_Google_Sheets_with_GPT-4o_and_send_to_Slack_and_email.json)|
+|14808|[14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json)|

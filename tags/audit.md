@@ -1,4 +1,4 @@
-# audit : 38
+# audit : 43
 
 |id|file|
 |----|----|
@@ -40,3 +40,8 @@
 |13683|[13683_Audit_contract_governance_risk_with_OpenAI__Slack_and_email_routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13683_Audit_contract_governance_risk_with_OpenAI__Slack_and_email_routing.json)|
 |13684|[13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json)|
 |13817|[13817_Audit_competitor_SEO_content_with_Decodo__Gemini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13817_Audit_competitor_SEO_content_with_Decodo__Gemini__and_Google_Sheets.json)|
+|14125|[14125_Audit_connected_integrations_and_email_pricing___limits_report_with_n8n_API__Claude_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14125_Audit_connected_integrations_and_email_pricing___limits_report_with_n8n_API__Claude_and_Gmail.json)|
+|14409|[14409_Route_IAM_events_with_GPT-4o-mini__forgeLLM__Slack__email__and_audit_logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14409_Route_IAM_events_with_GPT-4o-mini__forgeLLM__Slack__email__and_audit_logs.json)|
+|14423|[14423_Audit_workflow_credential_usage_to_Google_Sheets_using_Google_Drive_and_SQLite3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14423_Audit_workflow_credential_usage_to_Google_Sheets_using_Google_Drive_and_SQLite3.json)|
+|14441|[14441_Automate_privacy_risk_detection__approvals__and_audit_reports_with_GPT-4o__Slack__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14441_Automate_privacy_risk_detection__approvals__and_audit_reports_with_GPT-4o__Slack__Gmail__and_Google_Sheets.json)|
+|15026|[15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json)|

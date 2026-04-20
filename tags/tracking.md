@@ -1,4 +1,4 @@
-# tracking : 151
+# tracking : 156
 
 |id|file|
 |----|----|
@@ -153,3 +153,8 @@
 |13163|[13163_Route_support_tickets_with_SLA_tracking__Slack_alerts__and_Gmail_confirmations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13163_Route_support_tickets_with_SLA_tracking__Slack_alerts__and_Gmail_confirmations.json)|
 |13469|[13469_Extract_invoice_data_from_Gmail_to_Airtable_with_Mistral_OCR_and_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13469_Extract_invoice_data_from_Gmail_to_Airtable_with_Mistral_OCR_and_GPT-4.1-mini.json)|
 |13585|[13585_Track_legal_risks_and_litigation_threats_using_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13585_Track_legal_risks_and_litigation_threats_using_Bright_Data__OpenRouter_and_Google_Sheets.json)|
+|14426|[14426_Automate_ESG_compliance_routing_and_reporting_with_GPT-4o__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14426_Automate_ESG_compliance_routing_and_reporting_with_GPT-4o__Slack_and_Google_Sheets.json)|
+|14433|[14433_Orchestrate_sustainability_lifecycle_analytics_with_GPT-4o__Slack__Gmail_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14433_Orchestrate_sustainability_lifecycle_analytics_with_GPT-4o__Slack__Gmail_and_Google_Docs.json)|
+|14436|[14436_Review_legal_policies_with_GPT-4o__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14436_Review_legal_policies_with_GPT-4o__Gmail__Slack__and_Google_Sheets.json)|
+|14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|
+|14705|[14705_Track_Facebook_event_RSVPs_in_Airtable_and_send_Slack_capacity_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14705_Track_Facebook_event_RSVPs_in_Airtable_and_send_Slack_capacity_alerts.json)|

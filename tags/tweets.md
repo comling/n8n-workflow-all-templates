@@ -1,4 +1,4 @@
-# tweets : 16
+# tweets : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |12847|[12847_Repurpose_LinkedIn_posts_into_X_tweets_with_Apify__Claude_AI_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12847_Repurpose_LinkedIn_posts_into_X_tweets_with_Apify__Claude_AI_and_Airtable.json)|
 |12881|[12881_Post_daily_motivational_tweets_to_Twitter_X_with_Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12881_Post_daily_motivational_tweets_to_Twitter_X_with_Google_Gemini_AI.json)|
 |13160|[13160_Manage_finances__tasks__tweets_and_Gmail_with_GPT_4.1_on_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13160_Manage_finances__tasks__tweets_and_Gmail_with_GPT_4.1_on_WhatsApp.json)|
+|14768|[14768_Auto-post_trending_X_tweets_with_Gemini_AI_images__FLUX_and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14768_Auto-post_trending_X_tweets_with_Gemini_AI_images__FLUX_and_Buffer.json)|

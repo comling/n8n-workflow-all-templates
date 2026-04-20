@@ -1,4 +1,4 @@
-# newsletters : 13
+# newsletters : 17
 
 |id|file|
 |----|----|
@@ -15,3 +15,7 @@
 |9314|[9314_Create_Financial_Newsletters_with_Perplexity_Research__GPT_Drafting__and_Gmail_Approval_Flow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9314_Create_Financial_Newsletters_with_Perplexity_Research__GPT_Drafting__and_Gmail_Approval_Flow.json)|
 |10293|[10293_Multi-Agent_AI_Content_Creator_for_SEO_Blogs___Newsletters_with_OpenRouter__DALL-E__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10293_Multi-Agent_AI_Content_Creator_for_SEO_Blogs___Newsletters_with_OpenRouter__DALL-E__Gemini.json)|
 |12714|[12714_Curate_and_send_weekly_AI_newsletters_with_Tavily__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12714_Curate_and_send_weekly_AI_newsletters_with_Tavily__Gemini__and_Gmail.json)|
+|14012|[14012_Create_AI_newsletters_from_YouTube_with_LangChain__Gemini__Apify___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14012_Create_AI_newsletters_from_YouTube_with_LangChain__Gemini__Apify___Gmail.json)|
+|14412|[14412_Generate_and_send_AI_newsletters_with_OpenAI__Tavily__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14412_Generate_and_send_AI_newsletters_with_OpenAI__Tavily__Google_Sheets_and_Gmail.json)|
+|14525|[14525_Publish_AI-written_newsletters_and_LinkedIn_posts_from_WordPress_with_Gemini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14525_Publish_AI-written_newsletters_and_LinkedIn_posts_from_WordPress_with_Gemini__Google_Sheets_and_Gmail.json)|
+|14973|[14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json)|

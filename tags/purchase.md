@@ -1,4 +1,4 @@
-# purchase : 19
+# purchase : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |12673|[12673_Send_AI-powered_post-purchase_emails_and_WhatsApp_messages_from_PostgreSQL_to_Google_Sheets_with_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12673_Send_AI-powered_post-purchase_emails_and_WhatsApp_messages_from_PostgreSQL_to_Google_Sheets_with_Groq.json)|
 |12870|[12870_Segment_retail_customers_by_purchase_behavior_with_CRM_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12870_Segment_retail_customers_by_purchase_behavior_with_CRM_and_Google_Sheets.json)|
 |13274|[13274_Send_post-purchase_email_sequences_with_Postgres__Gmail_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13274_Send_post-purchase_email_sequences_with_Postgres__Gmail_and_OpenAI.json)|
+|14144|[14144_Send_post-purchase_emails_from_Postgres_with_Gmail_and_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14144_Send_post-purchase_emails_from_Postgres_with_Gmail_and_Groq_AI.json)|
+|14829|[14829_Send_10-day_post-purchase_WhatsApp_offers_with_Odoo__OpenAI_and_Evolution_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14829_Send_10-day_post-purchase_WhatsApp_offers_with_Odoo__OpenAI_and_Evolution_API.json)|

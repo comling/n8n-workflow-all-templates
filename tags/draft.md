@@ -1,4 +1,4 @@
-# draft : 31
+# draft : 36
 
 |id|file|
 |----|----|
@@ -33,3 +33,8 @@
 |13203|[13203_Draft_Gmail_replies_with_OpenAI_and_OpenRouter_for_an_inbox-zero_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13203_Draft_Gmail_replies_with_OpenAI_and_OpenRouter_for_an_inbox-zero_workflow.json)|
 |13463|[13463_Auto-label_Gmail_with_Ollama_AI_and_draft_smart_replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13463_Auto-label_Gmail_with_Ollama_AI_and_draft_smart_replies.json)|
 |13562|[13562_Monitor_Google_reviews_and_draft_AI_responses_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13562_Monitor_Google_reviews_and_draft_AI_responses_with_Gemini_and_Slack.json)|
+|14038|[14038_Draft_and_send_AI_customer_support_email_replies_with_Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14038_Draft_and_send_AI_customer_support_email_replies_with_Gmail_and_Google_Sheets.json)|
+|14578|[14578_Generate_overdue_lead_follow-up_Gmail_drafts_with_Google_Sheets_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14578_Generate_overdue_lead_follow-up_Gmail_drafts_with_Google_Sheets_and_Gemini.json)|
+|14852|[14852_Triage_Gmail_inbox__draft_replies__and_alert_urgent_emails_with_Claude_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14852_Triage_Gmail_inbox__draft_replies__and_alert_urgent_emails_with_Claude_and_Slack.json)|
+|14896|[14896_Monitor_Google_reviews_and_draft_GPT-4o-mini_replies_via_Gmail_daily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14896_Monitor_Google_reviews_and_draft_GPT-4o-mini_replies_via_Gmail_daily.json)|
+|14966|[14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json)|

@@ -1,4 +1,4 @@
-# router : 15
+# router : 18
 
 |id|file|
 |----|----|
@@ -17,3 +17,6 @@
 |11198|[11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json)|
 |11613|[11613_Xano_Support_Ticket_Router__AI___Xano_Node_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11613_Xano_Support_Ticket_Router__AI___Xano_Node_Integration.json)|
 |11838|[11838_Slack_Workflow_Router__AI-Powered_Workflow_Selection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11838_Slack_Workflow_Router__AI-Powered_Workflow_Selection.json)|
+|14120|[14120_Route_email_actions_from_Notion_with_Gmail__Slack__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14120_Route_email_actions_from_Notion_with_Gmail__Slack__and_Jira.json)|
+|14124|[14124_Route_product_signals_from_Notion_to_Jira_and_Slack_backlogs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14124_Route_product_signals_from_Notion_to_Jira_and_Slack_backlogs.json)|
+|14622|[14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json)|

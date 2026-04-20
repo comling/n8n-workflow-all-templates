@@ -1,4 +1,4 @@
-# tickets : 56
+# tickets : 67
 
 |id|file|
 |----|----|
@@ -58,3 +58,14 @@
 |13280|[13280_Route_Gmail_support_emails_to_Zendesk_with_spam_filtering_and_duplicate_checks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13280_Route_Gmail_support_emails_to_Zendesk_with_spam_filtering_and_duplicate_checks.json)|
 |13705|[13705_Manage_WhatsApp_property_maintenance_tickets_with_WATI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13705_Manage_WhatsApp_property_maintenance_tickets_with_WATI_and_Google_Sheets.json)|
 |13770|[13770_Route_and_prioritize_Gmail_support_tickets_to_Notion_with_Gemini_AI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13770_Route_and_prioritize_Gmail_support_tickets_to_Notion_with_Gemini_AI_and_Slack_alerts.json)|
+|13940|[13940_Triage_and_reply_to_multilingual_support_tickets_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13940_Triage_and_reply_to_multilingual_support_tickets_with_Anthropic_Claude.json)|
+|14070|[14070_Turn_new_Jira_tickets_into_CloudCLI_AI_coding_sessions_with_Claude_Code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14070_Turn_new_Jira_tickets_into_CloudCLI_AI_coding_sessions_with_Claude_Code.json)|
+|14431|[14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json)|
+|14474|[14474_Create_HubSpot_support_tickets_from_Tally_form_submissions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14474_Create_HubSpot_support_tickets_from_Tally_form_submissions.json)|
+|14500|[14500_Generate_and_email_event_e-tickets_with_QR_codes_using_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14500_Generate_and_email_event_e-tickets_with_QR_codes_using_Google_Workspace.json)|
+|14530|[14530_Escalate_VIP_Zendesk_tickets_with_GPT-4__Slack_alerts_and_email_summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14530_Escalate_VIP_Zendesk_tickets_with_GPT-4__Slack_alerts_and_email_summaries.json)|
+|14553|[14553_Triage_video_bug_support_tickets_using_WayinVideo_and_GPT-4o-mini_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14553_Triage_video_bug_support_tickets_using_WayinVideo_and_GPT-4o-mini_to_Google_Sheets.json)|
+|14684|[14684_Turn_support_tickets_into_developer_insights_with_OpenAI__Postgres__Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14684_Turn_support_tickets_into_developer_insights_with_OpenAI__Postgres__Slack_and_Jira.json)|
+|14718|[14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json)|
+|14826|[14826_Route_and_triage_support_tickets_with_Claude_Sonnet_and_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14826_Route_and_triage_support_tickets_with_Claude_Sonnet_and_your_CRM.json)|
+|14861|[14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json)|

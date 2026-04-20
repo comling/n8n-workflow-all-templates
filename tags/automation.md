@@ -1,4 +1,4 @@
-# automation : 348
+# automation : 355
 
 |id|file|
 |----|----|
@@ -350,3 +350,10 @@
 |13898|[13898_Generate_board-ready_workforce_analytics_and_talent_reports_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13898_Generate_board-ready_workforce_analytics_and_talent_reports_with_GPT-4o.json)|
 |13913|[13913_Enforce_marketplace_seller_compliance_with_GPT-4o__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13913_Enforce_marketplace_seller_compliance_with_GPT-4o__Gmail_and_Slack.json)|
 |13919|[13919_Turn_YouTube_meeting_recordings_into_Notion_notes_with_Claude__deAPI__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13919_Turn_YouTube_meeting_recordings_into_Notion_notes_with_Claude__deAPI__and_Slack_alerts.json)|
+|13970|[13970_Screen_CVs_and_score_candidates_with_Gmail__Google_Drive__OpenAI__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13970_Screen_CVs_and_score_candidates_with_Gmail__Google_Drive__OpenAI__and_Sheets.json)|
+|14168|[14168_Summarize_and_answer_Re_amaze_support_emails_with_Gemini_and_SOP_knowledge_base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14168_Summarize_and_answer_Re_amaze_support_emails_with_Gemini_and_SOP_knowledge_base.json)|
+|14390|[14390_Generate_multi-pass_Seedance_AI_roto_mattes_with_QC_and_Nuke_handoff.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14390_Generate_multi-pass_Seedance_AI_roto_mattes_with_QC_and_Nuke_handoff.json)|
+|14412|[14412_Generate_and_send_AI_newsletters_with_OpenAI__Tavily__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14412_Generate_and_send_AI_newsletters_with_OpenAI__Tavily__Google_Sheets_and_Gmail.json)|
+|14539|[14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json)|
+|14856|[14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json)|
+|14890|[14890_Create_AI_Instagram_brand_posts_with_Seedream_4.0__OpenAI_and_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14890_Create_AI_Instagram_brand_posts_with_Seedream_4.0__OpenAI_and_Postiz.json)|

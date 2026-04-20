@@ -1,4 +1,4 @@
-# calendar : 202
+# calendar : 211
 
 |id|file|
 |----|----|
@@ -204,3 +204,12 @@
 |13579|[13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json)|
 |13734|[13734_Manage_Google_Calendar_events_with_GPT_4_and_an_AI_assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13734_Manage_Google_Calendar_events_with_GPT_4_and_an_AI_assistant.json)|
 |13864|[13864_Handle_Spanish-speaking_vet_clinic_bookings_with_GPT-4o__Sheets__Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13864_Handle_Spanish-speaking_vet_clinic_bookings_with_GPT-4o__Sheets__Calendar_and_Gmail.json)|
+|13923|[13923_Schedule_appointments_from_a_booking_form_with_Google_Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13923_Schedule_appointments_from_a_booking_form_with_Google_Calendar_and_Gmail.json)|
+|14107|[14107_Bulk_create_Google_Calendar_events_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14107_Bulk_create_Google_Calendar_events_from_Google_Sheets.json)|
+|14288|[14288_Read_palm_lines_and_send_AI_reports_via_LINE__Gemini__Gmail_and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14288_Read_palm_lines_and_send_AI_reports_via_LINE__Gemini__Gmail_and_Calendar.json)|
+|14397|[14397_Sync_workflow_schedules_between_Google_Sheets_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14397_Sync_workflow_schedules_between_Google_Sheets_and_Google_Calendar.json)|
+|14666|[14666_Manage_Google_Calendar_and_Gmail_from_Telegram_with_a_Claude_AI_assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14666_Manage_Google_Calendar_and_Gmail_from_Telegram_with_a_Claude_AI_assistant.json)|
+|14773|[14773_Track_and_schedule_Notion_tasks_using_Google_Sheets_and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14773_Track_and_schedule_Notion_tasks_using_Google_Sheets_and_Calendar.json)|
+|14824|[14824_Book_and_manage_appointments_with_Google_Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14824_Book_and_manage_appointments_with_Google_Calendar_and_Gmail.json)|
+|14914|[14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json)|
+|14971|[14971_Promote_calendar_events_with_OpenAI_graphics_to_LinkedIn__X__and_Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14971_Promote_calendar_events_with_OpenAI_graphics_to_LinkedIn__X__and_Facebook.json)|

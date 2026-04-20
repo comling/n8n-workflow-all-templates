@@ -1,4 +1,4 @@
-# assistant : 241
+# assistant : 249
 
 |id|file|
 |----|----|
@@ -243,3 +243,11 @@
 |13748|[13748_Turn_Telegram_into_an_AI_assistant_with_OpenAI_voice__memory_and_tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13748_Turn_Telegram_into_an_AI_assistant_with_OpenAI_voice__memory_and_tools.json)|
 |13766|[13766_Get_actionable_Gmail_alerts_on_Telegram_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13766_Get_actionable_Gmail_alerts_on_Telegram_with_OpenAI.json)|
 |13867|[13867_Generate_AEO_snippets_from_Google_PAA_with_SerpApi_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13867_Generate_AEO_snippets_from_Google_PAA_with_SerpApi_and_Gemini.json)|
+|13984|[13984_AI-Powered_WhatsApp_Chatbot_____Complete_Booking_Assistant_with_Gemini___Google.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13984_AI-Powered_WhatsApp_Chatbot_____Complete_Booking_Assistant_with_Gemini___Google.json)|
+|13987|[13987_Manage_invoices_and_contacts_via_chat_with_the_Fakturoid_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13987_Manage_invoices_and_contacts_via_chat_with_the_Fakturoid_AI_agent.json)|
+|14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|
+|14522|[14522_Create_AI-powered_LinkedIn_posts_from_Telegram_with_GPT-4_and_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14522_Create_AI-powered_LinkedIn_posts_from_Telegram_with_GPT-4_and_images.json)|
+|14552|[14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json)|
+|14555|[14555_Build_a_Slack-based_CRM_assistant_with_HubSpot_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14555_Build_a_Slack-based_CRM_assistant_with_HubSpot_and_Google_Gemini.json)|
+|14666|[14666_Manage_Google_Calendar_and_Gmail_from_Telegram_with_a_Claude_AI_assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14666_Manage_Google_Calendar_and_Gmail_from_Telegram_with_a_Claude_AI_assistant.json)|
+|14914|[14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json)|

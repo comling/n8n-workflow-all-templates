@@ -1,4 +1,4 @@
-# pinterest : 8
+# pinterest : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |7792|[7792_7-Day_Pinterest_Content_Planner_with_Notion_Integration_and_Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7792_7-Day_Pinterest_Content_Planner_with_Notion_Integration_and_Email_Delivery.json)|
 |9374|[9374_Generate_Social_Media_Ad_Images_for_FB_IG_Pinterest_with_Google_Gemini_Imagen.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9374_Generate_Social_Media_Ad_Images_for_FB_IG_Pinterest_with_Google_Gemini_Imagen.json)|
 |9388|[9388_AI-Powered_Social_Media_Ad_Creation_With_Website_Scraping_for_FB__IG___Pinterest.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9388_AI-Powered_Social_Media_Ad_Creation_With_Website_Scraping_for_FB__IG___Pinterest.json)|
+|14072|[14072_Bulk_publish_Pinterest_Pins_from_Google_Sheets_with_PinBridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14072_Bulk_publish_Pinterest_Pins_from_Google_Sheets_with_PinBridge.json)|
+|14156|[14156_Auto-publish_new_WordPress_posts_to_Pinterest_with_PinBridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14156_Auto-publish_new_WordPress_posts_to_Pinterest_with_PinBridge.json)|

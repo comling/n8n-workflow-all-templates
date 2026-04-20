@@ -1,4 +1,4 @@
-# fireflies : 8
+# fireflies : 12
 
 |id|file|
 |----|----|
@@ -10,3 +10,7 @@
 |10851|[10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json)|
 |11497|[11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json)|
 |12127|[12127_Automate_post-meeting_tasks_with_Fireflies__GPT-4o___ClickUp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12127_Automate_post-meeting_tasks_with_Fireflies__GPT-4o___ClickUp.json)|
+|14717|[14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json)|
+|14987|[14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json)|
+|15013|[15013_Analyze_weekly_Fireflies_sales_calls_with_GPT-4o-mini__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15013_Analyze_weekly_Fireflies_sales_calls_with_GPT-4o-mini__Google_Sheets_and_Slack.json)|
+|15040|[15040_Create_LinkedIn_post_drafts_from_Fireflies_meetings_with_GPT-4o-mini__Drive_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15040_Create_LinkedIn_post_drafts_from_Fireflies_meetings_with_GPT-4o-mini__Drive_and_Slack.json)|

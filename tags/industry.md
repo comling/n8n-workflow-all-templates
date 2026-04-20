@@ -1,4 +1,4 @@
-# industry : 7
+# industry : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |12348|[12348_Create_curated_industry_trend_reports_from_Medium_to_Google_Docs_with_Claude_via_OpenRouter_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12348_Create_curated_industry_trend_reports_from_Medium_to_Google_Docs_with_Claude_via_OpenRouter_and_BrowserAct.json)|
 |13374|[13374_Scrape_industry_growth_signals_with_BrowserAct__OpenRouter__and_Slack_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13374_Scrape_industry_growth_signals_with_BrowserAct__OpenRouter__and_Slack_reports.json)|
 |13899|[13899_Analyze_and_modernize_university_curricula_with_GPT-4o_and_employment_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13899_Analyze_and_modernize_university_curricula_with_GPT-4o_and_employment_data.json)|
+|13992|[13992_Build_a_Reddit_no-API_weekly_digest_with_ScrapeOps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13992_Build_a_Reddit_no-API_weekly_digest_with_ScrapeOps_and_Google_Sheets.json)|

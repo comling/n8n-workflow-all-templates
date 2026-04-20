@@ -1,4 +1,4 @@
-# integration : 160
+# integration : 161
 
 |id|file|
 |----|----|
@@ -162,3 +162,4 @@
 |12032|[12032_Clear_integration_of_GPT-4_with_key_tools_for_enhanced_functionality.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12032_Clear_integration_of_GPT-4_with_key_tools_for_enhanced_functionality.json)|
 |12070|[12070_Automate_employee_leave_approvals_with_GPT__Gmail___Calendar_integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12070_Automate_employee_leave_approvals_with_GPT__Gmail___Calendar_integration.json)|
 |12733|[12733_Automate_satellite_data_analysis_and_regulatory_reporting_with_GPT-4_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12733_Automate_satellite_data_analysis_and_regulatory_reporting_with_GPT-4_and_Slack.json)|
+|14125|[14125_Audit_connected_integrations_and_email_pricing___limits_report_with_n8n_API__Claude_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14125_Audit_connected_integrations_and_email_pricing___limits_report_with_n8n_API__Claude_and_Gmail.json)|

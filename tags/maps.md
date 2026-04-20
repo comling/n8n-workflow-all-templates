@@ -1,4 +1,4 @@
-# maps : 67
+# maps : 73
 
 |id|file|
 |----|----|
@@ -69,3 +69,9 @@
 |13580|[13580_Enrich_Google_Maps_business_leads_using_Apify__OpenAI__Jina_AI__Telegram_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13580_Enrich_Google_Maps_business_leads_using_Apify__OpenAI__Jina_AI__Telegram_and_Sheets.json)|
 |13582|[13582_Enrich_B2B_Google_Maps_leads_with_Apify__Jina_AI__GPT-5.2_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13582_Enrich_B2B_Google_Maps_leads_with_Apify__Jina_AI__GPT-5.2_and_Google_Sheets.json)|
 |13678|[13678_Generate_Google_Maps_lead_lists_with_SerpApi__Google_Gemini_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13678_Generate_Google_Maps_lead_lists_with_SerpApi__Google_Gemini_and_Sheets.json)|
+|14111|[14111_Scrape_Google_Maps_realtor_leads_with_ScrapeOps__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14111_Scrape_Google_Maps_realtor_leads_with_ScrapeOps__Google_Sheets__Gmail_and_Slack.json)|
+|14118|[14118_Generate_roofing_contractor_leads_from_Google_Maps_with_ScrapeOps__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14118_Generate_roofing_contractor_leads_from_Google_Maps_with_ScrapeOps__Sheets_and_Slack.json)|
+|14396|[14396_Generate_and_enrich_Google_Maps_B2B_leads_with_SDR-ready_data_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14396_Generate_and_enrich_Google_Maps_B2B_leads_with_SDR-ready_data_in_Google_Sheets.json)|
+|14448|[14448_Scrape_Google_Maps_businesses_with_ScraperCity_and_send_Gmail_outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14448_Scrape_Google_Maps_businesses_with_ScraperCity_and_send_Gmail_outreach.json)|
+|14505|[14505_Extract_Google_Maps_business_leads_with_Apify__GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14505_Extract_Google_Maps_business_leads_with_Apify__GPT-4o-mini_and_Google_Sheets.json)|
+|14568|[14568_Validate_addresses_and_generate_Street_View_images_with_Google_Maps_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14568_Validate_addresses_and_generate_Street_View_images_with_Google_Maps_and_Drive.json)|

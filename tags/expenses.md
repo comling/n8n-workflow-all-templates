@@ -1,4 +1,4 @@
-# expenses : 16
+# expenses : 20
 
 |id|file|
 |----|----|
@@ -18,3 +18,7 @@
 |13654|[13654_Scan_WhatsApp_receipt_photos_and_track_expenses_using_Wati_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13654_Scan_WhatsApp_receipt_photos_and_track_expenses_using_Wati_and_GPT-4o.json)|
 |13667|[13667_Track_Telegram_expenses_with_GPT-4_and_Google_Sheets__self-learning_categories.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13667_Track_Telegram_expenses_with_GPT-4_and_Google_Sheets__self-learning_categories.json)|
 |13909|[13909_Reconcile_expenses_and_optimize_tax_deductions_with_OpenAI_GPT_4.1_mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13909_Reconcile_expenses_and_optimize_tax_deductions_with_OpenAI_GPT_4.1_mini_and_Gmail.json)|
+|14051|[14051_Query_expenses_on_Telegram_with_GPT-4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14051_Query_expenses_on_Telegram_with_GPT-4.1_and_Google_Sheets.json)|
+|14133|[14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json)|
+|14135|[14135_Track_expenses_via_chat_with_Claude_Haiku_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14135_Track_expenses_via_chat_with_Claude_Haiku_and_Google_Sheets.json)|
+|14901|[14901_Track_and_analyze_Google_Sheets_expenses_with_Gemini_and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14901_Track_and_analyze_Google_Sheets_expenses_with_Gemini_and_Gmail_alerts.json)|

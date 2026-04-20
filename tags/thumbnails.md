@@ -1,4 +1,4 @@
-# thumbnails : 6
+# thumbnails : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |10644|[10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json)|
 |12363|[12363_Generate_YouTube_thumbnails_via_Telegram_using_BrowserAct_and_Gemini__Nano_Banana_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12363_Generate_YouTube_thumbnails_via_Telegram_using_BrowserAct_and_Gemini__Nano_Banana_Pro.json)|
 |13889|[13889_Summarize_YouTube_videos_and_generate_thumbnails_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13889_Summarize_YouTube_videos_and_generate_thumbnails_using_Anthropic_and_deAPI.json)|
+|14255|[14255_Create_YouTube_SEO_metadata_and_thumbnails_from_Google_Drive_videos_with_Gemini__LemonFox_and_upload-post.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14255_Create_YouTube_SEO_metadata_and_thumbnails_from_Google_Drive_videos_with_Gemini__LemonFox_and_upload-post.json)|

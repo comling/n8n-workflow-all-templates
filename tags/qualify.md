@@ -1,4 +1,4 @@
-# qualify : 38
+# qualify : 46
 
 |id|file|
 |----|----|
@@ -40,3 +40,11 @@
 |13524|[13524_Qualify_Idealista_leads_via_WhatsApp_with_Superchat_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13524_Qualify_Idealista_leads_via_WhatsApp_with_Superchat_and_GPT-4o.json)|
 |13740|[13740_Route_and_qualify_email_leads_with_Gmail__Gemini__Slack__Sheets_and_Salesforce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13740_Route_and_qualify_email_leads_with_Gmail__Gemini__Slack__Sheets_and_Salesforce.json)|
 |13746|[13746_Qualify_and_score_leads_in_Airtable_with_OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13746_Qualify_and_score_leads_in_Airtable_with_OpenAI_and_Slack_alerts.json)|
+|13948|[13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json)|
+|14137|[14137_Qualify_real_estate_leads_from_Typeform_to_Airtable_with_Gemini_and_smart_email_routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14137_Qualify_real_estate_leads_from_Typeform_to_Airtable_with_Gemini_and_smart_email_routing.json)|
+|14169|[14169_Qualify_and_manage_voice_sales_calls_with_Claude__GPT-4o__Gemini__and_GoHighLevel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14169_Qualify_and_manage_voice_sales_calls_with_Claude__GPT-4o__Gemini__and_GoHighLevel.json)|
+|14198|[14198_Qualify_lead_lists_and_find_professional_emails_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14198_Qualify_lead_lists_and_find_professional_emails_with_OpenAI_and_Google_Sheets.json)|
+|14366|[14366_Generate_and_qualify_local_business_leads_using_Google_Sheets__RapidAPI_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14366_Generate_and_qualify_local_business_leads_using_Google_Sheets__RapidAPI_and_OpenAI.json)|
+|14836|[14836_Qualify_and_route_inbound_leads_with_Claude__Gmail__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14836_Qualify_and_route_inbound_leads_with_Claude__Gmail__Slack_and_Google_Sheets.json)|
+|14859|[14859_Scrape_and_qualify_HR_job_leads_with_Apify__Google_Sheets_and_OpenAI_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14859_Scrape_and_qualify_HR_job_leads_with_Apify__Google_Sheets_and_OpenAI_GPT-4o-mini.json)|
+|15028|[15028_Qualify_and_route_inbound_leads_with_OpenAI__Trello__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15028_Qualify_and_route_inbound_leads_with_OpenAI__Trello__Slack_and_Gmail.json)|

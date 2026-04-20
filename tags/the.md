@@ -1,4 +1,4 @@
-# the : 192
+# the : 197
 
 |id|file|
 |----|----|
@@ -194,3 +194,8 @@
 |13670|[13670_Search_for_people_on_LinkedIn_using_the_TexAU_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13670_Search_for_people_on_LinkedIn_using_the_TexAU_API.json)|
 |13764|[13764_Notify_new_BOAMP_IT_tenders_to_a_Slack_channel_with_the_BOAMP_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13764_Notify_new_BOAMP_IT_tenders_to_a_Slack_channel_with_the_BOAMP_API.json)|
 |13793|[13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json)|
+|13987|[13987_Manage_invoices_and_contacts_via_chat_with_the_Fakturoid_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13987_Manage_invoices_and_contacts_via_chat_with_the_Fakturoid_AI_agent.json)|
+|14167|[14167_Scrape__search_and_browse_the_web_with_a_Firecrawl_AI_agent_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14167_Scrape__search_and_browse_the_web_with_a_Firecrawl_AI_agent_webhook.json)|
+|14257|[14257_Track_AI_search_winners_and_uncover_topic_gaps_with_SE_Ranking_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14257_Track_AI_search_winners_and_uncover_topic_gaps_with_SE_Ranking_and_Google_Sheets.json)|
+|14454|[14454_Build_an_employee_training_video_knowledge_base_using_the_WayinVideo_summaries_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14454_Build_an_employee_training_video_knowledge_base_using_the_WayinVideo_summaries_API.json)|
+|14987|[14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json)|

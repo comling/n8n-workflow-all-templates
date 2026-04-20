@@ -1,4 +1,4 @@
-# olostep : 6
+# olostep : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |13435|[13435_Mine_user_complaints_and_generate_insight_reports_with_Olostep__Gemini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13435_Mine_user_complaints_and_generate_insight_reports_with_Olostep__Gemini_and_Google_Docs.json)|
 |13436|[13436_Crawl_documentation_sites_and_build_an_AI_knowledge_base_with_Olostep.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13436_Crawl_documentation_sites_and_build_an_AI_knowledge_base_with_Olostep.json)|
 |13437|[13437_Scrape_Skool_community_data_using_the_Olostep_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13437_Scrape_Skool_community_data_using_the_Olostep_API_and_Google_Sheets.json)|
+|14661|[14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json)|

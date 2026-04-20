@@ -1,4 +1,4 @@
-# branded : 10
+# branded : 13
 
 |id|file|
 |----|----|
@@ -12,3 +12,6 @@
 |9537|[9537_Create_Branded_Social_Media_Images_with_Bannerbear__Sync_Async_modes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9537_Create_Branded_Social_Media_Images_with_Bannerbear__Sync_Async_modes.json)|
 |10553|[10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json)|
 |11370|[11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json)|
+|14184|[14184_Generate_branded_PDF_reports_from_incoming_emails_using_Autype_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14184_Generate_branded_PDF_reports_from_incoming_emails_using_Autype_and_OpenRouter.json)|
+|14597|[14597_Post_branded_Instagram_testimonial_cards_from_Airtable_with_Bannerbear_and_uploadtourl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14597_Post_branded_Instagram_testimonial_cards_from_Airtable_with_Bannerbear_and_uploadtourl.json)|
+|14629|[14629_Create_branded_social_proof_Instagram_posts_from_Airtable_reviews_with_Bannerbear_and_UploadToURL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14629_Create_branded_social_proof_Instagram_posts_from_Airtable_reviews_with_Bannerbear_and_UploadToURL.json)|

@@ -1,4 +1,4 @@
-# odoo : 20
+# odoo : 26
 
 |id|file|
 |----|----|
@@ -22,3 +22,9 @@
 |12298|[12298_Notify_Redmine_project_members_in_Slack_about_teammates__approved_Odoo_leave.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12298_Notify_Redmine_project_members_in_Slack_about_teammates__approved_Odoo_leave.json)|
 |12641|[12641_Create_Bosta_shipping_orders_from_Odoo_invoices_using_OpenAI_GPT_models.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12641_Create_Bosta_shipping_orders_from_Odoo_invoices_using_OpenAI_GPT_models.json)|
 |13324|[13324_Sync_Gmail_sent_email_contacts_with_Odoo_mailing_lists.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13324_Sync_Gmail_sent_email_contacts_with_Odoo_mailing_lists.json)|
+|14496|[14496_Record_Odoo_accounting_entries_from_Telegram_using_ChatGPT__GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14496_Record_Odoo_accounting_entries_from_Telegram_using_ChatGPT__GPT-4o-mini.json)|
+|14573|[14573_Extract_invoice_data_from_PDF_with_Claude_AI_and_create_vendor_bill_in_Odoo_18.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14573_Extract_invoice_data_from_PDF_with_Claude_AI_and_create_vendor_bill_in_Odoo_18.json)|
+|14828|[14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json)|
+|14829|[14829_Send_10-day_post-purchase_WhatsApp_offers_with_Odoo__OpenAI_and_Evolution_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14829_Send_10-day_post-purchase_WhatsApp_offers_with_Odoo__OpenAI_and_Evolution_API.json)|
+|14899|[14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json)|
+|14928|[14928_Bulk_sync_products_from_Google_Sheets_to_Odoo_with_auto_image_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14928_Bulk_sync_products_from_Google_Sheets_to_Odoo_with_auto_image_upload.json)|

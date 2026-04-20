@@ -1,4 +1,4 @@
-# financial : 46
+# financial : 49
 
 |id|file|
 |----|----|
@@ -48,3 +48,6 @@
 |13141|[13141_Detect_financial_risk_and_orchestrate_compliance_with_GPT_4o__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13141_Detect_financial_risk_and_orchestrate_compliance_with_GPT_4o__Slack_and_email.json)|
 |13586|[13586_Monitor_supplier_financial_distress_and_risk_with_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13586_Monitor_supplier_financial_distress_and_risk_with_Bright_Data__OpenRouter_and_Google_Sheets.json)|
 |13725|[13725_Generate_monthly_AI_financial_reports_with_OpenAI_and_email_Slack_distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13725_Generate_monthly_AI_financial_reports_with_OpenAI_and_email_Slack_distribution.json)|
+|14172|[14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json)|
+|14297|[14297_Send_a_daily_stock_movers_and_news_email_digest_via_Google_Sheets__EODHD_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14297_Send_a_daily_stock_movers_and_news_email_digest_via_Google_Sheets__EODHD_and_Gmail.json)|
+|14546|[14546_Generate_Financial_Risk_Reports___from_ElevenLabs_interviews___using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14546_Generate_Financial_Risk_Reports___from_ElevenLabs_interviews___using_OpenAI.json)|

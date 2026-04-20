@@ -1,4 +1,4 @@
-# seedance : 9
+# seedance : 18
 
 |id|file|
 |----|----|
@@ -11,3 +11,12 @@
 |8428|[8428_Create_Viral_Ads_with_AI__NanoBanana___publish_on_socials_via_upload-post.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8428_Create_Viral_Ads_with_AI__NanoBanana___publish_on_socials_via_upload-post.json)|
 |10433|[10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json)|
 |12250|[12250_Generate_video_from_an_image_with_ByteDance_Seedance_1.5_Pro_via_KIE.AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12250_Generate_video_from_an_image_with_ByteDance_Seedance_1.5_Pro_via_KIE.AI.json)|
+|14387|[14387_Generate_clean_plates_and_automate_object_removal_with_Seedance_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14387_Generate_clean_plates_and_automate_object_removal_with_Seedance_AI.json)|
+|14388|[14388_Generate_multi-variation_FX_concept_clips_with_Seedance_AI__Google_Drive__Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14388_Generate_multi-variation_FX_concept_clips_with_Seedance_AI__Google_Drive__Notion_and_Slack.json)|
+|14389|[14389_Generate_AI_matte_painting_video_variations_with_Seedance_for_VFX_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14389_Generate_AI_matte_painting_video_variations_with_Seedance_for_VFX_review.json)|
+|14390|[14390_Generate_multi-pass_Seedance_AI_roto_mattes_with_QC_and_Nuke_handoff.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14390_Generate_multi-pass_Seedance_AI_roto_mattes_with_QC_and_Nuke_handoff.json)|
+|14391|[14391_Generate_AI_videos_from_prompts_with_Seedance__Jira__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14391_Generate_AI_videos_from_prompts_with_Seedance__Jira__Slack__and_Gmail.json)|
+|14881|[14881_Generate_Seedance_AI_lighting_look_dev_variations_with_review_via_Drive__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14881_Generate_Seedance_AI_lighting_look_dev_variations_with_review_via_Drive__Notion__and_Slack.json)|
+|14884|[14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json)|
+|14889|[14889_Generate_style-locked_Seedance_videos_with_an_automated_QC_pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14889_Generate_style-locked_Seedance_videos_with_an_automated_QC_pipeline.json)|
+|14891|[14891_Generate_AI_camera_moves_with_Seedance_and_build_a_previs_review_board.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14891_Generate_AI_camera_moves_with_Seedance_and_build_a_previs_review_board.json)|

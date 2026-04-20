@@ -1,4 +1,4 @@
-# scheduled : 36
+# scheduled : 38
 
 |id|file|
 |----|----|
@@ -38,3 +38,5 @@
 |13290|[13290_Monitor_scheduled_workflow_health_in_n8n_with_automatic_trigger_checks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13290_Monitor_scheduled_workflow_health_in_n8n_with_automatic_trigger_checks.json)|
 |13444|[13444_Run_weekly_WAF_security_audits_with_WAFtester_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13444_Run_weekly_WAF_security_audits_with_WAFtester_and_Slack_alerts.json)|
 |13737|[13737_Track_daily_Google_SERP_rankings_with_Decodo_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13737_Track_daily_Google_SERP_rankings_with_Decodo_and_Google_Sheets.json)|
+|14673|[14673_Send_scheduled_IELTS_grammar__writing_and_reading_practice_via_Telegram_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14673_Send_scheduled_IELTS_grammar__writing_and_reading_practice_via_Telegram_with_Gemini_AI.json)|
+|14745|[14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json)|

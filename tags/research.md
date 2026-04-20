@@ -1,4 +1,4 @@
-# research : 184
+# research : 191
 
 |id|file|
 |----|----|
@@ -186,3 +186,10 @@
 |13835|[13835_Generate_B2B_lead_magnet_articles_with_AI_deep_research_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13835_Generate_B2B_lead_magnet_articles_with_AI_deep_research_and_Google_Docs.json)|
 |13869|[13869_Generate_research_proposals_with_GPT-4o__web_search__and_quality_control_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13869_Generate_research_proposals_with_GPT-4o__web_search__and_quality_control_agents.json)|
 |13908|[13908_Generate_AI_market_research_reports_with_Perplexity__Claude__Google_Trends__and_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13908_Generate_AI_market_research_reports_with_Perplexity__Claude__Google_Trends__and_Autype.json)|
+|13937|[13937_Research_people_with_Perplexity_AI_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13937_Research_people_with_Perplexity_AI_and_log_results_to_Google_Sheets.json)|
+|13995|[13995_Generate_research-backed_curriculum_plans_with_GPT-4o__Perplexity_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13995_Generate_research-backed_curriculum_plans_with_GPT-4o__Perplexity_and_Google_Sheets.json)|
+|14000|[14000_Generate_research-backed_infographics_with_GPT-4__kie.ai__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14000_Generate_research-backed_infographics_with_GPT-4__kie.ai__and_Gmail.json)|
+|14053|[14053_Generate_Real_Estate_Research_Reports_With_Exa_AI__PandaDoc_and_Instantly_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14053_Generate_Real_Estate_Research_Reports_With_Exa_AI__PandaDoc_and_Instantly_AI.json)|
+|14405|[14405_Research_e-commerce_products_with_Firecrawl_and_AI_for_a_full_market_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14405_Research_e-commerce_products_with_Firecrawl_and_AI_for_a_full_market_report.json)|
+|14762|[14762_Generate_UK_M_A_research__pitch_decks_and_briefs_from_Slack_using_Anthropic_and_Google_Docs_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14762_Generate_UK_M_A_research__pitch_decks_and_briefs_from_Slack_using_Anthropic_and_Google_Docs_Slides.json)|
+|14986|[14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json)|

@@ -1,4 +1,4 @@
-# cards : 17
+# cards : 20
 
 |id|file|
 |----|----|
@@ -19,3 +19,6 @@
 |10771|[10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json)|
 |11658|[11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json)|
 |13388|[13388_Sync_Fizzy_cards_with_Basecamp_todos_in_real_time.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13388_Sync_Fizzy_cards_with_Basecamp_todos_in_real_time.json)|
+|14212|[14212_Scan_business_cards_from_LINE_with_Gemini_to_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14212_Scan_business_cards_from_LINE_with_Gemini_to_Sheets__Slack__and_Gmail.json)|
+|14597|[14597_Post_branded_Instagram_testimonial_cards_from_Airtable_with_Bannerbear_and_uploadtourl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14597_Post_branded_Instagram_testimonial_cards_from_Airtable_with_Bannerbear_and_uploadtourl.json)|
+|14661|[14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json)|

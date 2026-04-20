@@ -1,4 +1,4 @@
-# churn : 8
+# churn : 11
 
 |id|file|
 |----|----|
@@ -10,3 +10,6 @@
 |11977|[11977_Automate_customer_retention_with_AI_risk_prediction__Stripe_coupons___personalized_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11977_Automate_customer_retention_with_AI_risk_prediction__Stripe_coupons___personalized_Gmail.json)|
 |12038|[12038_Predict_tenant_churn_and_manage_retention_with_GPT-4__Gmail__Slack_and_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12038_Predict_tenant_churn_and_manage_retention_with_GPT-4__Gmail__Slack_and_your_CRM.json)|
 |13726|[13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json)|
+|13969|[13969_Score_churn_risk_and_send_retention_emails_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13969_Score_churn_risk_and_send_retention_emails_with_Google_Sheets_and_Gmail.json)|
+|14414|[14414_Segment_players_and_predict_churn_with_GPT-4o_and_reward_pricing_simulations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14414_Segment_players_and_predict_churn_with_GPT-4o_and_reward_pricing_simulations.json)|
+|14882|[14882_Detect_churn_risk_from_competitor_tech_adoption_using_PredictLeads_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14882_Detect_churn_risk_from_competitor_tech_adoption_using_PredictLeads_and_Gmail.json)|

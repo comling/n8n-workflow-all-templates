@@ -1,4 +1,4 @@
-# short : 20
+# short : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |13024|[13024_Create_and_publish_AI_avatar_short_videos_with_Gemini__HeyGen_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13024_Create_and_publish_AI_avatar_short_videos_with_Gemini__HeyGen_and_Google_Sheets.json)|
 |13040|[13040_Generate_short_joke_videos_from_Google_Sheets_with_Google_Gemini_and_Wavespeed_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13040_Generate_short_joke_videos_from_Google_Sheets_with_Google_Gemini_and_Wavespeed_AI.json)|
 |13089|[13089_Generate_AI_short-form_health_videos_with_Gemini__Veo_3_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13089_Generate_AI_short-form_health_videos_with_Gemini__Veo_3_and_Google_Sheets.json)|
+|14540|[14540_Repurpose_influencer_videos_into_short_clips_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14540_Repurpose_influencer_videos_into_short_clips_using_WayinVideo_AI_and_Google_Drive.json)|

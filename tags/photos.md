@@ -1,4 +1,4 @@
-# photos : 31
+# photos : 36
 
 |id|file|
 |----|----|
@@ -33,3 +33,8 @@
 |13531|[13531_Extract_order_details_from_LINE_messages_and_photos_to_Google_Sheets_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13531_Extract_order_details_from_LINE_messages_and_photos_to_Google_Sheets_with_OpenAI.json)|
 |13654|[13654_Scan_WhatsApp_receipt_photos_and_track_expenses_using_Wati_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13654_Scan_WhatsApp_receipt_photos_and_track_expenses_using_Wati_and_GPT-4o.json)|
 |13804|[13804_Generate_AI_product_marketing_photos_from_Google_Sheets_with_Google_Gemini_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13804_Generate_AI_product_marketing_photos_from_Google_Sheets_with_Google_Gemini_and_Drive.json)|
+|13928|[13928_Generate_360__product_videos_from_photos_with_Veo_3_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13928_Generate_360__product_videos_from_photos_with_Veo_3_and_Telegram.json)|
+|14061|[14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json)|
+|14201|[14201_Generate_product_photos_and_videos_from_a_reference_image_with_OpenAI_and_RunwayML.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14201_Generate_product_photos_and_videos_from_a_reference_image_with_OpenAI_and_RunwayML.json)|
+|14210|[14210_Log_LINE_invoice_photos_to_Google_Sheets_with_OCR.space_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14210_Log_LINE_invoice_photos_to_Google_Sheets_with_OCR.space_and_Gemini_AI.json)|
+|15015|[15015_Search_your_travel_memories_with_Gmail__Google_Photos__GPT-4_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15015_Search_your_travel_memories_with_Gmail__Google_Photos__GPT-4_and_Claude.json)|

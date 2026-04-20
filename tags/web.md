@@ -1,4 +1,4 @@
-# web : 119
+# web : 125
 
 |id|file|
 |----|----|
@@ -121,3 +121,9 @@
 |13608|[13608_Research_web_topics_and_email_a_Claude_report_via_Gmail_using_SerpApi__Jina.ai_and_Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13608_Research_web_topics_and_email_a_Claude_report_via_Gmail_using_SerpApi__Jina.ai_and_Firecrawl.json)|
 |13805|[13805_Generate_business_research_reports_with_Claude__web_search_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13805_Generate_business_research_reports_with_Claude__web_search_and_Google_Drive.json)|
 |13869|[13869_Generate_research_proposals_with_GPT-4o__web_search__and_quality_control_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13869_Generate_research_proposals_with_GPT-4o__web_search__and_quality_control_agents.json)|
+|13964|[13964_Scrape_and_ingest_web_pages_into_a_Pinecone_RAG_stack_with_Firecrawl_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13964_Scrape_and_ingest_web_pages_into_a_Pinecone_RAG_stack_with_Firecrawl_and_OpenAI.json)|
+|14167|[14167_Scrape__search_and_browse_the_web_with_a_Firecrawl_AI_agent_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14167_Scrape__search_and_browse_the_web_with_a_Firecrawl_AI_agent_webhook.json)|
+|14314|[14314_Classify_documents_with_easybits_Extractor_via_web_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14314_Classify_documents_with_easybits_Extractor_via_web_form.json)|
+|14537|[14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json)|
+|14841|[14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json)|
+|14854|[14854_Publish_daily_gaming_guides_from_Reddit_using_Google_Gemini_to_your_web_app.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14854_Publish_daily_gaming_guides_from_Reddit_using_Google_Gemini_to_your_web_app.json)|

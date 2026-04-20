@@ -1,4 +1,4 @@
-# enrich : 93
+# enrich : 102
 
 |id|file|
 |----|----|
@@ -95,3 +95,12 @@
 |13793|[13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json)|
 |13842|[13842_Enrich_event_registrations_with_HubSpot__Clearbit__LinkedIn_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13842_Enrich_event_registrations_with_HubSpot__Clearbit__LinkedIn_and_Gemini_AI.json)|
 |13854|[13854_Enrich_leads_from_Google_Sheets_with_ScraperCity_emails__phones__and_validation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13854_Enrich_leads_from_Google_Sheets_with_ScraperCity_emails__phones__and_validation.json)|
+|14084|[14084_Generate_and_enrich_local_business_leads_with_Decodo__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14084_Generate_and_enrich_local_business_leads_with_Decodo__OpenAI_and_Gmail.json)|
+|14097|[14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json)|
+|14103|[14103_Score_and_enrich_lookalike_companies_with_PredictLeads__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14103_Score_and_enrich_lookalike_companies_with_PredictLeads__Google_Sheets_and_Slack.json)|
+|14179|[14179_Enrich_people_skip-trace_results_from_n8n_forms_with_ScraperCity_into_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14179_Enrich_people_skip-trace_results_from_n8n_forms_with_ScraperCity_into_Notion.json)|
+|14205|[14205_Enrich_Google_Sheets_rows_via_any_REST_API_in_rate-limited_batches.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14205_Enrich_Google_Sheets_rows_via_any_REST_API_in_rate-limited_batches.json)|
+|14396|[14396_Generate_and_enrich_Google_Maps_B2B_leads_with_SDR-ready_data_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14396_Generate_and_enrich_Google_Maps_B2B_leads_with_SDR-ready_data_in_Google_Sheets.json)|
+|14453|[14453_Enrich_domain_URLs_with_Hunter.io_and_export_contacts_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14453_Enrich_domain_URLs_with_Hunter.io_and_export_contacts_to_Google_Sheets.json)|
+|14687|[14687_Capture_and_enrich_leads_with_GPT-4o__Postgres__Slack__Gmail_and_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14687_Capture_and_enrich_leads_with_GPT-4o__Postgres__Slack__Gmail_and_your_CRM.json)|
+|14846|[14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json)|

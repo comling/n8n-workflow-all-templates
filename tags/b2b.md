@@ -1,4 +1,4 @@
-# b2b : 43
+# b2b : 45
 
 |id|file|
 |----|----|
@@ -45,3 +45,5 @@
 |13582|[13582_Enrich_B2B_Google_Maps_leads_with_Apify__Jina_AI__GPT-5.2_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13582_Enrich_B2B_Google_Maps_leads_with_Apify__Jina_AI__GPT-5.2_and_Google_Sheets.json)|
 |13763|[13763_Score_B2B_leads_with_OpenAI_from_webhook_or_form_submissions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13763_Score_B2B_leads_with_OpenAI_from_webhook_or_form_submissions.json)|
 |13835|[13835_Generate_B2B_lead_magnet_articles_with_AI_deep_research_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13835_Generate_B2B_lead_magnet_articles_with_AI_deep_research_and_Google_Docs.json)|
+|14141|[14141_Scrape_B2B_leads_from_Apollo__generate_Groq_AI_emails__and_send_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14141_Scrape_B2B_leads_from_Apollo__generate_Groq_AI_emails__and_send_via_Gmail.json)|
+|14396|[14396_Generate_and_enrich_Google_Maps_B2B_leads_with_SDR-ready_data_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14396_Generate_and_enrich_Google_Maps_B2B_leads_with_SDR-ready_data_in_Google_Sheets.json)|

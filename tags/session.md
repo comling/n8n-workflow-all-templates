@@ -1,4 +1,4 @@
-# session : 7
+# session : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |6324|[6324_Create___Send_Client_Session_Summaries_from_Zoom_Meetings_via_Gmail_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6324_Create___Send_Client_Session_Summaries_from_Zoom_Meetings_via_Gmail_and_Airtable.json)|
 |10221|[10221_Generate_Event_Speaker_Recommendations_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10221_Generate_Event_Speaker_Recommendations_with_Claude_AI_and_Google_Sheets.json)|
 |13714|[13714_Track_athlete_sessions_and_weekly_performance_with_OpenAI__Google_Sheets__Slack__and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13714_Track_athlete_sessions_and_weekly_performance_with_OpenAI__Google_Sheets__Slack__and_email.json)|
+|14708|[14708_Send_post-event_session_digest_emails_with_WayinVideo__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14708_Send_post-event_session_digest_emails_with_WayinVideo__OpenAI_and_Gmail.json)|

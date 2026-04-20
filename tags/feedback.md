@@ -1,4 +1,4 @@
-# feedback : 75
+# feedback : 76
 
 |id|file|
 |----|----|
@@ -77,3 +77,4 @@
 |13314|[13314_Route_and_analyze_customer_feedback_with_Qwen3-VL__Tally__PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13314_Route_and_analyze_customer_feedback_with_Qwen3-VL__Tally__PostgreSQL.json)|
 |13563|[13563_Review_GitHub_pull_requests_with_Gemini_and_post_feedback_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13563_Review_GitHub_pull_requests_with_Gemini_and_post_feedback_automatically.json)|
 |13772|[13772_Analyze_Google_Forms_feedback_with_Gemini_AI_and_send_weekly_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13772_Analyze_Google_Forms_feedback_with_Gemini_AI_and_send_weekly_reports.json)|
+|13978|[13978_Improve_AI_support_email_drafts_with_Gmail__OpenAI_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13978_Improve_AI_support_email_drafts_with_Gmail__OpenAI_and_PostgreSQL.json)|

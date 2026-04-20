@@ -1,4 +1,4 @@
-# screener : 4
+# screener : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |4055|[4055_AI_Talent_Screener___CV_Parser__Job_Fit_Evaluator___Email_Notifier.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4055_AI_Talent_Screener___CV_Parser__Job_Fit_Evaluator___Email_Notifier.json)|
 |12014|[12014_Automate_job_search___resume_matching_with_LinkedIn__Gemini_AI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12014_Automate_job_search___resume_matching_with_LinkedIn__Gemini_AI___Google_Sheets.json)|
 |13507|[13507_Match_job_descriptions_with_resumes_using_Google_Gemini_and_log_scores_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13507_Match_job_descriptions_with_resumes_using_Google_Gemini_and_log_scores_to_Google_Sheets.json)|
+|14856|[14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json)|

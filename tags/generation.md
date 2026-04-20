@@ -1,4 +1,4 @@
-# generation : 219
+# generation : 224
 
 |id|file|
 |----|----|
@@ -221,3 +221,8 @@
 |13303|[13303_Generate_product_and_marketing_images_using_Riverflow_2.0_on_Replicate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13303_Generate_product_and_marketing_images_using_Riverflow_2.0_on_Replicate.json)|
 |13513|[13513_Generate_Google_Maps_leads_with_AI_enrichment__social_discovery_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13513_Generate_Google_Maps_leads_with_AI_enrichment__social_discovery_and_Google_Sheets.json)|
 |13542|[13542_Music_Producer_Chatbot____using_Gemini___Suno__via_Kei_AI____Google_Drive_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13542_Music_Producer_Chatbot____using_Gemini___Suno__via_Kei_AI____Google_Drive_Upload.json)|
+|14053|[14053_Generate_Real_Estate_Research_Reports_With_Exa_AI__PandaDoc_and_Instantly_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14053_Generate_Real_Estate_Research_Reports_With_Exa_AI__PandaDoc_and_Instantly_AI.json)|
+|14134|[14134_Generate_real-estate_marketing_images_and_videos_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14134_Generate_real-estate_marketing_images_and_videos_with_OpenAI_and_Google_Drive.json)|
+|14266|[14266_Generate_AI_UGC_videos_with_HeyGen_and_post_to_Instagram_and_Facebook_daily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14266_Generate_AI_UGC_videos_with_HeyGen_and_post_to_Instagram_and_Facebook_daily.json)|
+|14859|[14859_Scrape_and_qualify_HR_job_leads_with_Apify__Google_Sheets_and_OpenAI_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14859_Scrape_and_qualify_HR_job_leads_with_Apify__Google_Sheets_and_OpenAI_GPT-4o-mini.json)|
+|14884|[14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json)|

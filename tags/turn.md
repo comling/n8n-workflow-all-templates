@@ -1,4 +1,4 @@
-# turn : 45
+# turn : 53
 
 |id|file|
 |----|----|
@@ -47,3 +47,11 @@
 |13798|[13798_Turn_websites_into_a_Google_Sheets_database_with_MrScraper_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13798_Turn_websites_into_a_Google_Sheets_database_with_MrScraper_and_Gmail.json)|
 |13802|[13802_Turn_your_website_docs_into_a_GPT-4.1-mini_support_chatbot_with_MrScraper_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13802_Turn_your_website_docs_into_a_GPT-4.1-mini_support_chatbot_with_MrScraper_and_Pinecone.json)|
 |13919|[13919_Turn_YouTube_meeting_recordings_into_Notion_notes_with_Claude__deAPI__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13919_Turn_YouTube_meeting_recordings_into_Notion_notes_with_Claude__deAPI__and_Slack_alerts.json)|
+|13959|[13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json)|
+|14009|[14009_Find_leads_from_LinkedIn_posts_using_Airtop_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14009_Find_leads_from_LinkedIn_posts_using_Airtop_agents.json)|
+|14070|[14070_Turn_new_Jira_tickets_into_CloudCLI_AI_coding_sessions_with_Claude_Code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14070_Turn_new_Jira_tickets_into_CloudCLI_AI_coding_sessions_with_Claude_Code.json)|
+|14574|[14574_Turn_book_PDFs_into_audio_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14574_Turn_book_PDFs_into_audio_with_OpenAI_and_Google_Drive.json)|
+|14684|[14684_Turn_support_tickets_into_developer_insights_with_OpenAI__Postgres__Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14684_Turn_support_tickets_into_developer_insights_with_OpenAI__Postgres__Slack_and_Jira.json)|
+|14715|[14715_Turn_podcast_and_video_URLs_into_blogs_and_social_content_using_WayinVideo_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14715_Turn_podcast_and_video_URLs_into_blogs_and_social_content_using_WayinVideo_and_OpenAI.json)|
+|14825|[14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json)|
+|14973|[14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json)|

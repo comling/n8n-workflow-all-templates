@@ -1,4 +1,4 @@
-# triage : 46
+# triage : 57
 
 |id|file|
 |----|----|
@@ -48,3 +48,14 @@
 |13520|[13520_Automate_patient_intake_and_AI_risk_triage_with_Azure_OpenAI__Google__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13520_Automate_patient_intake_and_AI_risk_triage_with_Azure_OpenAI__Google__and_Slack.json)|
 |13874|[13874_Triage_GitHub_issues_with_Gemini_AI__auto-label_them__and_send_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13874_Triage_GitHub_issues_with_Gemini_AI__auto-label_them__and_send_Slack_alerts.json)|
 |13916|[13916_Triage_and_escalate_ethics_disclosures_with_GPT-4o__policy_API_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13916_Triage_and_escalate_ethics_disclosures_with_GPT-4o__policy_API_and_Slack.json)|
+|13940|[13940_Triage_and_reply_to_multilingual_support_tickets_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13940_Triage_and_reply_to_multilingual_support_tickets_with_Anthropic_Claude.json)|
+|13960|[13960_Triage_and_schedule_healthcare_appointments_with_Azure_OpenAI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13960_Triage_and_schedule_healthcare_appointments_with_Azure_OpenAI__Google_Sheets_and_Gmail.json)|
+|14237|[14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json)|
+|14292|[14292_Triage_and_escalate_tenant_complaints_from_Gmail_or_forms_to_Slack_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14292_Triage_and_escalate_tenant_complaints_from_Gmail_or_forms_to_Slack_with_Claude_AI.json)|
+|14425|[14425_Triage_fleet_telemetry_and_route_safety_compliance_with_GPT-4o__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14425_Triage_fleet_telemetry_and_route_safety_compliance_with_GPT-4o__Gmail_and_Sheets.json)|
+|14553|[14553_Triage_video_bug_support_tickets_using_WayinVideo_and_GPT-4o-mini_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14553_Triage_video_bug_support_tickets_using_WayinVideo_and_GPT-4o-mini_to_Google_Sheets.json)|
+|14593|[14593_Triage_contact_form_enquiries_with_GPT-4.1__Gmail__Telegram_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14593_Triage_contact_form_enquiries_with_GPT-4.1__Gmail__Telegram_and_Data_Tables.json)|
+|14826|[14826_Route_and_triage_support_tickets_with_Claude_Sonnet_and_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14826_Route_and_triage_support_tickets_with_Claude_Sonnet_and_your_CRM.json)|
+|14852|[14852_Triage_Gmail_inbox__draft_replies__and_alert_urgent_emails_with_Claude_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14852_Triage_Gmail_inbox__draft_replies__and_alert_urgent_emails_with_Claude_and_Slack.json)|
+|14966|[14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json)|
+|14967|[14967_Triage_customer_complaint_emails_from_Gmail_with_GPT-4o-mini__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14967_Triage_customer_complaint_emails_from_Gmail_with_GPT-4o-mini__Slack_and_Sheets.json)|

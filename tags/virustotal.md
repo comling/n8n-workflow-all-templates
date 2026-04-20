@@ -1,4 +1,4 @@
-# virustotal : 11
+# virustotal : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |13448|[13448_Check_phishing_URL_reputation_with_VirusTotal_and_log_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13448_Check_phishing_URL_reputation_with_VirusTotal_and_log_to_Google_Sheets.json)|
 |13581|[13581_Scan_Gmail_links_with_VirusTotal_and_send_alerts_to_WhatsApp__Teams__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13581_Scan_Gmail_links_with_VirusTotal_and_send_alerts_to_WhatsApp__Teams__and_Sheets.json)|
 |13656|[13656_Analyze_domain_threats_via_Telegram_with_VirusTotal__AbuseCH__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13656_Analyze_domain_threats_via_Telegram_with_VirusTotal__AbuseCH__and_Gemini_AI.json)|
+|14127|[14127_Score_DNS_threats_with_VirusTotal__Abuse.ch__HashiCorp_Vault_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14127_Score_DNS_threats_with_VirusTotal__Abuse.ch__HashiCorp_Vault_and_Gemini.json)|

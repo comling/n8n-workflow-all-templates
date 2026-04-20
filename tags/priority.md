@@ -1,4 +1,4 @@
-# priority : 5
+# priority : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |8240|[8240_Qualify_High-Budget_Leads__Typeform_to_HubSpot__Google_Sheets___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8240_Qualify_High-Budget_Leads__Typeform_to_HubSpot__Google_Sheets___Slack_Alerts.json)|
 |9345|[9345_Automate_Lead_Ranking___Task_Creation_with_Google_Sheets___ClickUp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9345_Automate_Lead_Ranking___Task_Creation_with_Google_Sheets___ClickUp.json)|
 |11526|[11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json)|
+|14113|[14113_Rerank_PM_priorities_every_2_hours_using_OpenAI__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14113_Rerank_PM_priorities_every_2_hours_using_OpenAI__Notion__and_Slack.json)|

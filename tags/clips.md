@@ -1,4 +1,4 @@
-# clips : 17
+# clips : 24
 
 |id|file|
 |----|----|
@@ -19,3 +19,10 @@
 |12829|[12829_Generate_AI_video_clips_from_YouTube_automatically_with_Reka_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12829_Generate_AI_video_clips_from_YouTube_automatically_with_Reka_Vision.json)|
 |12926|[12926_Generate_AI_video_clips_from_YouTube_using_Reka_Vision_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12926_Generate_AI_video_clips_from_YouTube_using_Reka_Vision_API_and_Gmail.json)|
 |13169|[13169_Extract_YouTube_video_clips_with_Claude_and_Apify_from_natural_language_prompts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13169_Extract_YouTube_video_clips_with_Claude_and_Apify_from_natural_language_prompts.json)|
+|14031|[14031_Generate_TikTok_and_Instagram_reel_clips_from_YouTube_videos_with_Vizard_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14031_Generate_TikTok_and_Instagram_reel_clips_from_YouTube_videos_with_Vizard_AI.json)|
+|14388|[14388_Generate_multi-variation_FX_concept_clips_with_Seedance_AI__Google_Drive__Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14388_Generate_multi-variation_FX_concept_clips_with_Seedance_AI__Google_Drive__Notion_and_Slack.json)|
+|14407|[14407_Generate_YouTube_shorts_using_WayinVideo_AI_and_upload_clips_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14407_Generate_YouTube_shorts_using_WayinVideo_AI_and_upload_clips_to_Google_Drive.json)|
+|14540|[14540_Repurpose_influencer_videos_into_short_clips_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14540_Repurpose_influencer_videos_into_short_clips_using_WayinVideo_AI_and_Google_Drive.json)|
+|14614|[14614_Create_lead_nurture_video_clips_from_webinar_recordings_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14614_Create_lead_nurture_video_clips_from_webinar_recordings_using_WayinVideo_AI_and_Google_Drive.json)|
+|14641|[14641_Extract_customer_testimonial_clips_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14641_Extract_customer_testimonial_clips_using_WayinVideo_AI_and_Google_Drive.json)|
+|14707|[14707_Generate_multilingual_AI_video_clips_using_WayinVideo_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14707_Generate_multilingual_AI_video_clips_using_WayinVideo_and_Google_Drive.json)|

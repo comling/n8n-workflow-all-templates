@@ -1,4 +1,4 @@
-# articles : 62
+# articles : 66
 
 |id|file|
 |----|----|
@@ -64,3 +64,7 @@
 |13334|[13334_Repurpose_blog_articles_into_social_media_posts_with_Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13334_Repurpose_blog_articles_into_social_media_posts_with_Google_Gemini_AI.json)|
 |13383|[13383_Generate_SEO_articles_from_search_queries_to_WordPress_with_BrowserAct_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13383_Generate_SEO_articles_from_search_queries_to_WordPress_with_BrowserAct_and_OpenRouter.json)|
 |13835|[13835_Generate_B2B_lead_magnet_articles_with_AI_deep_research_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13835_Generate_B2B_lead_magnet_articles_with_AI_deep_research_and_Google_Docs.json)|
+|14704|[14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json)|
+|14841|[14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json)|
+|14970|[14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json)|
+|14980|[14980_Summarize_Japanese_AI_engineering_articles_from_Qiita_and_note_RSS_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14980_Summarize_Japanese_AI_engineering_articles_from_Qiita_and_note_RSS_to_Slack.json)|

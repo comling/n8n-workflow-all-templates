@@ -1,4 +1,4 @@
-# matrix : 9
+# matrix : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |11404|[11404_Track_Software_Vulnerability_Patents_with_ScrapeGraphAI__Matrix__and_Intercom.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11404_Track_Software_Vulnerability_Patents_with_ScrapeGraphAI__Matrix__and_Intercom.json)|
 |11722|[11722_Healthcare_Policy_Monitoring_with_ScrapeGraphAI__Pipedrive_and_Matrix_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11722_Healthcare_Policy_Monitoring_with_ScrapeGraphAI__Pipedrive_and_Matrix_Alerts.json)|
 |13116|[13116_Score_and_route_qualified_leads_to_Notion_and_Matrix.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13116_Score_and_route_qualified_leads_to_Notion_and_Matrix.json)|
+|13943|[13943_Manage_Claude_Code_sessions_from_Matrix_with_YouTrack_and_GitLab.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13943_Manage_Claude_Code_sessions_from_Matrix_with_YouTrack_and_GitLab.json)|

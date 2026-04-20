@@ -1,4 +1,4 @@
-# sales : 153
+# sales : 165
 
 |id|file|
 |----|----|
@@ -155,3 +155,15 @@
 |13746|[13746_Qualify_and_score_leads_in_Airtable_with_OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13746_Qualify_and_score_leads_in_Airtable_with_OpenAI_and_Slack_alerts.json)|
 |13829|[13829_Sync_Shopify_and_WooCommerce_sales_into_a_Google_Sheets_accounting_ledger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13829_Sync_Shopify_and_WooCommerce_sales_into_a_Google_Sheets_accounting_ledger.json)|
 |13840|[13840_Analyze_WooCommerce_category_sales_over_time_with_Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13840_Analyze_WooCommerce_category_sales_over_time_with_Airtable_and_Slack.json)|
+|13982|[13982_Forecast_sales_trends_and_weekly_reports_with_Stripe__Sheets__Slack__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13982_Forecast_sales_trends_and_weekly_reports_with_Stripe__Sheets__Slack__and_Gemini_AI.json)|
+|14016|[14016_Analyze_sales_calls_with_GPT-4__Supabase_RAG__Slack_and_multi-CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14016_Analyze_sales_calls_with_GPT-4__Supabase_RAG__Slack_and_multi-CRM.json)|
+|14169|[14169_Qualify_and_manage_voice_sales_calls_with_Claude__GPT-4o__Gemini__and_GoHighLevel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14169_Qualify_and_manage_voice_sales_calls_with_Claude__GPT-4o__Gemini__and_GoHighLevel.json)|
+|14312|[14312_Create_and_send_AI_sales_proposals_using_Gemini__Google_Docs___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14312_Create_and_send_AI_sales_proposals_using_Gemini__Google_Docs___Gmail.json)|
+|14383|[14383_Find_mobile_numbers_with_ScraperCity_from_LinkedIn_and_notify_sales_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14383_Find_mobile_numbers_with_ScraperCity_from_LinkedIn_and_notify_sales_in_Slack.json)|
+|14563|[14563_Generate_weekly_sales_insights_with_Google_Sheets__Gemini_AI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14563_Generate_weekly_sales_insights_with_Google_Sheets__Gemini_AI_and_Gmail.json)|
+|14588|[14588_Summarize_sales_calls_and_update_CRM_using_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14588_Summarize_sales_calls_and_update_CRM_using_WayinVideo_and_GPT-4o-mini.json)|
+|14661|[14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json)|
+|14799|[14799_Analyze_sales_calls_with_Whisper_transcription__GPT-4o__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14799_Analyze_sales_calls_with_Whisper_transcription__GPT-4o__Airtable_and_Slack.json)|
+|14828|[14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json)|
+|14986|[14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json)|
+|15013|[15013_Analyze_weekly_Fireflies_sales_calls_with_GPT-4o-mini__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15013_Analyze_weekly_Fireflies_sales_calls_with_GPT-4o-mini__Google_Sheets_and_Slack.json)|

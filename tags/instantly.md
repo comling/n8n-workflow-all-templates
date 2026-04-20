@@ -1,4 +1,4 @@
-# instantly : 17
+# instantly : 21
 
 |id|file|
 |----|----|
@@ -19,3 +19,7 @@
 |11647|[11647_Automated_LinkedIn_Lead_Generation___AI_Personalized_Outreach_with_Apollo___Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11647_Automated_LinkedIn_Lead_Generation___AI_Personalized_Outreach_with_Apollo___Instantly.json)|
 |13635|[13635_List_properties_instantly_with_UploadToURL__OpenAI_Vision__WordPress_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13635_List_properties_instantly_with_UploadToURL__OpenAI_Vision__WordPress_and_Airtable.json)|
 |13644|[13644_Score_and_route_new_trial_leads_with_Firecrawl__Scrapin.io__OpenAI__Slack_and_Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13644_Score_and_route_new_trial_leads_with_Firecrawl__Scrapin.io__OpenAI__Slack_and_Instantly.json)|
+|14053|[14053_Generate_Real_Estate_Research_Reports_With_Exa_AI__PandaDoc_and_Instantly_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14053_Generate_Real_Estate_Research_Reports_With_Exa_AI__PandaDoc_and_Instantly_AI.json)|
+|14211|[14211_Optimize_Cold_Email_Copy_with_Claude__Instantly__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14211_Optimize_Cold_Email_Copy_with_Claude__Instantly__and_Google_Sheets.json)|
+|14220|[14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json)|
+|14622|[14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json)|

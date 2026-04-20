@@ -1,4 +1,4 @@
-# media : 175
+# media : 181
 
 |id|file|
 |----|----|
@@ -177,3 +177,9 @@
 |13605|[13605_Create_AI_social_media_carousels_from_Google_Sheet_and_auto-publish_with_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13605_Create_AI_social_media_carousels_from_Google_Sheet_and_auto-publish_with_Blotato.json)|
 |13648|[13648_Generate_social_media_posts_with_GPT-4_for_LinkedIn__X__and_Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13648_Generate_social_media_posts_with_GPT-4_for_LinkedIn__X__and_Facebook.json)|
 |13767|[13767_Automated_NASA_Image___Content_Publisher_for_WordPress_and_Multi-Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13767_Automated_NASA_Image___Content_Publisher_for_WordPress_and_Multi-Social_Media.json)|
+|13952|[13952_Create_viral_social_posts_with_Airtable__Claude__Flux__and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13952_Create_viral_social_posts_with_Airtable__Claude__Flux__and_PostPulse.json)|
+|14007|[14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json)|
+|14024|[14024_Publish_a_social_media_post_with_Swonkie.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14024_Publish_a_social_media_post_with_Swonkie.json)|
+|14080|[14080_Repurpose_long-form_content_into_Instagram_and_LinkedIn_posts_with_OpenAI_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14080_Repurpose_long-form_content_into_Instagram_and_LinkedIn_posts_with_OpenAI_and_Teams.json)|
+|15001|[15001_Auto-post_Facebook_and_Instagram_content_with_OpenAI__Google_Sheets_and_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15001_Auto-post_Facebook_and_Instagram_content_with_OpenAI__Google_Sheets_and_review.json)|
+|15017|[15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json)|

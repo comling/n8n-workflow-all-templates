@@ -1,4 +1,4 @@
-# notify : 48
+# notify : 53
 
 |id|file|
 |----|----|
@@ -50,3 +50,8 @@
 |13712|[13712_Review_and_approve_Google_Sheets_orders_by_email_and_notify_via_LINE.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13712_Review_and_approve_Google_Sheets_orders_by_email_and_notify_via_LINE.json)|
 |13726|[13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json)|
 |13764|[13764_Notify_new_BOAMP_IT_tenders_to_a_Slack_channel_with_the_BOAMP_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13764_Notify_new_BOAMP_IT_tenders_to_a_Slack_channel_with_the_BOAMP_API.json)|
+|14005|[14005_Archive_Outlook_email_attachments_to_DATEV_DMS_and_notify_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14005_Archive_Outlook_email_attachments_to_DATEV_DMS_and_notify_Slack.json)|
+|14098|[14098_Detect_competitor_tech_adoption_and_notify_AEs_with_PredictLeads__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14098_Detect_competitor_tech_adoption_and_notify_AEs_with_PredictLeads__Sheets_and_Gmail.json)|
+|14220|[14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json)|
+|14383|[14383_Find_mobile_numbers_with_ScraperCity_from_LinkedIn_and_notify_sales_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14383_Find_mobile_numbers_with_ScraperCity_from_LinkedIn_and_notify_sales_in_Slack.json)|
+|14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|

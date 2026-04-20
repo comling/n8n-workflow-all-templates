@@ -1,4 +1,4 @@
-# csv : 50
+# csv : 55
 
 |id|file|
 |----|----|
@@ -52,3 +52,8 @@
 |13575|[13575_Chat_with_PDF__CSV__and_JSON_documents_using_Google_Gemini_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13575_Chat_with_PDF__CSV__and_JSON_documents_using_Google_Gemini_RAG.json)|
 |13642|[13642_Send_WhatsApp_bulk_template_messages_from_Google_Sheets_or_CSV_via_WOZTELL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13642_Send_WhatsApp_bulk_template_messages_from_Google_Sheets_or_CSV_via_WOZTELL.json)|
 |13797|[13797_Monitor_Realtor_listings_and_export_CSV_XLSX_with_MrScraper_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13797_Monitor_Realtor_listings_and_export_CSV_XLSX_with_MrScraper_and_Gmail.json)|
+|13999|[13999_Validate_JSON_and_CSV_import_data_via_webhook_with_configurable_rules.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13999_Validate_JSON_and_CSV_import_data_via_webhook_with_configurable_rules.json)|
+|14068|[14068_Track_student_attendance_from_CSV__email_parents__and_build_an_HTML_dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14068_Track_student_attendance_from_CSV__email_parents__and_build_an_HTML_dashboard.json)|
+|14273|[14273_Normalize_and_validate_CSV_data_with_Anthropic_OpenAI__Postgres__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14273_Normalize_and_validate_CSV_data_with_Anthropic_OpenAI__Postgres__Slack_and_Sheets.json)|
+|14317|[14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json)|
+|14319|[14319_Convert_CSV_XLSX_files_into_a_normalized_SQL_schema_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14319_Convert_CSV_XLSX_files_into_a_normalized_SQL_schema_with_GPT-4.json)|

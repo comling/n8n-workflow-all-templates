@@ -1,4 +1,4 @@
-# issue : 14
+# issue : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |8813|[8813_Automated_Slack-to-Jira_Issue_Creation_with_Attachments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8813_Automated_Slack-to-Jira_Issue_Creation_with_Attachments.json)|
 |8845|[8845_Automatic_Issue_Routing_in_Linear_with_GPT-4-mini_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8845_Automatic_Issue_Routing_in_Linear_with_GPT-4-mini_Classification.json)|
 |9088|[9088_GitHub_Bounty_Issue_Tracker___Alert_System__Google_Sheets___Email_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9088_GitHub_Bounty_Issue_Tracker___Alert_System__Google_Sheets___Email_WhatsApp.json)|
+|14061|[14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json)|

@@ -1,4 +1,4 @@
-# postiz : 12
+# postiz : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |10175|[10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json)|
 |12318|[12318_Generate_and_schedule_themed_social_posts_with_Notion__OpenAI__Fal.ai_and_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12318_Generate_and_schedule_themed_social_posts_with_Notion__OpenAI__Fal.ai_and_Postiz.json)|
 |13895|[13895_Automated_AI_Long_Video_Creator_______Multi-Platform_Upload_via_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13895_Automated_AI_Long_Video_Creator_______Multi-Platform_Upload_via_Postiz.json)|
+|14890|[14890_Create_AI_Instagram_brand_posts_with_Seedream_4.0__OpenAI_and_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14890_Create_AI_Instagram_brand_posts_with_Seedream_4.0__OpenAI_and_Postiz.json)|

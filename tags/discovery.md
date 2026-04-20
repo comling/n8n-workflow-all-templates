@@ -1,4 +1,4 @@
-# discovery : 22
+# discovery : 25
 
 |id|file|
 |----|----|
@@ -24,3 +24,6 @@
 |11232|[11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json)|
 |12499|[12499_Create_a_founder_digest_and_leads_from_Hacker_News_with_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12499_Create_a_founder_digest_and_leads_from_Hacker_News_with_GPT-4o_and_Gmail.json)|
 |13513|[13513_Generate_Google_Maps_leads_with_AI_enrichment__social_discovery_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13513_Generate_Google_Maps_leads_with_AI_enrichment__social_discovery_and_Google_Sheets.json)|
+|14097|[14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json)|
+|14358|[14358_Send_a_daily_women-focused_job_digest_to_Telegram_with_GPT-4o-mini_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14358_Send_a_daily_women-focused_job_digest_to_Telegram_with_GPT-4o-mini_and_SerpAPI.json)|
+|14846|[14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json)|

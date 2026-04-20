@@ -1,4 +1,4 @@
-# on : 326
+# on : 335
 
 |id|file|
 |----|----|
@@ -328,3 +328,12 @@
 |13751|[13751_Generate_and_host_AI_images_on_your_CDN_with_Gemini_Imagen_3_and_Upload_to_URL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13751_Generate_and_host_AI_images_on_your_CDN_with_Gemini_Imagen_3_and_Upload_to_URL.json)|
 |13766|[13766_Get_actionable_Gmail_alerts_on_Telegram_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13766_Get_actionable_Gmail_alerts_on_Telegram_with_OpenAI.json)|
 |13870|[13870_Generate_Upwork_proposals_with_GPT-4o-mini__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13870_Generate_Upwork_proposals_with_GPT-4o-mini__Airtable_and_Slack.json)|
+|14006|[14006_Create_a_virtual_outfit_try-on_Telegram_bot_with_async_polling_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14006_Create_a_virtual_outfit_try-on_Telegram_bot_with_async_polling_and_Google_Sheets.json)|
+|14051|[14051_Query_expenses_on_Telegram_with_GPT-4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14051_Query_expenses_on_Telegram_with_GPT-4.1_and_Google_Sheets.json)|
+|14172|[14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json)|
+|14235|[14235_Execute_forex_trading_signals_from_Telegram_on_MetaTrader_5_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14235_Execute_forex_trading_signals_from_Telegram_on_MetaTrader_5_with_Claude.json)|
+|14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|
+|14511|[14511_Send_weekly_TMetric_time_reports_to_employees_on_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14511_Send_weekly_TMetric_time_reports_to_employees_on_Slack.json)|
+|14519|[14519_Sync_Replicated_support_bundles_into_Snowflake_on_a_schedule.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14519_Sync_Replicated_support_bundles_into_Snowflake_on_a_schedule.json)|
+|14550|[14550_Handle_e-commerce_support_on_Telegram_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14550_Handle_e-commerce_support_on_Telegram_with_Gemini_and_Google_Sheets.json)|
+|14816|[14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json)|

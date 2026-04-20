@@ -1,4 +1,4 @@
-# names : 10
+# names : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |13699|[13699_Resolve_and_create_KlickTipp_tags_from_names_with_optional_prefixes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13699_Resolve_and_create_KlickTipp_tags_from_names_with_optional_prefixes.json)|
 |13768|[13768_Generate_workflow_documentation_and_node_names_with_GPT_4.1_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13768_Generate_workflow_documentation_and_node_names_with_GPT_4.1_mini.json)|
 |13858|[13858_Find_business_emails_from_contact_names_and_domains_using_ScraperCity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13858_Find_business_emails_from_contact_names_and_domains_using_ScraperCity.json)|
+|13929|[13929_Look_up_contact_details_and_addresses_from_names_using_ScraperCity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13929_Look_up_contact_details_and_addresses_from_names_using_ScraperCity.json)|

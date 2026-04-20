@@ -1,4 +1,4 @@
-# recover : 11
+# recover : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |12461|[12461_Recover_abandoned_WooCommerce_carts_with_custom_coupon_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12461_Recover_abandoned_WooCommerce_carts_with_custom_coupon_emails.json)|
 |13535|[13535_Recover_missed_calls_with_Twilio__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13535_Recover_missed_calls_with_Twilio__Slack_and_Google_Sheets.json)|
 |13844|[13844_Recover_abandoned_event_registrations_with_Gemini_and_email_plus_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13844_Recover_abandoned_event_registrations_with_Gemini_and_email_plus_Slack_alerts.json)|
+|14367|[14367_Recover_abandoned_WooCommerce_carts_using_OpenAI_GPT-4.1-mini__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14367_Recover_abandoned_WooCommerce_carts_using_OpenAI_GPT-4.1-mini__Gmail_and_Slack.json)|

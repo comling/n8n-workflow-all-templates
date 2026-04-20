@@ -1,4 +1,4 @@
-# startup : 11
+# startup : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |6775|[6775_Extract_Seed-Funded_Startup_Data_with_RSS__GPT-4.1-MINI___BrightData_to_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6775_Extract_Seed-Funded_Startup_Data_with_RSS__GPT-4.1-MINI___BrightData_to_Excel.json)|
 |7480|[7480_Generate_Personalized_Startup_Ideas_with_Claude_Analysis_and_Gmail_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7480_Generate_Personalized_Startup_Ideas_with_Claude_Analysis_and_Gmail_Reports.json)|
 |9503|[9503_Validate___Process_Startup_Pitch_Decks_with_Email_Verification___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9503_Validate___Process_Startup_Pitch_Decks_with_Email_Verification___Google_Drive.json)|
+|15006|[15006_Generate_weekly_Reddit_startup_opportunity_reports_with_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15006_Generate_weekly_Reddit_startup_opportunity_reports_with_Groq_AI.json)|

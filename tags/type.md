@@ -1,4 +1,4 @@
-# type : 5
+# type : 8
 
 |id|file|
 |----|----|
@@ -7,3 +7,6 @@
 |8406|[8406_Generate_B2B_Leads_from_Any_City___Business_Type_using_GMaps__Jina.ai___GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8406_Generate_B2B_Leads_from_Any_City___Business_Type_using_GMaps__Jina.ai___GPT-5.json)|
 |10200|[10200_Perform_Multi-type_DNS_Lookups_with_Google_s_Free_Public_DNS_Service.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10200_Perform_Multi-type_DNS_Lookups_with_Google_s_Free_Public_DNS_Service.json)|
 |10556|[10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json)|
+|14034|[14034_Transform_and_validate_webhook_records_with_configurable_type_conversion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14034_Transform_and_validate_webhook_records_with_configurable_type_conversion.json)|
+|14126|[14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json)|
+|14471|[14471_Manage_Strapi_CMS_v5_content_types_via_webhook_using_HTTP_requests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14471_Manage_Strapi_CMS_v5_content_types_via_webhook_using_HTTP_requests.json)|

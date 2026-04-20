@@ -1,4 +1,4 @@
-# top : 30
+# top : 35
 
 |id|file|
 |----|----|
@@ -32,3 +32,8 @@
 |12965|[12965_Score_and_download_top_YouTube_videos_to_Google_Sheets_with_FetchMedia.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12965_Score_and_download_top_YouTube_videos_to_Google_Sheets_with_FetchMedia.io.json)|
 |13433|[13433_Log_new_Google_top-10_keywords_to_Airtable_with_DataForSEO_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13433_Log_new_Google_top-10_keywords_to_Airtable_with_DataForSEO_and_Slack_alerts.json)|
 |13537|[13537_Get_Gmail_alerts_for_dropped_top_10_keyword_rankings_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13537_Get_Gmail_alerts_for_dropped_top_10_keyword_rankings_with_DataForSEO.json)|
+|14150|[14150_Generate_daily_top_news_digests_from_RSS_feeds_with_Groq_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14150_Generate_daily_top_news_digests_from_RSS_feeds_with_Groq_and_Slack.json)|
+|14677|[14677_Fetch_daily_YouTube_videos_from_top_AI_automators_and_log_them_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14677_Fetch_daily_YouTube_videos_from_top_AI_automators_and_log_them_to_Google_Sheets.json)|
+|14710|[14710_Generate_7_new_LinkedIn_posts_from_top_Apify_posts_using_OpenAI_and_save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14710_Generate_7_new_LinkedIn_posts_from_top_Apify_posts_using_OpenAI_and_save_to_Google_Sheets.json)|
+|14778|[14778_Analyze_LinkedIn_top_posts_with_Apify_and_OpenAI_and_log_7_ideas_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14778_Analyze_LinkedIn_top_posts_with_Apify_and_OpenAI_and_log_7_ideas_to_Sheets.json)|
+|14825|[14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json)|

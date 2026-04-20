@@ -1,4 +1,4 @@
-# reels : 30
+# reels : 34
 
 |id|file|
 |----|----|
@@ -32,3 +32,7 @@
 |13110|[13110_Generate_daily_AI_reels_from_Google_Drive_images_with_GPT_5.1__Wavespeed_and_Submagic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13110_Generate_daily_AI_reels_from_Google_Drive_images_with_GPT_5.1__Wavespeed_and_Submagic.json)|
 |13149|[13149_Generate_and_publish_Instagram_Reels_with_Gemini_and_Veo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13149_Generate_and_publish_Instagram_Reels_with_Gemini_and_Veo.json)|
 |13759|[13759_Upload_Instagram_Reels_from_Google_Sheets_with_DeepSeek_AI_captions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13759_Upload_Instagram_Reels_from_Google_Sheets_with_DeepSeek_AI_captions.json)|
+|14554|[14554_Create_AI_Instagram_Reels_with_GPT-4.1__Veo3__Google_Sheets_and_Bloatato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14554_Create_AI_Instagram_Reels_with_GPT-4.1__Veo3__Google_Sheets_and_Bloatato.json)|
+|14658|[14658_Publish_Instagram_Reels_from_Notion_with_Claude_captions_and_UploadToUrl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14658_Publish_Instagram_Reels_from_Notion_with_Claude_captions_and_UploadToUrl.json)|
+|14712|[14712_Generate_product_demo_highlight_reels_using_WayinVideo_Find_Moments_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14712_Generate_product_demo_highlight_reels_using_WayinVideo_Find_Moments_API.json)|
+|14825|[14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json)|

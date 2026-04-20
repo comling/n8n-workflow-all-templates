@@ -1,4 +1,4 @@
-# document : 88
+# document : 94
 
 |id|file|
 |----|----|
@@ -90,3 +90,9 @@
 |13688|[13688_Validate_property_documents_with_Claude__Anthropic___Google_Drive_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13688_Validate_property_documents_with_Claude__Anthropic___Google_Drive_and_Slack.json)|
 |13691|[13691_Validate_customs_clearance_documents_with_Claude_AI__Google_Drive_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13691_Validate_customs_clearance_documents_with_Claude_AI__Google_Drive_and_Slack.json)|
 |13784|[13784_Generate_documents_from_saved_templates_and_variables_using_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13784_Generate_documents_from_saved_templates_and_variables_using_Autype.json)|
+|14041|[14041_Build_a_document-upload_RAG_chatbot_with_OpenAI__Pinecone_and_daily_analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14041_Build_a_document-upload_RAG_chatbot_with_OpenAI__Pinecone_and_daily_analytics.json)|
+|14320|[14320_Detect_and_mask_PII_for_GDPR-safe_AI_document_analysis_with_Anthropic_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14320_Detect_and_mask_PII_for_GDPR-safe_AI_document_analysis_with_Anthropic_and_PostgreSQL.json)|
+|14381|[14381_Generate_AI_document_titles_for_Paperless-ngx_with_GPT-4o_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14381_Generate_AI_document_titles_for_Paperless-ngx_with_GPT-4o_Mini.json)|
+|14544|[14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json)|
+|14827|[14827_Build_an_OpenAI_RAG_system_with_document_upload__semantic_search_and_caching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14827_Build_an_OpenAI_RAG_system_with_document_upload__semantic_search_and_caching.json)|
+|14992|[14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json)|

@@ -1,4 +1,4 @@
-# reviews : 47
+# reviews : 53
 
 |id|file|
 |----|----|
@@ -49,3 +49,9 @@
 |13562|[13562_Monitor_Google_reviews_and_draft_AI_responses_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13562_Monitor_Google_reviews_and_draft_AI_responses_with_Gemini_and_Slack.json)|
 |13573|[13573_Analyze_hotel_reviews_with_OpenAI_GPT-4o-mini_and_Airtable_sentiment_fields.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13573_Analyze_hotel_reviews_with_OpenAI_GPT-4o-mini_and_Airtable_sentiment_fields.json)|
 |13819|[13819_Monitor_ecommerce_reviews_with_MrScraper__GPT-4o-mini__Slack_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13819_Monitor_ecommerce_reviews_with_MrScraper__GPT-4o-mini__Slack_and_Notion.json)|
+|14126|[14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json)|
+|14165|[14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json)|
+|14528|[14528_Monitor_low-rated_WooCommerce_reviews_with_Google_Sheets__Slack_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14528_Monitor_low-rated_WooCommerce_reviews_with_Google_Sheets__Slack_and_OpenAI.json)|
+|14629|[14629_Create_branded_social_proof_Instagram_posts_from_Airtable_reviews_with_Bannerbear_and_UploadToURL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14629_Create_branded_social_proof_Instagram_posts_from_Airtable_reviews_with_Bannerbear_and_UploadToURL.json)|
+|14648|[14648_Auto-generate_Instagram_posts_from_Google_Sheets_reviews_using_UploadtoUrl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14648_Auto-generate_Instagram_posts_from_Google_Sheets_reviews_using_UploadtoUrl.json)|
+|14896|[14896_Monitor_Google_reviews_and_draft_GPT-4o-mini_replies_via_Gmail_daily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14896_Monitor_Google_reviews_and_draft_GPT-4o-mini_replies_via_Gmail_daily.json)|

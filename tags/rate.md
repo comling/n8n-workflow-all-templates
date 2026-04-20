@@ -1,4 +1,4 @@
-# rate : 21
+# rate : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |11329|[11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json)|
 |11759|[11759_Email_Newsletter_System_with_SendGrid__Google_Sheets___Freemium_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11759_Email_Newsletter_System_with_SendGrid__Google_Sheets___Freemium_Rate_Limiting.json)|
 |13491|[13491_Protect_public_webhooks_with_Ainoflow_Guard_rate_limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13491_Protect_public_webhooks_with_Ainoflow_Guard_rate_limiting.json)|
+|14205|[14205_Enrich_Google_Sheets_rows_via_any_REST_API_in_rate-limited_batches.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14205_Enrich_Google_Sheets_rows_via_any_REST_API_in_rate-limited_batches.json)|

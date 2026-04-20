@@ -1,4 +1,4 @@
-# analyzer : 47
+# analyzer : 51
 
 |id|file|
 |----|----|
@@ -49,3 +49,7 @@
 |12988|[12988_Analyze_global_supply_chain_sustainability_and_risk_with_GPT-4o_and_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12988_Analyze_global_supply_chain_sustainability_and_risk_with_GPT-4o_and_email_alerts.json)|
 |13593|[13593_Analyze_customer_sales_calls_and_update_CRM_with_Whisper_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13593_Analyze_customer_sales_calls_and_update_CRM_with_Whisper_and_GPT-4.json)|
 |13725|[13725_Generate_monthly_AI_financial_reports_with_OpenAI_and_email_Slack_distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13725_Generate_monthly_AI_financial_reports_with_OpenAI_and_email_Slack_distribution.json)|
+|14369|[14369_Generate_IPL_post_match_and_weekly_email_analyses_with_GPT_4o__CricAPI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14369_Generate_IPL_post_match_and_weekly_email_analyses_with_GPT_4o__CricAPI_and_Gmail.json)|
+|14843|[14843_Analyze_stocks_in_Warren_Buffett_style_from_Telegram_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14843_Analyze_stocks_in_Warren_Buffett_style_from_Telegram_with_OpenAI_and_Gmail.json)|
+|14900|[14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json)|
+|15042|[15042_Track_multi-chain_crypto_portfolios_and_analyze_risk_with_Gemini_and_QuickNode.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15042_Track_multi-chain_crypto_portfolios_and_analyze_risk_with_Gemini_and_QuickNode.json)|

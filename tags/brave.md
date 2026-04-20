@@ -1,4 +1,4 @@
-# brave : 10
+# brave : 12
 
 |id|file|
 |----|----|
@@ -12,3 +12,5 @@
 |4910|[4910_Discover_Business_Leads_with_Gemini__Brave_Search_and_Web_Scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4910_Discover_Business_Leads_with_Gemini__Brave_Search_and_Web_Scraping.json)|
 |10778|[10778_Build_Gmail_Contact_Database_with_GPT-5_Nano__Brave_Search___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10778_Build_Gmail_Contact_Database_with_GPT-5_Nano__Brave_Search___Google_Sheets.json)|
 |12772|[12772_Monitor_brand_mentions_with_GPT-5_Nano__Brave_Search__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12772_Monitor_brand_mentions_with_GPT-5_Nano__Brave_Search__Gmail_and_Google_Sheets.json)|
+|14676|[14676_Send_a_daily_AI_crypto_news_digest_from_Brave_Search_to_Telegram_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14676_Send_a_daily_AI_crypto_news_digest_from_Brave_Search_to_Telegram_with_GPT-4.1-mini.json)|
+|14690|[14690_Publish_WordPress_SEO_blog_drafts_from_trending_news_with_Brave_Search_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14690_Publish_WordPress_SEO_blog_drafts_from_trending_news_with_Brave_Search_and_OpenAI.json)|

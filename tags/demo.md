@@ -1,4 +1,4 @@
-# demo : 28
+# demo : 29
 
 |id|file|
 |----|----|
@@ -30,3 +30,4 @@
 |12270|[12270_Create_AI_sci_fi_book_review_videos_with_ChatGPT__Fal.ai_and_Nexrender.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12270_Create_AI_sci_fi_book_review_videos_with_ChatGPT__Fal.ai_and_Nexrender.json)|
 |12722|[12722_Create_an_AI_chatbot_for_WhatsApp_with_Whapi.Cloud_and_OpenAI_GPT-3.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12722_Create_an_AI_chatbot_for_WhatsApp_with_Whapi.Cloud_and_OpenAI_GPT-3.5.json)|
 |13347|[13347_Enrich_chatbot_and_demo_request_leads_with_Lusha__HubSpot__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13347_Enrich_chatbot_and_demo_request_leads_with_Lusha__HubSpot__and_Slack.json)|
+|14712|[14712_Generate_product_demo_highlight_reels_using_WayinVideo_Find_Moments_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14712_Generate_product_demo_highlight_reels_using_WayinVideo_Find_Moments_API.json)|

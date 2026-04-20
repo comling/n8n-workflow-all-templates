@@ -1,4 +1,4 @@
-# replies : 46
+# replies : 55
 
 |id|file|
 |----|----|
@@ -48,3 +48,12 @@
 |13203|[13203_Draft_Gmail_replies_with_OpenAI_and_OpenRouter_for_an_inbox-zero_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13203_Draft_Gmail_replies_with_OpenAI_and_OpenRouter_for_an_inbox-zero_workflow.json)|
 |13231|[13231_Route_Facebook_Story_replies_to_Slack__Telegram__and_Supabase_CRM_by_region.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13231_Route_Facebook_Story_replies_to_Slack__Telegram__and_Supabase_CRM_by_region.json)|
 |13463|[13463_Auto-label_Gmail_with_Ollama_AI_and_draft_smart_replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13463_Auto-label_Gmail_with_Ollama_AI_and_draft_smart_replies.json)|
+|14038|[14038_Draft_and_send_AI_customer_support_email_replies_with_Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14038_Draft_and_send_AI_customer_support_email_replies_with_Gmail_and_Google_Sheets.json)|
+|14220|[14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json)|
+|14267|[14267_Send_AI_job_application_auto-replies_with_Gmail__OpenAI_GPT-4o_and_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14267_Send_AI_job_application_auto-replies_with_Gmail__OpenAI_GPT-4o_and_SMTP.json)|
+|14360|[14360_Generate_and_approve_Google_review_replies_with_Groq_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14360_Generate_and_approve_Google_review_replies_with_Groq_AI_and_Slack.json)|
+|14622|[14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json)|
+|14852|[14852_Triage_Gmail_inbox__draft_replies__and_alert_urgent_emails_with_Claude_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14852_Triage_Gmail_inbox__draft_replies__and_alert_urgent_emails_with_Claude_and_Slack.json)|
+|14896|[14896_Monitor_Google_reviews_and_draft_GPT-4o-mini_replies_via_Gmail_daily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14896_Monitor_Google_reviews_and_draft_GPT-4o-mini_replies_via_Gmail_daily.json)|
+|14966|[14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json)|
+|15044|[15044_Automate_WhatsApp_lead_capture_and_replies_with_Whapi__Ollama_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15044_Automate_WhatsApp_lead_capture_and_replies_with_Whapi__Ollama_and_Sheets.json)|

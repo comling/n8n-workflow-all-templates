@@ -1,4 +1,4 @@
-# respond : 16
+# respond : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |11053|[11053_Monitor___Respond_to_Google_Maps_Reviews_using_AI__Apify__Slack__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11053_Monitor___Respond_to_Google_Maps_Reviews_using_AI__Apify__Slack__and_Sheets.json)|
 |13118|[13118_Convert_GitHub_commits_into_review-ready_pull_requests_with_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13118_Convert_GitHub_commits_into_review-ready_pull_requests_with_Google_Gemini.json)|
 |13450|[13450_Auto-respond_and_classify_WhatsApp_leads_with_Ollama_AI_and_log_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13450_Auto-respond_and_classify_WhatsApp_leads_with_Ollama_AI_and_log_to_Google_Sheets.json)|
+|14924|[14924_Auto-respond_to_job_opportunities_with_Gmail__LinkedIn__GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14924_Auto-respond_to_job_opportunities_with_Gmail__LinkedIn__GPT-4.1-mini_and_Google_Sheets.json)|

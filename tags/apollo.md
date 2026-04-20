@@ -1,4 +1,4 @@
-# apollo : 34
+# apollo : 36
 
 |id|file|
 |----|----|
@@ -36,3 +36,5 @@
 |13170|[13170_Scrape_Apollo_leads_with_BrowserAct__draft_Gemini_emails__and_save_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13170_Scrape_Apollo_leads_with_BrowserAct__draft_Gemini_emails__and_save_to_Sheets.json)|
 |13793|[13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json)|
 |13856|[13856_Scrape_Apollo.io_leads_and_sync_them_to_Google_Sheets_with_ScraperCity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13856_Scrape_Apollo.io_leads_and_sync_them_to_Google_Sheets_with_ScraperCity.json)|
+|14141|[14141_Scrape_B2B_leads_from_Apollo__generate_Groq_AI_emails__and_send_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14141_Scrape_B2B_leads_from_Apollo__generate_Groq_AI_emails__and_send_via_Gmail.json)|
+|14406|[14406_Scrape_Apollo.io_leads_with_ScraperCity_and_sync_enriched_contacts_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14406_Scrape_Apollo.io_leads_with_ScraperCity_and_sync_enriched_contacts_to_Airtable.json)|

@@ -1,4 +1,4 @@
-# approve : 8
+# approve : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |12256|[12256_Review_and_approve_employee_expenses_with_forms__OpenAI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12256_Review_and_approve_employee_expenses_with_forms__OpenAI_and_Google_Workspace.json)|
 |13007|[13007_Scrape_LinkedIn_B2B_leads_with_Apify_and_GPT-4_and_approve_emails_in_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13007_Scrape_LinkedIn_B2B_leads_with_Apify_and_GPT-4_and_approve_emails_in_Sheets.json)|
 |13712|[13712_Review_and_approve_Google_Sheets_orders_by_email_and_notify_via_LINE.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13712_Review_and_approve_Google_Sheets_orders_by_email_and_notify_via_LINE.json)|
+|14360|[14360_Generate_and_approve_Google_review_replies_with_Groq_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14360_Generate_and_approve_Google_review_replies_with_Groq_AI_and_Slack.json)|

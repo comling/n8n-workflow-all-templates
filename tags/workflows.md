@@ -1,4 +1,4 @@
-# workflows : 107
+# workflows : 113
 
 |id|file|
 |----|----|
@@ -109,3 +109,9 @@
 |13791|[13791_Auto-heal_failing_workflows_with_Azure_OpenAI__n8n_API__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13791_Auto-heal_failing_workflows_with_Azure_OpenAI__n8n_API__and_Slack_alerts.json)|
 |13792|[13792_Decide_multi_agent_vs_simple_workflows_using_Azure_OpenAI_GPT_4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13792_Decide_multi_agent_vs_simple_workflows_using_Azure_OpenAI_GPT_4o_mini.json)|
 |13794|[13794_Convert_Make.com_blueprints_to_workflows_with_Azure_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13794_Convert_Make.com_blueprints_to_workflows_with_Azure_OpenAI_and_Google_Sheets.json)|
+|14218|[14218_Reconnect_migrated_workflows_and_datatables_between_n8n_instances.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14218_Reconnect_migrated_workflows_and_datatables_between_n8n_instances.json)|
+|14925|[14925_Sync_self-hosted_workflow_backups_to_GitHub_for_version_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14925_Sync_self-hosted_workflow_backups_to_GitHub_for_version_control.json)|
+|14988|[14988_Monitor_n8n_workflows_with_Watchflow_dead_man_s_switch_and_error_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14988_Monitor_n8n_workflows_with_Watchflow_dead_man_s_switch_and_error_alerts.json)|
+|14990|[14990_Generate_n8n_workflows_from_chat_using_MCP_tools__Claude_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14990_Generate_n8n_workflows_from_chat_using_MCP_tools__Claude_and_Postgres.json)|
+|15037|[15037_Organize_and_back_up_n8n_workflows_to_Google_Drive_folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15037_Organize_and_back_up_n8n_workflows_to_Google_Drive_folders.json)|
+|15038|[15038_Organize_and_back_up_n8n_workflows_to_Google_Drive_as_consolidated_JSON.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15038_Organize_and_back_up_n8n_workflows_to_Google_Drive_as_consolidated_JSON.json)|

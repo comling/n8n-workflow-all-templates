@@ -1,4 +1,4 @@
-# classify : 34
+# classify : 41
 
 |id|file|
 |----|----|
@@ -36,3 +36,10 @@
 |13450|[13450_Auto-respond_and_classify_WhatsApp_leads_with_Ollama_AI_and_log_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13450_Auto-respond_and_classify_WhatsApp_leads_with_Ollama_AI_and_log_to_Google_Sheets.json)|
 |13463|[13463_Auto-label_Gmail_with_Ollama_AI_and_draft_smart_replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13463_Auto-label_Gmail_with_Ollama_AI_and_draft_smart_replies.json)|
 |13568|[13568_Analyze__classify__and_summarize_Gmail_with_OpenAI_RAG_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13568_Analyze__classify__and_summarize_Gmail_with_OpenAI_RAG_and_Google_Sheets.json)|
+|14220|[14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json)|
+|14314|[14314_Classify_documents_with_easybits_Extractor_via_web_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14314_Classify_documents_with_easybits_Extractor_via_web_form.json)|
+|14318|[14318_Classify_invoices_and_route_them_to_Google_Drive_folders_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14318_Classify_invoices_and_route_them_to_Google_Drive_folders_with_easybits_and_Slack.json)|
+|14357|[14357_Classify_GitHub_issues_and_create_Linear_tasks_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14357_Classify_GitHub_issues_and_create_Linear_tasks_using_OpenAI.json)|
+|14622|[14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json)|
+|14960|[14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json)|
+|14978|[14978_Classify_and_route_email_attachments_with_easybits__Gmail_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14978_Classify_and_route_email_attachments_with_easybits__Gmail_and_Google_Drive.json)|

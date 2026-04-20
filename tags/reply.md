@@ -1,4 +1,4 @@
-# reply : 51
+# reply : 59
 
 |id|file|
 |----|----|
@@ -53,3 +53,11 @@
 |12652|[12652_Send_AI-generated_Gmail_auto_replies_with_GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12652_Send_AI-generated_Gmail_auto_replies_with_GPT-4o-mini_and_Google_Sheets.json)|
 |13463|[13463_Auto-label_Gmail_with_Ollama_AI_and_draft_smart_replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13463_Auto-label_Gmail_with_Ollama_AI_and_draft_smart_replies.json)|
 |13830|[13830_Read__analyze__and_auto-reply_to_Gmail_emails_with_OpenAI__Slack__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13830_Read__analyze__and_auto-reply_to_Gmail_emails_with_OpenAI__Slack__and_Sheets.json)|
+|13940|[13940_Triage_and_reply_to_multilingual_support_tickets_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13940_Triage_and_reply_to_multilingual_support_tickets_with_Anthropic_Claude.json)|
+|13946|[13946_Score_and_auto-reply_to_new_leads_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13946_Score_and_auto-reply_to_new_leads_with_OpenAI_and_Gmail.json)|
+|14026|[14026_Auto-reply_to_Instagram_DMs_with_an_AI_chatbot_and_Google_Gemini_history.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14026_Auto-reply_to_Instagram_DMs_with_an_AI_chatbot_and_Google_Gemini_history.json)|
+|14299|[14299_Automatic_AI_reply_when_mentioned_in_a_Liveblocks_comment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14299_Automatic_AI_reply_when_mentioned_in_a_Liveblocks_comment.json)|
+|14622|[14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json)|
+|14711|[14711_Reply_to_Facebook_ad_comments_with_OpenRouter_AI__Google_Docs_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14711_Reply_to_Facebook_ad_comments_with_OpenRouter_AI__Google_Docs_and_Slack.json)|
+|14836|[14836_Qualify_and_route_inbound_leads_with_Claude__Gmail__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14836_Qualify_and_route_inbound_leads_with_Claude__Gmail__Slack_and_Google_Sheets.json)|
+|14893|[14893_Reply_to_Instagram_ad_comments_with_GPT-4o__Google_Docs__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14893_Reply_to_Instagram_ad_comments_with_GPT-4o__Google_Docs__and_Slack.json)|

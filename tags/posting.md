@@ -1,4 +1,4 @@
-# posting : 38
+# posting : 40
 
 |id|file|
 |----|----|
@@ -40,3 +40,5 @@
 |11996|[11996_Social_media_auto-posting_to_Instagram__Facebook___LinkedIn_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11996_Social_media_auto-posting_to_Instagram__Facebook___LinkedIn_from_Google_Sheets.json)|
 |12447|[12447_Extract_text_from_PDFs_and_images_in_Google_Drive_and_post_to_WordPress_and_social_media_with_OpenAI_GPT-4.1_and_DALL_E.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12447_Extract_text_from_PDFs_and_images_in_Google_Drive_and_post_to_WordPress_and_social_media_with_OpenAI_GPT-4.1_and_DALL_E.json)|
 |12834|[12834_AI_Agents_Generate_Content___Automate_Posting_for_Beauty_Salon_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12834_AI_Agents_Generate_Content___Automate_Posting_for_Beauty_Salon_Social_Media.json)|
+|13952|[13952_Create_viral_social_posts_with_Airtable__Claude__Flux__and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13952_Create_viral_social_posts_with_Airtable__Claude__Flux__and_PostPulse.json)|
+|15033|[15033_Generate_Instagram_posts_with_OpenAI__RSS_news__and_auto_image_posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15033_Generate_Instagram_posts_with_OpenAI__RSS_news__and_auto_image_posting.json)|

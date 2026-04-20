@@ -1,4 +1,4 @@
-# live : 16
+# live : 20
 
 |id|file|
 |----|----|
@@ -18,3 +18,7 @@
 |8244|[8244_Log_E-commerce_Orders_in_Google_Sheets_with_Monthly_Tabs___Status_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8244_Log_E-commerce_Orders_in_Google_Sheets_with_Monthly_Tabs___Status_Tracking.json)|
 |8404|[8404_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_Gemini___Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8404_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_Gemini___Creatomate.json)|
 |12553|[12553_Generate_intraday_AAPL_trade_signals_using_live_data__OpenAI__Telegram_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12553_Generate_intraday_AAPL_trade_signals_using_live_data__OpenAI__Telegram_and_Notion.json)|
+|14361|[14361_Generate_live_cricket_score_commentary_using_SerpAPI__GPT-4o-mini__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14361_Generate_live_cricket_score_commentary_using_SerpAPI__GPT-4o-mini__and_Telegram.json)|
+|14368|[14368_Generate_real-time_IPL_commentary_from_CricAPI_data_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14368_Generate_real-time_IPL_commentary_from_CricAPI_data_with_GPT-4o.json)|
+|14552|[14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json)|
+|14672|[14672_Extract_live_stream_highlights_using_WayinVideo_AI_Clipping_API_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14672_Extract_live_stream_highlights_using_WayinVideo_AI_Clipping_API_and_Google_Drive.json)|

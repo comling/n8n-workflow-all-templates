@@ -1,4 +1,4 @@
-# files : 80
+# files : 83
 
 |id|file|
 |----|----|
@@ -82,3 +82,6 @@
 |13735|[13735_Sync_markdown_files_from_Google_Drive_to_Confluence_pages_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13735_Sync_markdown_files_from_Google_Drive_to_Confluence_pages_automatically.json)|
 |13787|[13787_Generate_workflow_JSON_files_from_webhook_prompts_using_Azure_OpenAI_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13787_Generate_workflow_JSON_files_from_webhook_prompts_using_Azure_OpenAI_GPT-4o-mini.json)|
 |13904|[13904_Auto-create_Instagram_carousel_posts_from_Canva_with_OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13904_Auto-create_Instagram_carousel_posts_from_Canva_with_OpenAI_and_Blotato.json)|
+|14188|[14188_Extract_text_from_Google_Drive_files_to_Google_Sheets_using_NVIDIA_NIM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14188_Extract_text_from_Google_Drive_files_to_Google_Sheets_using_NVIDIA_NIM.json)|
+|14319|[14319_Convert_CSV_XLSX_files_into_a_normalized_SQL_schema_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14319_Convert_CSV_XLSX_files_into_a_normalized_SQL_schema_with_GPT-4.json)|
+|14539|[14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json)|

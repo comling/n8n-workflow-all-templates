@@ -1,4 +1,4 @@
-# intelligence : 75
+# intelligence : 78
 
 |id|file|
 |----|----|
@@ -77,3 +77,6 @@
 |13692|[13692_Monitor_zero-day_threats_with_Anthropic_Claude__Airtable__Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13692_Monitor_zero-day_threats_with_Anthropic_Claude__Airtable__Slack_and_Jira.json)|
 |13819|[13819_Monitor_ecommerce_reviews_with_MrScraper__GPT-4o-mini__Slack_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13819_Monitor_ecommerce_reviews_with_MrScraper__GPT-4o-mini__Slack_and_Notion.json)|
 |13842|[13842_Enrich_event_registrations_with_HubSpot__Clearbit__LinkedIn_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13842_Enrich_event_registrations_with_HubSpot__Clearbit__LinkedIn_and_Gemini_AI.json)|
+|14323|[14323_Send_a_daily_paid_acquisition_and_website_intelligence_report_with_Databox__GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14323_Send_a_daily_paid_acquisition_and_website_intelligence_report_with_Databox__GPT-4o_and_Gmail.json)|
+|14850|[14850_Generate_a_daily_competitor_intelligence_briefing_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14850_Generate_a_daily_competitor_intelligence_briefing_with_OpenAI_and_Gmail.json)|
+|14911|[14911_Analyze_npm_packages_with_Firecrawl__GitHub__npm_APIs__Gemini_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14911_Analyze_npm_packages_with_Firecrawl__GitHub__npm_APIs__Gemini_and_GPT.json)|

@@ -1,4 +1,4 @@
-# scraper : 97
+# scraper : 100
 
 |id|file|
 |----|----|
@@ -99,3 +99,6 @@
 |13608|[13608_Research_web_topics_and_email_a_Claude_report_via_Gmail_using_SerpApi__Jina.ai_and_Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13608_Research_web_topics_and_email_a_Claude_report_via_Gmail_using_SerpApi__Jina.ai_and_Firecrawl.json)|
 |13657|[13657_Automate_Real_Estate_Listing_Scraper____with_ScrapeGraph_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13657_Automate_Real_Estate_Listing_Scraper____with_ScrapeGraph_AI_and_Google_Sheets.json)|
 |13669|[13669_Get_LinkedIn_profile_data_via_TexAU_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13669_Get_LinkedIn_profile_data_via_TexAU_API.json)|
+|13991|[13991_Track_Redfin_real_estate_listings_with_ScrapeOps__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13991_Track_Redfin_real_estate_listings_with_ScrapeOps__Google_Sheets__and_Slack.json)|
+|14505|[14505_Extract_Google_Maps_business_leads_with_Apify__GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14505_Extract_Google_Maps_business_leads_with_Apify__GPT-4o-mini_and_Google_Sheets.json)|
+|15008|[15008_Track_Idealista_market_stats_weekly_and_email_Google_Sheets_reports_with_Idealista_Scraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15008_Track_Idealista_market_stats_weekly_and_email_Google_Sheets_reports_with_Idealista_Scraper.json)|

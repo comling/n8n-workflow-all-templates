@@ -1,4 +1,4 @@
-# messages : 98
+# messages : 100
 
 |id|file|
 |----|----|
@@ -100,3 +100,5 @@
 |13531|[13531_Extract_order_details_from_LINE_messages_and_photos_to_Google_Sheets_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13531_Extract_order_details_from_LINE_messages_and_photos_to_Google_Sheets_with_OpenAI.json)|
 |13581|[13581_Scan_Gmail_links_with_VirusTotal_and_send_alerts_to_WhatsApp__Teams__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13581_Scan_Gmail_links_with_VirusTotal_and_send_alerts_to_WhatsApp__Teams__and_Sheets.json)|
 |13642|[13642_Send_WhatsApp_bulk_template_messages_from_Google_Sheets_or_CSV_via_WOZTELL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13642_Send_WhatsApp_bulk_template_messages_from_Google_Sheets_or_CSV_via_WOZTELL.json)|
+|14152|[14152_Route_Discord_support_messages_into_ClickUp_tasks_with_OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14152_Route_Discord_support_messages_into_ClickUp_tasks_with_OpenAI_GPT-4.1-mini.json)|
+|14208|[14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json)|

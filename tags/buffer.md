@@ -1,4 +1,4 @@
-# buffer : 7
+# buffer : 9
 
 |id|file|
 |----|----|
@@ -9,3 +9,5 @@
 |8238|[8238_Implement_Intelligent_Message_Buffering_for_AI_Chats_with_Redis_and_GPT-4-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8238_Implement_Intelligent_Message_Buffering_for_AI_Chats_with_Redis_and_GPT-4-mini.json)|
 |9440|[9440_Create_a_WhatsApp_Chatbot_with_GPT-4o__Whisper_Transcription_and_Redis_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9440_Create_a_WhatsApp_Chatbot_with_GPT-4o__Whisper_Transcription_and_Redis_Buffer.json)|
 |13540|[13540_Schedule_social_media_posts_from_local_files_using_UploadToURL__OpenAI__and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13540_Schedule_social_media_posts_from_local_files_using_UploadToURL__OpenAI__and_Buffer.json)|
+|14768|[14768_Auto-post_trending_X_tweets_with_Gemini_AI_images__FLUX_and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14768_Auto-post_trending_X_tweets_with_Gemini_AI_images__FLUX_and_Buffer.json)|
+|14961|[14961_Generate_trending_X__Facebook__and_Threads_posts_with_Apify__Gemini__and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14961_Generate_trending_X__Facebook__and_Threads_posts_with_Apify__Gemini__and_Buffer.json)|

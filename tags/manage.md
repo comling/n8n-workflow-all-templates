@@ -1,4 +1,4 @@
-# manage : 106
+# manage : 113
 
 |id|file|
 |----|----|
@@ -108,3 +108,10 @@
 |13733|[13733_Manage_WhatsApp_vehicle_service_reminders_and_bookings_with_WATI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13733_Manage_WhatsApp_vehicle_service_reminders_and_bookings_with_WATI_and_Google_Sheets.json)|
 |13734|[13734_Manage_Google_Calendar_events_with_GPT_4_and_an_AI_assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13734_Manage_Google_Calendar_events_with_GPT_4_and_an_AI_assistant.json)|
 |13837|[13837_Manage_creator_sponsorship_and_brand_deals_with_Gmail__OpenAI__Notion_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13837_Manage_creator_sponsorship_and_brand_deals_with_Gmail__OpenAI__Notion_and_Telegram.json)|
+|13932|[13932_Manage_engineering_change_requests_via_webhooks_and_Slack_approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13932_Manage_engineering_change_requests_via_webhooks_and_Slack_approvals.json)|
+|13943|[13943_Manage_Claude_Code_sessions_from_Matrix_with_YouTrack_and_GitLab.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13943_Manage_Claude_Code_sessions_from_Matrix_with_YouTrack_and_GitLab.json)|
+|13987|[13987_Manage_invoices_and_contacts_via_chat_with_the_Fakturoid_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13987_Manage_invoices_and_contacts_via_chat_with_the_Fakturoid_AI_agent.json)|
+|14169|[14169_Qualify_and_manage_voice_sales_calls_with_Claude__GPT-4o__Gemini__and_GoHighLevel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14169_Qualify_and_manage_voice_sales_calls_with_Claude__GPT-4o__Gemini__and_GoHighLevel.json)|
+|14471|[14471_Manage_Strapi_CMS_v5_content_types_via_webhook_using_HTTP_requests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14471_Manage_Strapi_CMS_v5_content_types_via_webhook_using_HTTP_requests.json)|
+|14666|[14666_Manage_Google_Calendar_and_Gmail_from_Telegram_with_a_Claude_AI_assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14666_Manage_Google_Calendar_and_Gmail_from_Telegram_with_a_Claude_AI_assistant.json)|
+|14824|[14824_Book_and_manage_appointments_with_Google_Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14824_Book_and_manage_appointments_with_Google_Calendar_and_Gmail.json)|

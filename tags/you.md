@@ -1,4 +1,4 @@
-# you : 7
+# you : 9
 
 |id|file|
 |----|----|
@@ -9,3 +9,5 @@
 |5820|[5820_Automatic_Gmail_Categorization_and_Labeling_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5820_Automatic_Gmail_Categorization_and_Labeling_with_AI.json)|
 |6533|[6533_Personalized_Thank-You_Emails_with_Website_Scraping__GPT-4o__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6533_Personalized_Thank-You_Emails_with_Website_Scraping__GPT-4o__and_Gmail.json)|
 |9292|[9292_Auto_Send_Thank-You_Messages___Loyalty_Coupons_via_WhatsApp_from_Shopify_using_Rapiwa.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9292_Auto_Send_Thank-You_Messages___Loyalty_Coupons_via_WhatsApp_from_Shopify_using_Rapiwa.json)|
+|14212|[14212_Scan_business_cards_from_LINE_with_Gemini_to_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14212_Scan_business_cards_from_LINE_with_Gemini_to_Sheets__Slack__and_Gmail.json)|
+|14257|[14257_Track_AI_search_winners_and_uncover_topic_gaps_with_SE_Ranking_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14257_Track_AI_search_winners_and_uncover_topic_gaps_with_SE_Ranking_and_Google_Sheets.json)|

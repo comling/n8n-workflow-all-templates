@@ -1,4 +1,4 @@
-# carousel : 11
+# carousel : 14
 
 |id|file|
 |----|----|
@@ -13,3 +13,6 @@
 |10900|[10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json)|
 |11694|[11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json)|
 |13904|[13904_Auto-create_Instagram_carousel_posts_from_Canva_with_OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13904_Auto-create_Instagram_carousel_posts_from_Canva_with_OpenAI_and_Blotato.json)|
+|14064|[14064_Create_and_publish_AI_carousel_posts_from_Telegram_to_Instagram__Facebook_and_TikTok_with_OpenAI__APITemplate.io_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14064_Create_and_publish_AI_carousel_posts_from_Telegram_to_Instagram__Facebook_and_TikTok_with_OpenAI__APITemplate.io_and_Blotato.json)|
+|14643|[14643_Publish_Instagram_carousel_posts_from_product_collections_with_Slack_notification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14643_Publish_Instagram_carousel_posts_from_product_collections_with_Slack_notification.json)|
+|14780|[14780_Create_AI_Instagram_carousel_posts_with_Gemini__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14780_Create_AI_Instagram_carousel_posts_with_Gemini__Slack_and_Google_Sheets.json)|

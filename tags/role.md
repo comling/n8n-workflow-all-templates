@@ -1,4 +1,4 @@
-# role : 5
+# role : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |6508|[6508_CYBERPULSE_AI_RedOps__Role-Based_LinkedIn_Profile_Discovery_with_Google_OSINT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6508_CYBERPULSE_AI_RedOps__Role-Based_LinkedIn_Profile_Discovery_with_Google_OSINT.json)|
 |7699|[7699_Daily_Applicant_Digest_by_Role_with_Gemini_AI_Extraction_for_Hiring_Managers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7699_Daily_Applicant_Digest_by_Role_with_Gemini_AI_Extraction_for_Hiring_Managers.json)|
 |10171|[10171_Role-Based_Access_Control__RBAC__for_Telegram_Automations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10171_Role-Based_Access_Control__RBAC__for_Telegram_Automations.json)|
+|14087|[14087_Gate_AI_Slack_DevOps_bot_actions_with_OpenAI_and_Permit.io_RBAC.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14087_Gate_AI_Slack_DevOps_bot_actions_with_OpenAI_and_Permit.io_RBAC.json)|

@@ -1,4 +1,4 @@
-# business : 133
+# business : 143
 
 |id|file|
 |----|----|
@@ -135,3 +135,13 @@
 |13801|[13801_Discover_daily_business_opportunities_with_Google_Gemini__Sheets_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13801_Discover_daily_business_opportunities_with_Google_Gemini__Sheets_and_Telegram.json)|
 |13805|[13805_Generate_business_research_reports_with_Claude__web_search_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13805_Generate_business_research_reports_with_Claude__web_search_and_Google_Drive.json)|
 |13858|[13858_Find_business_emails_from_contact_names_and_domains_using_ScraperCity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13858_Find_business_emails_from_contact_names_and_domains_using_ScraperCity.json)|
+|14084|[14084_Generate_and_enrich_local_business_leads_with_Decodo__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14084_Generate_and_enrich_local_business_leads_with_Decodo__OpenAI_and_Gmail.json)|
+|14126|[14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json)|
+|14212|[14212_Scan_business_cards_from_LINE_with_Gemini_to_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14212_Scan_business_cards_from_LINE_with_Gemini_to_Sheets__Slack__and_Gmail.json)|
+|14227|[14227_Send_AI_website_audits_with_GPT-4.1_and_Gmail_as_a_lead_magnet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14227_Send_AI_website_audits_with_GPT-4.1_and_Gmail_as_a_lead_magnet.json)|
+|14322|[14322_Get_AI_insights_from_Databox_in_Slack_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14322_Get_AI_insights_from_Databox_in_Slack_using_OpenAI.json)|
+|14332|[14332_Generate_weekly_AI_business_digest_from_Google_Sheets_with_GPT-4o_and_send_to_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14332_Generate_weekly_AI_business_digest_from_Google_Sheets_with_GPT-4o_and_send_to_Slack_and_email.json)|
+|14366|[14366_Generate_and_qualify_local_business_leads_using_Google_Sheets__RapidAPI_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14366_Generate_and_qualify_local_business_leads_using_Google_Sheets__RapidAPI_and_OpenAI.json)|
+|14505|[14505_Extract_Google_Maps_business_leads_with_Apify__GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14505_Extract_Google_Maps_business_leads_with_Apify__GPT-4o-mini_and_Google_Sheets.json)|
+|14931|[14931_Generate_a_weekly_business_health_report_from_Google_Sheets_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14931_Generate_a_weekly_business_health_report_from_Google_Sheets_with_Claude.json)|
+|14977|[14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json)|

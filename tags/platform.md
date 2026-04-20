@@ -1,4 +1,4 @@
-# platform : 68
+# platform : 70
 
 |id|file|
 |----|----|
@@ -70,3 +70,5 @@
 |13227|[13227_Enrich_creator_handles_with_cross-platform_social_data_from_influencers.club.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13227_Enrich_creator_handles_with_cross-platform_social_data_from_influencers.club.json)|
 |13293|[13293_Enrich_newsletter_subscribers_with_cross-platform_social_data_and_tag_in_Mailchimp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13293_Enrich_newsletter_subscribers_with_cross-platform_social_data_and_tag_in_Mailchimp.json)|
 |13895|[13895_Automated_AI_Long_Video_Creator_______Multi-Platform_Upload_via_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13895_Automated_AI_Long_Video_Creator_______Multi-Platform_Upload_via_Postiz.json)|
+|14432|[14432_Automate_Birthday_Wishes_from_Google_Contacts_with_Multi-Platform_Messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14432_Automate_Birthday_Wishes_from_Google_Contacts_with_Multi-Platform_Messaging.json)|
+|15014|[15014_Repurpose_YouTube_videos_into_multi-platform_content_with_OpenAI_and_Anthropic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15014_Repurpose_YouTube_videos_into_multi-platform_content_with_OpenAI_and_Anthropic.json)|

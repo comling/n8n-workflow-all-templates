@@ -1,4 +1,4 @@
-# term : 9
+# term : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |4097|[4097_Tesla_1hour_Indicators_Tool__Mid-Term_Technical_Analysis_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4097_Tesla_1hour_Indicators_Tool__Mid-Term_Technical_Analysis_AI.json)|
 |10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|
 |12478|[12478_Automate_client_onboarding_with_Asana__Google_Docs__Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12478_Automate_client_onboarding_with_Asana__Google_Docs__Gmail__Slack_and_Sheets.json)|
+|14449|[14449_Analyze_Google_Ads_search_terms_with_AI_and_send_wastage_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14449_Analyze_Google_Ads_search_terms_with_AI_and_send_wastage_alerts.json)|

@@ -1,4 +1,4 @@
-# nextcloud : 13
+# nextcloud : 15
 
 |id|file|
 |----|----|
@@ -15,3 +15,5 @@
 |4655|[4655_Automated_Invoice_Management_with_Nextcloud__Email_and_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4655_Automated_Invoice_Management_with_Nextcloud__Email_and_Telegram_Notifications.json)|
 |5116|[5116_Nextcloud_Tool_MCP_Server___all_17_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5116_Nextcloud_Tool_MCP_Server___all_17_operations.json)|
 |8810|[8810_Convert_Event_Text_to_Calendar_Entries_with_AI_and_NextCloud_Google_Zoho.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8810_Convert_Event_Text_to_Calendar_Entries_with_AI_and_NextCloud_Google_Zoho.json)|
+|14040|[14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json)|
+|14544|[14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json)|

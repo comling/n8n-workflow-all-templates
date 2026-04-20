@@ -1,4 +1,4 @@
-# invoices : 59
+# invoices : 69
 
 |id|file|
 |----|----|
@@ -61,3 +61,13 @@
 |13615|[13615_Process_vendor_invoices_with_UploadToURL__AWS_Textract__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13615_Process_vendor_invoices_with_UploadToURL__AWS_Textract__and_Google_Sheets.json)|
 |13750|[13750_Analyze_invoices_from_Google_Drive_with_AI_and_store_data_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13750_Analyze_invoices_from_Google_Drive_with_AI_and_store_data_in_Google_Sheets.json)|
 |13803|[13803_Summarize_invoices_with_AWS_Textract__Google_Gemini__and_send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13803_Summarize_invoices_with_AWS_Textract__Google_Gemini__and_send_to_Slack.json)|
+|13925|[13925_Download_KSeF__Poland_s_e-invoicing_system__invoices_to_an_Excel_spreadsheet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13925_Download_KSeF__Poland_s_e-invoicing_system__invoices_to_an_Excel_spreadsheet.json)|
+|13987|[13987_Manage_invoices_and_contacts_via_chat_with_the_Fakturoid_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13987_Manage_invoices_and_contacts_via_chat_with_the_Fakturoid_AI_agent.json)|
+|14085|[14085_Process_emailed_PDF_invoices_into_QuickBooks_bills_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14085_Process_emailed_PDF_invoices_into_QuickBooks_bills_with_OpenAI.json)|
+|14146|[14146_Flag_duplicate_and_risky_AP_invoices_with_Gmail__OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14146_Flag_duplicate_and_risky_AP_invoices_with_Gmail__OpenAI_and_Supabase.json)|
+|14252|[14252_Extract_Indonesian_stock__IDX__trades_from_Telegram_invoices_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14252_Extract_Indonesian_stock__IDX__trades_from_Telegram_invoices_with_Gemini_AI.json)|
+|14269|[14269_Process_invoices_and_send_weekly_AI_reports_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14269_Process_invoices_and_send_weekly_AI_reports_with_OpenAI_and_Gmail.json)|
+|14272|[14272_Process_email_invoices_with_OCR__GPT-4__Slack__QuickBooks_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14272_Process_email_invoices_with_OCR__GPT-4__Slack__QuickBooks_and_Google_Sheets.json)|
+|14289|[14289_Generate_and_track_invoices_with_HubSpot__Gmail__Slack__Sheets__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14289_Generate_and_track_invoices_with_HubSpot__Gmail__Slack__Sheets__and_Notion.json)|
+|14318|[14318_Classify_invoices_and_route_them_to_Google_Drive_folders_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14318_Classify_invoices_and_route_them_to_Google_Drive_folders_with_easybits_and_Slack.json)|
+|14960|[14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json)|

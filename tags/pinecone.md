@@ -1,4 +1,4 @@
-# pinecone : 89
+# pinecone : 94
 
 |id|file|
 |----|----|
@@ -91,3 +91,8 @@
 |13501|[13501_Generate_due_diligence_reports_with_LlamaIndex__Pinecone__and_GPT-5-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13501_Generate_due_diligence_reports_with_LlamaIndex__Pinecone__and_GPT-5-mini.json)|
 |13802|[13802_Turn_your_website_docs_into_a_GPT-4.1-mini_support_chatbot_with_MrScraper_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13802_Turn_your_website_docs_into_a_GPT-4.1-mini_support_chatbot_with_MrScraper_and_Pinecone.json)|
 |13861|[13861_Send_personalized_SaaS_welcome_emails_with_Stripe__Pinecone__GPT-4o__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13861_Send_personalized_SaaS_welcome_emails_with_Stripe__Pinecone__GPT-4o__and_Gmail.json)|
+|13959|[13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json)|
+|13964|[13964_Scrape_and_ingest_web_pages_into_a_Pinecone_RAG_stack_with_Firecrawl_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13964_Scrape_and_ingest_web_pages_into_a_Pinecone_RAG_stack_with_Firecrawl_and_OpenAI.json)|
+|14041|[14041_Build_a_document-upload_RAG_chatbot_with_OpenAI__Pinecone_and_daily_analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14041_Build_a_document-upload_RAG_chatbot_with_OpenAI__Pinecone_and_daily_analytics.json)|
+|14157|[14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json)|
+|14667|[14667_Evaluate_job_fit_and_generate_application_assets_from_Telegram_links_with_OpenAI__Pinecone__Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14667_Evaluate_job_fit_and_generate_application_assets_from_Telegram_links_with_OpenAI__Pinecone__Apify_and_Google_Sheets.json)|

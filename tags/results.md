@@ -1,4 +1,4 @@
-# results : 38
+# results : 43
 
 |id|file|
 |----|----|
@@ -40,3 +40,8 @@
 |13652|[13652_Review_GitHub_pull_requests_with_AI_and_log_results_to_PostgreSQL_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13652_Review_GitHub_pull_requests_with_AI_and_log_results_to_PostgreSQL_and_Slack.json)|
 |13800|[13800_Extract_product_details_from_search_result_URLs_with_MrScraper_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13800_Extract_product_details_from_search_result_URLs_with_MrScraper_and_Google_Sheets.json)|
 |13871|[13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json)|
+|13937|[13937_Research_people_with_Perplexity_AI_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13937_Research_people_with_Perplexity_AI_and_log_results_to_Google_Sheets.json)|
+|13948|[13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json)|
+|14138|[14138_Screen_job_applications_from_Google_Forms_with_Google_Gemini_and_email_results.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14138_Screen_job_applications_from_Google_Forms_with_Google_Gemini_and_email_results.json)|
+|14179|[14179_Enrich_people_skip-trace_results_from_n8n_forms_with_ScraperCity_into_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14179_Enrich_people_skip-trace_results_from_n8n_forms_with_ScraperCity_into_Notion.json)|
+|14226|[14226_Auto-fill_Monday.com_lead_boards_with_FullEnrich_People_Search_results.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14226_Auto-fill_Monday.com_lead_boards_with_FullEnrich_People_Search_results.json)|

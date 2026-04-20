@@ -1,4 +1,4 @@
-# chatbot : 181
+# chatbot : 189
 
 |id|file|
 |----|----|
@@ -183,3 +183,11 @@
 |13802|[13802_Turn_your_website_docs_into_a_GPT-4.1-mini_support_chatbot_with_MrScraper_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13802_Turn_your_website_docs_into_a_GPT-4.1-mini_support_chatbot_with_MrScraper_and_Pinecone.json)|
 |13811|[13811_Build_a_private_Llama_chatbot_with_Ollama__Groq__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13811_Build_a_private_Llama_chatbot_with_Ollama__Groq__Slack_and_Google_Sheets.json)|
 |13812|[13812_Automate_Job_applications______with_Chatbot__PredictLeads_and_ScrapegraphAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13812_Automate_Job_applications______with_Chatbot__PredictLeads_and_ScrapegraphAI.json)|
+|13984|[13984_AI-Powered_WhatsApp_Chatbot_____Complete_Booking_Assistant_with_Gemini___Google.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13984_AI-Powered_WhatsApp_Chatbot_____Complete_Booking_Assistant_with_Gemini___Google.json)|
+|14026|[14026_Auto-reply_to_Instagram_DMs_with_an_AI_chatbot_and_Google_Gemini_history.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14026_Auto-reply_to_Instagram_DMs_with_an_AI_chatbot_and_Google_Gemini_history.json)|
+|14041|[14041_Build_a_document-upload_RAG_chatbot_with_OpenAI__Pinecone_and_daily_analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14041_Build_a_document-upload_RAG_chatbot_with_OpenAI__Pinecone_and_daily_analytics.json)|
+|14157|[14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json)|
+|14291|[14291_Guide_students_with_an_AI_tutor_chatbot_using_RAG__intent_classification_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14291_Guide_students_with_an_AI_tutor_chatbot_using_RAG__intent_classification_and_GPT-4o-mini.json)|
+|14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|
+|14816|[14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json)|
+|14979|[14979_Build_an_SEO_chatbot_with_GPT-4o-mini_using_your_Google_Sheets_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14979_Build_an_SEO_chatbot_with_GPT-4o-mini_using_your_Google_Sheets_data.json)|

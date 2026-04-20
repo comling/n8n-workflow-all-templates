@@ -1,4 +1,4 @@
-# spot : 12
+# spot : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |8612|[8612_Fetch_Real-Time_MEXC_Spot_Market_Data_with_GPT-4.1-mini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8612_Fetch_Real-Time_MEXC_Spot_Market_Data_with_GPT-4.1-mini_and_Telegram.json)|
 |9842|[9842_Automate_Bitget_Spot_Trading_with_GPT-4o-mini_AI_Agent_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9842_Automate_Bitget_Spot_Trading_with_GPT-4o-mini_AI_Agent_via_Telegram.json)|
 |13512|[13512_Export_your_daily_Binance_spot_portfolio_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13512_Export_your_daily_Binance_spot_portfolio_to_Google_Sheets.json)|
+|15017|[15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json)|

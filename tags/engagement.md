@@ -1,4 +1,4 @@
-# engagement : 38
+# engagement : 39
 
 |id|file|
 |----|----|
@@ -40,3 +40,4 @@
 |13346|[13346_Enrich_HubSpot_sales_sequence_contacts_with_Lusha_and_route_to_outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13346_Enrich_HubSpot_sales_sequence_contacts_with_Lusha_and_route_to_outreach.json)|
 |13462|[13462_Track_Facebook_Page_post_Engagement__Comments__Like__Shares__in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13462_Track_Facebook_Page_post_Engagement__Comments__Like__Shares__in_Google_Sheets.json)|
 |13518|[13518_Re-engage_HubSpot_leads_using_Azure_OpenAI_GPT-4o__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13518_Re-engage_HubSpot_leads_using_Azure_OpenAI_GPT-4o__Gmail_and_Slack.json)|
+|14014|[14014_Analyze_competitor_Instagram_engagement_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14014_Analyze_competitor_Instagram_engagement_with_Bright_Data_and_GPT-5.4.json)|

@@ -1,4 +1,4 @@
-# translate : 41
+# translate : 42
 
 |id|file|
 |----|----|
@@ -43,3 +43,4 @@
 |12723|[12723_Translate___and_upload_dubbed_YouTube_videos___using_ElevenLabs_AI_Dubbing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12723_Translate___and_upload_dubbed_YouTube_videos___using_ElevenLabs_AI_Dubbing.json)|
 |13171|[13171_Translate_RSS_news_and_publish_to_WordPress__Facebook__LinkedIn_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13171_Translate_RSS_news_and_publish_to_WordPress__Facebook__LinkedIn_and_Telegram.json)|
 |13543|[13543_Translate_WordPress_posts_and_ACF_fields_using_DeepL_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13543_Translate_WordPress_posts_and_ACF_fields_using_DeepL_and_OpenAI.json)|
+|14662|[14662_Translate_and_dub_spokesperson_videos_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14662_Translate_and_dub_spokesperson_videos_using_Anthropic_and_deAPI.json)|

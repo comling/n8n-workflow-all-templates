@@ -1,4 +1,4 @@
-# veo3 : 36
+# veo3 : 37
 
 |id|file|
 |----|----|
@@ -38,3 +38,4 @@
 |11204|[11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json)|
 |11575|[11575_Create_AI_Dream_Videos_with_Analysis_using_Veo3_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11575_Create_AI_Dream_Videos_with_Analysis_using_Veo3_and_Telegram.json)|
 |12122|[12122_Create_AI-powered_3D_product_videos_from_images_with_VEO3_for_Shopify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12122_Create_AI-powered_3D_product_videos_from_images_with_VEO3_for_Shopify.json)|
+|14554|[14554_Create_AI_Instagram_Reels_with_GPT-4.1__Veo3__Google_Sheets_and_Bloatato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14554_Create_AI_Instagram_Reels_with_GPT-4.1__Veo3__Google_Sheets_and_Bloatato.json)|

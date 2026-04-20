@@ -1,4 +1,4 @@
-# transcripts : 42
+# transcripts : 46
 
 |id|file|
 |----|----|
@@ -44,3 +44,7 @@
 |12737|[12737_Extract_sales_insights_from_Scoot_call_transcripts_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12737_Extract_sales_insights_from_Scoot_call_transcripts_using_Gemini.json)|
 |12935|[12935_Send_YouTube_transcripts_to_Slack_using_AssemblyAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12935_Send_YouTube_transcripts_to_Slack_using_AssemblyAI.json)|
 |13749|[13749_Summarize_YouTube_video_transcripts_in_Discord_with_Gemini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13749_Summarize_YouTube_video_transcripts_in_Discord_with_Gemini_and_Supabase.json)|
+|14001|[14001_Convert_YouTube_transcripts_in_Google_Sheets_to_X__Twitter__threads_with_Apify__OpenAI_and_RapidAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14001_Convert_YouTube_transcripts_in_Google_Sheets_to_X__Twitter__threads_with_Apify__OpenAI_and_RapidAPI.json)|
+|14331|[14331_Analyze_Retell_AI_call_transcripts_with_OpenAI_and_sync_insights_to_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14331_Analyze_Retell_AI_call_transcripts_with_OpenAI_and_sync_insights_to_HubSpot.json)|
+|14717|[14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json)|
+|14758|[14758_Publish_blog_posts_from_YouTube_transcripts_to_WordPress_and_Telegram_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14758_Publish_blog_posts_from_YouTube_transcripts_to_WordPress_and_Telegram_with_Gemini.json)|

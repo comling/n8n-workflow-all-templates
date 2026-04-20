@@ -1,4 +1,4 @@
-# website : 137
+# website : 145
 
 |id|file|
 |----|----|
@@ -139,3 +139,11 @@
 |13455|[13455_Monitor_website_changes_and_send_diff_alerts_via_Telegram_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13455_Monitor_website_changes_and_send_diff_alerts_via_Telegram_and_email.json)|
 |13672|[13672_Monitor_website_uptime_and_diagnose_errors_with_Gemini_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13672_Monitor_website_uptime_and_diagnose_errors_with_Gemini_and_Slack_alerts.json)|
 |13802|[13802_Turn_your_website_docs_into_a_GPT-4.1-mini_support_chatbot_with_MrScraper_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13802_Turn_your_website_docs_into_a_GPT-4.1-mini_support_chatbot_with_MrScraper_and_Pinecone.json)|
+|13993|[13993_Send_weekly_GA4_WoW_email_reports_with_Gemini_AI_executive_summary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13993_Send_weekly_GA4_WoW_email_reports_with_Gemini_AI_executive_summary.json)|
+|14151|[14151_Compare_website_SEO_gaps_using_Google_Sheets__HTML_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14151_Compare_website_SEO_gaps_using_Google_Sheets__HTML_and_Gemini_AI.json)|
+|14157|[14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json)|
+|14227|[14227_Send_AI_website_audits_with_GPT-4.1_and_Gmail_as_a_lead_magnet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14227_Send_AI_website_audits_with_GPT-4.1_and_Gmail_as_a_lead_magnet.json)|
+|14323|[14323_Send_a_daily_paid_acquisition_and_website_intelligence_report_with_Databox__GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14323_Send_a_daily_paid_acquisition_and_website_intelligence_report_with_Databox__GPT-4o_and_Gmail.json)|
+|14375|[14375_Detect_stale_website_content_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14375_Detect_stale_website_content_with_OpenAI__Google_Sheets__and_Gmail.json)|
+|14841|[14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json)|
+|14981|[14981_Process_website_contact_form_submissions_with_SharePoint_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14981_Process_website_contact_form_submissions_with_SharePoint_and_Gmail.json)|

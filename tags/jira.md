@@ -1,4 +1,4 @@
-# jira : 91
+# jira : 100
 
 |id|file|
 |----|----|
@@ -93,3 +93,12 @@
 |13553|[13553_Generate_continuous_PRD_updates_in_Google_Docs_from_Slack__Zoom__Jira__Zendesk__Figma_and_analytics_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13553_Generate_continuous_PRD_updates_in_Google_Docs_from_Slack__Zoom__Jira__Zendesk__Figma_and_analytics_using_OpenAI.json)|
 |13692|[13692_Monitor_zero-day_threats_with_Anthropic_Claude__Airtable__Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13692_Monitor_zero-day_threats_with_Anthropic_Claude__Airtable__Slack_and_Jira.json)|
 |13696|[13696_Monitor_brand_reputation_crises_with_Twitter_X__Reddit__News_API__Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13696_Monitor_brand_reputation_crises_with_Twitter_X__Reddit__News_API__Slack_and_Jira.json)|
+|14070|[14070_Turn_new_Jira_tickets_into_CloudCLI_AI_coding_sessions_with_Claude_Code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14070_Turn_new_Jira_tickets_into_CloudCLI_AI_coding_sessions_with_Claude_Code.json)|
+|14120|[14120_Route_email_actions_from_Notion_with_Gmail__Slack__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14120_Route_email_actions_from_Notion_with_Gmail__Slack__and_Jira.json)|
+|14124|[14124_Route_product_signals_from_Notion_to_Jira_and_Slack_backlogs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14124_Route_product_signals_from_Notion_to_Jira_and_Slack_backlogs.json)|
+|14221|[14221_Onboard_employees_from_Google_Forms_with_Slack__Jira__and_GitHub_access.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14221_Onboard_employees_from_Google_Forms_with_Slack__Jira__and_GitHub_access.json)|
+|14391|[14391_Generate_AI_videos_from_prompts_with_Seedance__Jira__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14391_Generate_AI_videos_from_prompts_with_Seedance__Jira__Slack__and_Gmail.json)|
+|14684|[14684_Turn_support_tickets_into_developer_insights_with_OpenAI__Postgres__Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14684_Turn_support_tickets_into_developer_insights_with_OpenAI__Postgres__Slack_and_Jira.json)|
+|14709|[14709_Monitor_partner_API_usage_with_Slack__Jira_and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14709_Monitor_partner_API_usage_with_Slack__Jira_and_Gmail_alerts.json)|
+|14718|[14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json)|
+|14779|[14779_Log_Jira_worklogs_nightly_from_Google_Sheets_with_Gmail_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14779_Log_Jira_worklogs_nightly_from_Google_Sheets_with_Gmail_and_GPT-4o-mini.json)|

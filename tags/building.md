@@ -1,4 +1,4 @@
-# building : 6
+# building : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |7130|[7130_Build_Targeted_Prospect_Lists__Find___Enrich_Leads_with_Surfe_to_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7130_Build_Targeted_Prospect_Lists__Find___Enrich_Leads_with_Surfe_to_HubSpot.json)|
 |7708|[7708_AI_Resume_Analysis___Candidate_Evaluation_with_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7708_AI_Resume_Analysis___Candidate_Evaluation_with_Slack_and_Google_Sheets.json)|
 |9855|[9855_Extract_LinkedIn_Profile_Data___Generate_Follow-ups_with_Vision_AI_and_Google_Forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9855_Extract_LinkedIn_Profile_Data___Generate_Follow-ups_with_Vision_AI_and_Google_Forms.json)|
+|13970|[13970_Screen_CVs_and_score_candidates_with_Gmail__Google_Drive__OpenAI__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13970_Screen_CVs_and_score_candidates_with_Gmail__Google_Drive__OpenAI__and_Sheets.json)|

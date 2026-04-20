@@ -1,4 +1,4 @@
-# detect : 44
+# detect : 54
 
 |id|file|
 |----|----|
@@ -46,3 +46,13 @@
 |13706|[13706_Detect_and_isolate_ransomware_with_Claude__Anthropic___EDR__SIEM_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13706_Detect_and_isolate_ransomware_with_Claude__Anthropic___EDR__SIEM_and_Slack.json)|
 |13708|[13708_Detect_influencer_fraud_and_fake_followers_with_Instagram__X__TikTok_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13708_Detect_influencer_fraud_and_fake_followers_with_Instagram__X__TikTok_and_Claude.json)|
 |13838|[13838_Detect_content_decay_from_Google_Search_Console_and_alert_via_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13838_Detect_content_decay_from_Google_Search_Console_and_alert_via_Slack_and_email.json)|
+|14002|[14002_Detect_misinformation_and_manipulation_risks_with_GPT-4o_agents_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14002_Detect_misinformation_and_manipulation_risks_with_GPT-4o_agents_and_Google_Sheets.json)|
+|14098|[14098_Detect_competitor_tech_adoption_and_notify_AEs_with_PredictLeads__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14098_Detect_competitor_tech_adoption_and_notify_AEs_with_PredictLeads__Sheets_and_Gmail.json)|
+|14180|[14180_Detect_duplicate_invoice_PDFs_from_Gmail_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14180_Detect_duplicate_invoice_PDFs_from_Gmail_with_easybits_and_Google_Sheets.json)|
+|14320|[14320_Detect_and_mask_PII_for_GDPR-safe_AI_document_analysis_with_Anthropic_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14320_Detect_and_mask_PII_for_GDPR-safe_AI_document_analysis_with_Anthropic_and_PostgreSQL.json)|
+|14375|[14375_Detect_stale_website_content_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14375_Detect_stale_website_content_with_OpenAI__Google_Sheets__and_Gmail.json)|
+|14469|[14469_Detect_underpriced_MLS_properties_with_GPT_and_alert_via_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14469_Detect_underpriced_MLS_properties_with_GPT_and_alert_via_Gmail_and_Slack.json)|
+|14545|[14545_Detect__Analyze_and_Humanize________AI-generated_text_using_Rephrasy.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14545_Detect__Analyze_and_Humanize________AI-generated_text_using_Rephrasy.json)|
+|14551|[14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json)|
+|14882|[14882_Detect_churn_risk_from_competitor_tech_adoption_using_PredictLeads_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14882_Detect_churn_risk_from_competitor_tech_adoption_using_PredictLeads_and_Gmail.json)|
+|14897|[14897_Detect_WooCommerce_order_fraud_and_send_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14897_Detect_WooCommerce_order_fraud_and_send_alerts_to_Slack.json)|

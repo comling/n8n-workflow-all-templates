@@ -1,4 +1,4 @@
-# automatic : 76
+# automatic : 77
 
 |id|file|
 |----|----|
@@ -78,3 +78,4 @@
 |11985|[11985_Automatic_Instagram_content_creation_with_OpenAI__Nano_Banana_and_Telegram_check.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11985_Automatic_Instagram_content_creation_with_OpenAI__Nano_Banana_and_Telegram_check.json)|
 |12571|[12571_Generate__translate_and_publish_AI_content_to_WordPress_and_socials_with_GPT-4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12571_Generate__translate_and_publish_AI_content_to_WordPress_and_socials_with_GPT-4.1_and_Google_Sheets.json)|
 |13290|[13290_Monitor_scheduled_workflow_health_in_n8n_with_automatic_trigger_checks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13290_Monitor_scheduled_workflow_health_in_n8n_with_automatic_trigger_checks.json)|
+|14299|[14299_Automatic_AI_reply_when_mentioned_in_a_Liveblocks_comment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14299_Automatic_AI_reply_when_mentioned_in_a_Liveblocks_comment.json)|

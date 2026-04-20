@@ -1,4 +1,4 @@
-# postgresql : 52
+# postgresql : 57
 
 |id|file|
 |----|----|
@@ -54,3 +54,8 @@
 |13407|[13407_Create_a_human-like_Evolution_API_WhatsApp_agent_with_Redis__PostgreSQL_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13407_Create_a_human-like_Evolution_API_WhatsApp_agent_with_Redis__PostgreSQL_and_Gemini.json)|
 |13652|[13652_Review_GitHub_pull_requests_with_AI_and_log_results_to_PostgreSQL_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13652_Review_GitHub_pull_requests_with_AI_and_log_results_to_PostgreSQL_and_Slack.json)|
 |13876|[13876_Screen_CVs_with_OpenAI_and_PostgreSQL_using_chained_prompts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13876_Screen_CVs_with_OpenAI_and_PostgreSQL_using_chained_prompts.json)|
+|13978|[13978_Improve_AI_support_email_drafts_with_Gmail__OpenAI_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13978_Improve_AI_support_email_drafts_with_Gmail__OpenAI_and_PostgreSQL.json)|
+|14035|[14035_Monitor_PostgreSQL_data_quality_and_generate_remediation_alerts_with_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14035_Monitor_PostgreSQL_data_quality_and_generate_remediation_alerts_with_Slack.json)|
+|14057|[14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json)|
+|14320|[14320_Detect_and_mask_PII_for_GDPR-safe_AI_document_analysis_with_Anthropic_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14320_Detect_and_mask_PII_for_GDPR-safe_AI_document_analysis_with_Anthropic_and_PostgreSQL.json)|
+|14993|[14993_Sync_Salesforce_leads_and_opportunities_to_PostgreSQL_with_backfill_and_incremental_ETL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14993_Sync_Salesforce_leads_and_opportunities_to_PostgreSQL_with_backfill_and_incremental_ETL.json)|

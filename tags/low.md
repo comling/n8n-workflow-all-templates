@@ -1,4 +1,4 @@
-# low : 13
+# low : 15
 
 |id|file|
 |----|----|
@@ -15,3 +15,5 @@
 |7253|[7253_Monitor_Blood_Bank_Stock___Send_Low_Level_Alerts_with_Google_Sheets_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7253_Monitor_Blood_Bank_Stock___Send_Low_Level_Alerts_with_Google_Sheets_and_WhatsApp.json)|
 |11216|[11216_Find_low-competition_keyword_opportunities_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11216_Find_low-competition_keyword_opportunities_with_DataForSEO.json)|
 |13276|[13276_Send_weekly_low_stock_alerts_from_WooCommerce_to_Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13276_Send_weekly_low_stock_alerts_from_WooCommerce_to_Slack_and_Jira.json)|
+|14370|[14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json)|
+|14528|[14528_Monitor_low-rated_WooCommerce_reviews_with_Google_Sheets__Slack_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14528_Monitor_low-rated_WooCommerce_reviews_with_Google_Sheets__Slack_and_OpenAI.json)|

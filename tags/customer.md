@@ -1,4 +1,4 @@
-# customer : 172
+# customer : 180
 
 |id|file|
 |----|----|
@@ -174,3 +174,11 @@
 |13587|[13587_Analyze_Amazon_review_friction_and_revenue_impact_with_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13587_Analyze_Amazon_review_friction_and_revenue_impact_with_Bright_Data__OpenRouter_and_Google_Sheets.json)|
 |13593|[13593_Analyze_customer_sales_calls_and_update_CRM_with_Whisper_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13593_Analyze_customer_sales_calls_and_update_CRM_with_Whisper_and_GPT-4.json)|
 |13726|[13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json)|
+|14038|[14038_Draft_and_send_AI_customer_support_email_replies_with_Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14038_Draft_and_send_AI_customer_support_email_replies_with_Gmail_and_Google_Sheets.json)|
+|14641|[14641_Extract_customer_testimonial_clips_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14641_Extract_customer_testimonial_clips_using_WayinVideo_AI_and_Google_Drive.json)|
+|14816|[14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json)|
+|14828|[14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json)|
+|14916|[14916_Collect_and_publish_customer_testimonials_with_Claude__email__CRM_and_review_sites.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14916_Collect_and_publish_customer_testimonials_with_Claude__email__CRM_and_review_sites.json)|
+|14966|[14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json)|
+|14967|[14967_Triage_customer_complaint_emails_from_Gmail_with_GPT-4o-mini__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14967_Triage_customer_complaint_emails_from_Gmail_with_GPT-4o-mini__Slack_and_Sheets.json)|
+|14994|[14994_Send_multi-stage_customer_project_emails_from_Google_Sheets_with_Zoho_ZeptoMail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14994_Send_multi-stage_customer_project_emails_from_Google_Sheets_with_Zoho_ZeptoMail.json)|

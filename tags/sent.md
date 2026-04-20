@@ -1,4 +1,4 @@
-# sent : 11
+# sent : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |7582|[7582_Create_Meeting_Minutes_from_Telegram_Messages_with_GPT-5_to_Airtable_Slack_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7582_Create_Meeting_Minutes_from_Telegram_Messages_with_GPT-5_to_Airtable_Slack_Gmail.json)|
 |7726|[7726_Daily_Stock_Market_Report_with_Twelve_Data_API_Sent_via_WhatsApp_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7726_Daily_Stock_Market_Report_with_Twelve_Data_API_Sent_via_WhatsApp_and_Email.json)|
 |13324|[13324_Sync_Gmail_sent_email_contacts_with_Odoo_mailing_lists.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13324_Sync_Gmail_sent_email_contacts_with_Odoo_mailing_lists.json)|
+|14539|[14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json)|

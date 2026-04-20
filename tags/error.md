@@ -1,4 +1,4 @@
-# error : 42
+# error : 45
 
 |id|file|
 |----|----|
@@ -44,3 +44,6 @@
 |12724|[12724_Automated_error_monitoring_and_reporting_system_using_data_tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12724_Automated_error_monitoring_and_reporting_system_using_data_tables.json)|
 |12890|[12890_Send_severity-based_error_alerts_using_Telegram__email_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12890_Send_severity-based_error_alerts_using_Telegram__email_and_Google_Sheets.json)|
 |12989|[12989_Aggregate_error_alerts_and_send_consolidated_reports_via_Email_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12989_Aggregate_error_alerts_and_send_consolidated_reports_via_Email_and_Jira.json)|
+|14208|[14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json)|
+|14964|[14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json)|
+|14988|[14988_Monitor_n8n_workflows_with_Watchflow_dead_man_s_switch_and_error_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14988_Monitor_n8n_workflows_with_Watchflow_dead_man_s_switch_and_error_alerts.json)|

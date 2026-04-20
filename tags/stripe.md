@@ -1,4 +1,4 @@
-# stripe : 63
+# stripe : 66
 
 |id|file|
 |----|----|
@@ -65,3 +65,6 @@
 |13368|[13368_Monitor_agency_profitability_with_Facebook_Ads__Shopify__Stripe__Clockify__Google_Sheets__Slack_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13368_Monitor_agency_profitability_with_Facebook_Ads__Shopify__Stripe__Clockify__Google_Sheets__Slack_and_Gemini.json)|
 |13483|[13483_Notify_customers_on_WhatsApp_when_Stripe_payment_succeeds_with_MoltFlow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13483_Notify_customers_on_WhatsApp_when_Stripe_payment_succeeds_with_MoltFlow.json)|
 |13861|[13861_Send_personalized_SaaS_welcome_emails_with_Stripe__Pinecone__GPT-4o__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13861_Send_personalized_SaaS_welcome_emails_with_Stripe__Pinecone__GPT-4o__and_Gmail.json)|
+|13980|[13980_Reconcile_Stripe_payments_and_flag_anomalies_with_Google_Sheets_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13980_Reconcile_Stripe_payments_and_flag_anomalies_with_Google_Sheets_and_Gemini_AI.json)|
+|13982|[13982_Forecast_sales_trends_and_weekly_reports_with_Stripe__Sheets__Slack__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13982_Forecast_sales_trends_and_weekly_reports_with_Stripe__Sheets__Slack__and_Gemini_AI.json)|
+|14761|[14761_Generate_invoice_PDFs_from_Stripe_payments_using_TemplateFox__Gmail_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14761_Generate_invoice_PDFs_from_Stripe_payments_using_TemplateFox__Gmail_and_Drive.json)|

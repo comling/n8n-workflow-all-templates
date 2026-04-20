@@ -1,4 +1,4 @@
-# your : 198
+# your : 209
 
 |id|file|
 |----|----|
@@ -200,3 +200,14 @@
 |13521|[13521_Send_employee_leave_alerts_from_Google_Sheets_via_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13521_Send_employee_leave_alerts_from_Google_Sheets_via_Slack_and_Gmail.json)|
 |13751|[13751_Generate_and_host_AI_images_on_your_CDN_with_Gemini_Imagen_3_and_Upload_to_URL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13751_Generate_and_host_AI_images_on_your_CDN_with_Gemini_Imagen_3_and_Upload_to_URL.json)|
 |13802|[13802_Turn_your_website_docs_into_a_GPT-4.1-mini_support_chatbot_with_MrScraper_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13802_Turn_your_website_docs_into_a_GPT-4.1-mini_support_chatbot_with_MrScraper_and_Pinecone.json)|
+|13959|[13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json)|
+|13977|[13977_Chat_with_your_PDF_documents_using_PageIndex_vectorless_RAG_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13977_Chat_with_your_PDF_documents_using_PageIndex_vectorless_RAG_via_Telegram.json)|
+|14057|[14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json)|
+|14060|[14060_Verify_form_leads_in_real_time_with_NeverBounce_before_adding_to_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14060_Verify_form_leads_in_real_time_with_NeverBounce_before_adding_to_your_CRM.json)|
+|14322|[14322_Get_AI_insights_from_Databox_in_Slack_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14322_Get_AI_insights_from_Databox_in_Slack_using_OpenAI.json)|
+|14687|[14687_Capture_and_enrich_leads_with_GPT-4o__Postgres__Slack__Gmail_and_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14687_Capture_and_enrich_leads_with_GPT-4o__Postgres__Slack__Gmail_and_your_CRM.json)|
+|14826|[14826_Route_and_triage_support_tickets_with_Claude_Sonnet_and_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14826_Route_and_triage_support_tickets_with_Claude_Sonnet_and_your_CRM.json)|
+|14854|[14854_Publish_daily_gaming_guides_from_Reddit_using_Google_Gemini_to_your_web_app.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14854_Publish_daily_gaming_guides_from_Reddit_using_Google_Gemini_to_your_web_app.json)|
+|14935|[14935_Sync_Zoho_CRM_contacts_with_Beex_Contact_Center_in_real_time.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14935_Sync_Zoho_CRM_contacts_with_Beex_Contact_Center_in_real_time.json)|
+|14979|[14979_Build_an_SEO_chatbot_with_GPT-4o-mini_using_your_Google_Sheets_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14979_Build_an_SEO_chatbot_with_GPT-4o-mini_using_your_Google_Sheets_data.json)|
+|15015|[15015_Search_your_travel_memories_with_Gmail__Google_Photos__GPT-4_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15015_Search_your_travel_memories_with_Gmail__Google_Photos__GPT-4_and_Claude.json)|

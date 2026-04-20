@@ -1,4 +1,4 @@
-# insights : 85
+# insights : 94
 
 |id|file|
 |----|----|
@@ -87,3 +87,12 @@
 |13593|[13593_Analyze_customer_sales_calls_and_update_CRM_with_Whisper_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13593_Analyze_customer_sales_calls_and_update_CRM_with_Whisper_and_GPT-4.json)|
 |13646|[13646_Compare_LINE_palm_images_and_log_Gemini_health_insights_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13646_Compare_LINE_palm_images_and_log_Gemini_health_insights_to_Google_Sheets.json)|
 |13872|[13872_Analyze_Shopify_orders_with_Gemini_AI_and_send_weekly_Slack_insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13872_Analyze_Shopify_orders_with_Gemini_AI_and_send_weekly_Slack_insights.json)|
+|13983|[13983_Monitor_competitors_and_generate_market_insights_with_Claude_AI_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13983_Monitor_competitors_and_generate_market_insights_with_Claude_AI_and_Notion.json)|
+|14254|[14254_Query_Databricks_data_and_SQL_insights_via_Slack_with_Gemini_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14254_Query_Databricks_data_and_SQL_insights_via_Slack_with_Gemini_AI_agent.json)|
+|14311|[14311_Track_competitor_prices_and_email_AI_insights_with_Google_Sheets__Groq_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14311_Track_competitor_prices_and_email_AI_insights_with_Google_Sheets__Groq_and_Gmail.json)|
+|14322|[14322_Get_AI_insights_from_Databox_in_Slack_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14322_Get_AI_insights_from_Databox_in_Slack_using_OpenAI.json)|
+|14331|[14331_Analyze_Retell_AI_call_transcripts_with_OpenAI_and_sync_insights_to_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14331_Analyze_Retell_AI_call_transcripts_with_OpenAI_and_sync_insights_to_HubSpot.json)|
+|14563|[14563_Generate_weekly_sales_insights_with_Google_Sheets__Gemini_AI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14563_Generate_weekly_sales_insights_with_Google_Sheets__Gemini_AI_and_Gmail.json)|
+|14684|[14684_Turn_support_tickets_into_developer_insights_with_OpenAI__Postgres__Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14684_Turn_support_tickets_into_developer_insights_with_OpenAI__Postgres__Slack_and_Jira.json)|
+|14721|[14721_Sync_Meta_Ads_insights_to_Google_Sheets_with_backfill_and_weekly_ETL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14721_Sync_Meta_Ads_insights_to_Google_Sheets_with_backfill_and_weekly_ETL.json)|
+|14931|[14931_Generate_a_weekly_business_health_report_from_Google_Sheets_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14931_Generate_a_weekly_business_health_report_from_Google_Sheets_with_Claude.json)|

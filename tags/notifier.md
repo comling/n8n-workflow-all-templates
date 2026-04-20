@@ -1,4 +1,4 @@
-# notifier : 8
+# notifier : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |5877|[5877_Food_Menu_Update_Notifier.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5877_Food_Menu_Update_Notifier.json)|
 |6360|[6360_Automated_Recruitment_Status_Updates_via_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6360_Automated_Recruitment_Status_Updates_via_Slack_Notifications.json)|
 |8645|[8645_Summarize_Google_Docs___PDFs_with_GPT-4_and_Send_to_Slack_or_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8645_Summarize_Google_Docs___PDFs_with_GPT-4_and_Send_to_Slack_or_Email.json)|
+|14718|[14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json)|

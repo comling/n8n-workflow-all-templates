@@ -1,4 +1,4 @@
-# fallback : 7
+# fallback : 10
 
 |id|file|
 |----|----|
@@ -9,3 +9,6 @@
 |9571|[9571_Implement_Error-Proof_Switch_Node_Fallbacks_for_Reliable_Workflow_Control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9571_Implement_Error-Proof_Switch_Node_Fallbacks_for_Reliable_Workflow_Control.json)|
 |9625|[9625_Transcribing_Telegram_voice_messages_using_Whisper_and_Gemini_with_a_fallback_mechanism.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9625_Transcribing_Telegram_voice_messages_using_Whisper_and_Gemini_with_a_fallback_mechanism.json)|
 |13343|[13343_Enrich_form_leads_with_Lusha__waterfall_enrichment__HubSpot__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13343_Enrich_form_leads_with_Lusha__waterfall_enrichment__HubSpot__and_Slack.json)|
+|13965|[13965_Route_AI_tasks_between_OpenAI_agents_with_confidence-based_email_fallback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13965_Route_AI_tasks_between_OpenAI_agents_with_confidence-based_email_fallback.json)|
+|14207|[14207_Proofread_markdown_blog_posts_with_Gemini__Groq_fallback_and_GitHub_auto-commit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14207_Proofread_markdown_blog_posts_with_Gemini__Groq_fallback_and_GitHub_auto-commit.json)|
+|14683|[14683_Route_AI_tasks_with_OpenAI_GPT_4.1_mini_and_confidence_based_email_fallback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14683_Route_AI_tasks_with_OpenAI_GPT_4.1_mini_and_confidence_based_email_fallback.json)|

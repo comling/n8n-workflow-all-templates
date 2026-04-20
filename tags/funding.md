@@ -1,4 +1,4 @@
-# funding : 6
+# funding : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |4730|[4730_Automated_Funding_Intelligence__CrunchBase_to_Google_Sheets_Tracking_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4730_Automated_Funding_Intelligence__CrunchBase_to_Google_Sheets_Tracking_Workflow.json)|
 |4796|[4796_Track_US_Fintech___Healthtech_Funding_Rounds__Crunchbase_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4796_Track_US_Fintech___Healthtech_Funding_Rounds__Crunchbase_to_Google_Sheets.json)|
 |8584|[8584_Automate_funding_insights_with_Crunchbase__Google_Sheets___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8584_Automate_funding_insights_with_Crunchbase__Google_Sheets___Airtable.json)|
+|14102|[14102_Generate_weekly_Seed___Series_A_scouting_reports_with_PredictLeads_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14102_Generate_weekly_Seed___Series_A_scouting_reports_with_PredictLeads_and_OpenAI.json)|

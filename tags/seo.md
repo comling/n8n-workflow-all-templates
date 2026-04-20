@@ -1,4 +1,4 @@
-# seo : 180
+# seo : 188
 
 |id|file|
 |----|----|
@@ -182,3 +182,11 @@
 |13739|[13739_Convert_Google_Drive_PDFs_into_SEO_blog_HTML_using_OpenAI_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13739_Convert_Google_Drive_PDFs_into_SEO_blog_HTML_using_OpenAI_GPT-4.1.json)|
 |13758|[13758_Generate_an_SEO_PDF_report_from_HTML_with_Gotenberg_and_Claude_Opus_4.6.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13758_Generate_an_SEO_PDF_report_from_HTML_with_Gotenberg_and_Claude_Opus_4.6.json)|
 |13817|[13817_Audit_competitor_SEO_content_with_Decodo__Gemini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13817_Audit_competitor_SEO_content_with_Decodo__Gemini__and_Google_Sheets.json)|
+|14151|[14151_Compare_website_SEO_gaps_using_Google_Sheets__HTML_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14151_Compare_website_SEO_gaps_using_Google_Sheets__HTML_and_Gemini_AI.json)|
+|14215|[14215_Generate_Upwork_SEO_proposals_with_GPT-4__DeepSeek__Claude_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14215_Generate_Upwork_SEO_proposals_with_GPT-4__DeepSeek__Claude_and_Google_Docs.json)|
+|14255|[14255_Create_YouTube_SEO_metadata_and_thumbnails_from_Google_Drive_videos_with_Gemini__LemonFox_and_upload-post.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14255_Create_YouTube_SEO_metadata_and_thumbnails_from_Google_Drive_videos_with_Gemini__LemonFox_and_upload-post.json)|
+|14263|[14263_Convert_YouTube_videos_into_SEO_blog_posts_using_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14263_Convert_YouTube_videos_into_SEO_blog_posts_using_WayinVideo_and_GPT-4o-mini.json)|
+|14576|[14576_Publish_Google_News_based_SEO_blog_posts_to_WordPress_with_Claude__Gemini_and_RankMath.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14576_Publish_Google_News_based_SEO_blog_posts_to_WordPress_with_Claude__Gemini_and_RankMath.json)|
+|14690|[14690_Publish_WordPress_SEO_blog_drafts_from_trending_news_with_Brave_Search_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14690_Publish_WordPress_SEO_blog_drafts_from_trending_news_with_Brave_Search_and_OpenAI.json)|
+|14892|[14892_Send_weekly_SEO_keyword_email_reports_with_Google_Search_Console__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14892_Send_weekly_SEO_keyword_email_reports_with_Google_Search_Console__GPT-4o-mini_and_Gmail.json)|
+|14979|[14979_Build_an_SEO_chatbot_with_GPT-4o-mini_using_your_Google_Sheets_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14979_Build_an_SEO_chatbot_with_GPT-4o-mini_using_your_Google_Sheets_data.json)|

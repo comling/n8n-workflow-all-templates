@@ -1,4 +1,4 @@
-# salesforce : 31
+# salesforce : 33
 
 |id|file|
 |----|----|
@@ -33,3 +33,5 @@
 |13738|[13738_Route_event_sales_leads_with_Gmail__Google_Gemini__Sheets_and_Salesforce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13738_Route_event_sales_leads_with_Gmail__Google_Gemini__Sheets_and_Salesforce.json)|
 |13740|[13740_Route_and_qualify_email_leads_with_Gmail__Gemini__Slack__Sheets_and_Salesforce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13740_Route_and_qualify_email_leads_with_Gmail__Gemini__Slack__Sheets_and_Salesforce.json)|
 |13841|[13841_Generate_conference_synthetic_personas_with_Slack__Gemini_and_Salesforce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13841_Generate_conference_synthetic_personas_with_Slack__Gemini_and_Salesforce.json)|
+|14984|[14984_Automate_social_fan-out__marketplace_outreach__and_CRM_alerts_with_Salesforce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14984_Automate_social_fan-out__marketplace_outreach__and_CRM_alerts_with_Salesforce.json)|
+|14993|[14993_Sync_Salesforce_leads_and_opportunities_to_PostgreSQL_with_backfill_and_incremental_ETL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14993_Sync_Salesforce_leads_and_opportunities_to_PostgreSQL_with_backfill_and_incremental_ETL.json)|

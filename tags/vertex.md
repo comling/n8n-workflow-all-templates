@@ -1,4 +1,4 @@
-# vertex : 4
+# vertex : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |5228|[5228_Generate_video_from_prompt_using_Vertex_AI_Veo_3_and_upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5228_Generate_video_from_prompt_using_Vertex_AI_Veo_3_and_upload_to_Google_Drive.json)|
 |7954|[7954_Generate_Videos_from_Chat_with_Google_Vertex_AI__Veo3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7954_Generate_Videos_from_Chat_with_Google_Vertex_AI__Veo3.json)|
 |12168|[12168_Automate_video_creation_with_Gemini_Prompts_and_Vertex_AI_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12168_Automate_video_creation_with_Gemini_Prompts_and_Vertex_AI_to_Google_Drive.json)|
+|14549|[14549_Generate_bulk_Veo_3_videos_from_Google_Sheets_via_Vertex_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14549_Generate_bulk_Veo_3_videos_from_Google_Sheets_via_Vertex_AI.json)|

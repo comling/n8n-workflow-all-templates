@@ -1,4 +1,4 @@
-# sla : 8
+# sla : 11
 
 |id|file|
 |----|----|
@@ -10,3 +10,6 @@
 |12702|[12702_Route_and_reassign_leads_with_SLA_using_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12702_Route_and_reassign_leads_with_SLA_using_Google_Sheets_and_Slack.json)|
 |12940|[12940_Triage_and_escalate_HubSpot_tickets_to_Jira_with_Slack_SLA_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12940_Triage_and_escalate_HubSpot_tickets_to_Jira_with_Slack_SLA_alerts.json)|
 |13163|[13163_Route_support_tickets_with_SLA_tracking__Slack_alerts__and_Gmail_confirmations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13163_Route_support_tickets_with_SLA_tracking__Slack_alerts__and_Gmail_confirmations.json)|
+|14039|[14039_Route_AI_tasks_between_Anthropic_Claude_models_with_Postgres_policies_and_SLA.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14039_Route_AI_tasks_between_Anthropic_Claude_models_with_Postgres_policies_and_SLA.json)|
+|14164|[14164_Automate_service_order_fulfillment_with_Claude__Freshworks_CRM_and_SLA_escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14164_Automate_service_order_fulfillment_with_Claude__Freshworks_CRM_and_SLA_escalation.json)|
+|14237|[14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json)|

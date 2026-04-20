@@ -1,4 +1,4 @@
-# new : 215
+# new : 226
 
 |id|file|
 |----|----|
@@ -217,3 +217,14 @@
 |13694|[13694_Pull_new_backlinks_into_Google_Sheets_with_DataForSEO_and_Gmail_email_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13694_Pull_new_backlinks_into_Google_Sheets_with_DataForSEO_and_Gmail_email_report.json)|
 |13764|[13764_Notify_new_BOAMP_IT_tenders_to_a_Slack_channel_with_the_BOAMP_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13764_Notify_new_BOAMP_IT_tenders_to_a_Slack_channel_with_the_BOAMP_API.json)|
 |13892|[13892_Watermark_and_password-protect_new_Google_Drive_PDFs_with_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13892_Watermark_and_password-protect_new_Google_Drive_PDFs_with_Autype.json)|
+|13946|[13946_Score_and_auto-reply_to_new_leads_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13946_Score_and_auto-reply_to_new_leads_with_OpenAI_and_Gmail.json)|
+|14058|[14058_Scrape_Shopify_store_leads_with_ScraperCity_and_send_contacts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14058_Scrape_Shopify_store_leads_with_ScraperCity_and_send_contacts_to_Slack.json)|
+|14070|[14070_Turn_new_Jira_tickets_into_CloudCLI_AI_coding_sessions_with_Claude_Code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14070_Turn_new_Jira_tickets_into_CloudCLI_AI_coding_sessions_with_Claude_Code.json)|
+|14099|[14099_Track_new_complementary-tool_adopters_with_PredictLeads__Google_Sheets__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14099_Track_new_complementary-tool_adopters_with_PredictLeads__Google_Sheets__OpenAI_and_Gmail.json)|
+|14156|[14156_Auto-publish_new_WordPress_posts_to_Pinterest_with_PinBridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14156_Auto-publish_new_WordPress_posts_to_Pinterest_with_PinBridge.json)|
+|14365|[14365_Sync_new_Shopify_orders_to_Google_Sheets_with_GPT-4.1-mini_analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14365_Sync_new_Shopify_orders_to_Google_Sheets_with_GPT-4.1-mini_analysis.json)|
+|14552|[14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json)|
+|14595|[14595_Post_new_product_drops_to_Instagram_using_uploadtourl_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14595_Post_new_product_drops_to_Instagram_using_uploadtourl_and_Airtable.json)|
+|14710|[14710_Generate_7_new_LinkedIn_posts_from_top_Apify_posts_using_OpenAI_and_save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14710_Generate_7_new_LinkedIn_posts_from_top_Apify_posts_using_OpenAI_and_save_to_Google_Sheets.json)|
+|14825|[14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json)|
+|14969|[14969_Post_new_Shopify_products_to_Instagram__Facebook_and_X_with_OpenAI_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14969_Post_new_Shopify_products_to_Instagram__Facebook_and_X_with_OpenAI_and_Airtable.json)|

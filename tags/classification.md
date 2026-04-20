@@ -1,4 +1,4 @@
-# classification : 38
+# classification : 42
 
 |id|file|
 |----|----|
@@ -40,3 +40,7 @@
 |11911|[11911_Automate_invoice_processing_with_GPT-4o_classification_and_XML_export_to_accounting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11911_Automate_invoice_processing_with_GPT-4o_classification_and_XML_export_to_accounting.json)|
 |12946|[12946_Classify_guest_enquiries_and_send_replies_with_GPT-4o__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12946_Classify_guest_enquiries_and_send_replies_with_GPT-4o__Gmail_and_Slack.json)|
 |12961|[12961_Extract_data_from_PDF_reports_with_Gmail__OCR__Google_Sheets_and_OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12961_Extract_data_from_PDF_reports_with_Gmail__OCR__Google_Sheets_and_OpenAI_GPT-4.1-mini.json)|
+|14291|[14291_Guide_students_with_an_AI_tutor_chatbot_using_RAG__intent_classification_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14291_Guide_students_with_an_AI_tutor_chatbot_using_RAG__intent_classification_and_GPT-4o-mini.json)|
+|14314|[14314_Classify_documents_with_easybits_Extractor_via_web_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14314_Classify_documents_with_easybits_Extractor_via_web_form.json)|
+|14318|[14318_Classify_invoices_and_route_them_to_Google_Drive_folders_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14318_Classify_invoices_and_route_them_to_Google_Drive_folders_with_easybits_and_Slack.json)|
+|14960|[14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json)|

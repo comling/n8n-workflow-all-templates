@@ -1,4 +1,4 @@
-# classifier : 14
+# classifier : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |7633|[7633_Smart_Gmail_Labeling_Automation_with_Text_Classifier_and_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7633_Smart_Gmail_Labeling_Automation_with_Text_Classifier_and_GPT-5.json)|
 |8426|[8426_Gmail_Email_Classifier_with_GPT-4_Auto-Generated_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8426_Gmail_Email_Classifier_with_GPT-4_Auto-Generated_Draft_Replies.json)|
 |12132|[12132_Extract_website_intelligence___classify_ecommerce_URLs_with_Gemini___Firecrawl_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12132_Extract_website_intelligence___classify_ecommerce_URLs_with_Gemini___Firecrawl_to_Google_Sheets.json)|
+|14622|[14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json)|

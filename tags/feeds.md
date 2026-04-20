@@ -1,4 +1,4 @@
-# feeds : 38
+# feeds : 42
 
 |id|file|
 |----|----|
@@ -40,3 +40,7 @@
 |13527|[13527_Summarize_AI_news_from_RSS__Reddit_and_HN_with_Claude_to_Discord_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13527_Summarize_AI_news_from_RSS__Reddit_and_HN_with_Claude_to_Discord_and_Slack.json)|
 |13674|[13674_Summarize_RSS_feeds_into_a_daily_AI_digest_with_Gemini__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13674_Summarize_RSS_feeds_into_a_daily_AI_digest_with_Gemini__Slack__and_Gmail.json)|
 |13839|[13839_Aggregate_tech_trend_signals_from_RSS_feeds_into_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13839_Aggregate_tech_trend_signals_from_RSS_feeds_into_Google_Sheets_and_Slack.json)|
+|13924|[13924_Write_daily_tech_news_with_OpenAI_using_RSS_feeds_and_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13924_Write_daily_tech_news_with_OpenAI_using_RSS_feeds_and_WordPress.json)|
+|14150|[14150_Generate_daily_top_news_digests_from_RSS_feeds_with_Groq_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14150_Generate_daily_top_news_digests_from_RSS_feeds_with_Groq_and_Slack.json)|
+|14172|[14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json)|
+|14932|[14932_Monitor_supply_chain_risk_news_with_Claude_Sonnet_4.5_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14932_Monitor_supply_chain_risk_news_with_Claude_Sonnet_4.5_and_Telegram_alerts.json)|

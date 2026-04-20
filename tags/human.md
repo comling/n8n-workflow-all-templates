@@ -1,4 +1,4 @@
-# human : 65
+# human : 67
 
 |id|file|
 |----|----|
@@ -67,3 +67,5 @@
 |13847|[13847_Production_AI_Playbook__Human_Oversight__Exercise_1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13847_Production_AI_Playbook__Human_Oversight__Exercise_1.json)|
 |13848|[13848_Production_AI_Playbook__Human_Oversight__Exercise_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13848_Production_AI_Playbook__Human_Oversight__Exercise_2.json)|
 |13849|[13849_Production_AI_Playbook__Human_Oversight__Exercise_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13849_Production_AI_Playbook__Human_Oversight__Exercise_3.json)|
+|14007|[14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json)|
+|14551|[14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json)|

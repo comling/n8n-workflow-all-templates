@@ -1,4 +1,4 @@
-# no : 32
+# no : 37
 
 |id|file|
 |----|----|
@@ -34,3 +34,8 @@
 |12125|[12125_Generate_multiple_profile_picture_avatars_with_free_public_APIs__no_keys.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12125_Generate_multiple_profile_picture_avatars_with_free_public_APIs__no_keys.json)|
 |12333|[12333_Generate_AI_stock_buy_no-buy_signals_using_GPT_4.1__Google_Sheets_and_EODHD.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12333_Generate_AI_stock_buy_no-buy_signals_using_GPT_4.1__Google_Sheets_and_EODHD.json)|
 |13409|[13409_Create_an_AI_content_agent_with_Telegram__Gemini__and_Blotato__no-code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13409_Create_an_AI_content_agent_with_Telegram__Gemini__and_Blotato__no-code.json)|
+|13992|[13992_Build_a_Reddit_no-API_weekly_digest_with_ScrapeOps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13992_Build_a_Reddit_no-API_weekly_digest_with_ScrapeOps_and_Google_Sheets.json)|
+|14208|[14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json)|
+|14373|[14373_Send_Emails_from_Google_Sheets__no_code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14373_Send_Emails_from_Google_Sheets__no_code.json)|
+|14539|[14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json)|
+|14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|

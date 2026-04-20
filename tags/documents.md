@@ -1,4 +1,4 @@
-# documents : 84
+# documents : 90
 
 |id|file|
 |----|----|
@@ -86,3 +86,9 @@
 |13688|[13688_Validate_property_documents_with_Claude__Anthropic___Google_Drive_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13688_Validate_property_documents_with_Claude__Anthropic___Google_Drive_and_Slack.json)|
 |13691|[13691_Validate_customs_clearance_documents_with_Claude_AI__Google_Drive_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13691_Validate_customs_clearance_documents_with_Claude_AI__Google_Drive_and_Slack.json)|
 |13784|[13784_Generate_documents_from_saved_templates_and_variables_using_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13784_Generate_documents_from_saved_templates_and_variables_using_Autype.json)|
+|13941|[13941_Mask_PII_in_documents_for_GDPR-safe_AI_processing_with_Postgres_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13941_Mask_PII_in_documents_for_GDPR-safe_AI_processing_with_Postgres_and_Claude.json)|
+|13977|[13977_Chat_with_your_PDF_documents_using_PageIndex_vectorless_RAG_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13977_Chat_with_your_PDF_documents_using_PageIndex_vectorless_RAG_via_Telegram.json)|
+|14274|[14274_Upload_documents_with_validation__deduplication_and_Postgres_storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14274_Upload_documents_with_validation__deduplication_and_Postgres_storage.json)|
+|14314|[14314_Classify_documents_with_easybits_Extractor_via_web_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14314_Classify_documents_with_easybits_Extractor_via_web_form.json)|
+|14327|[14327_Extract_data_from_Dropbox_documents_with_DocuPipe_and_post_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14327_Extract_data_from_Dropbox_documents_with_DocuPipe_and_post_to_Slack.json)|
+|14544|[14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json)|

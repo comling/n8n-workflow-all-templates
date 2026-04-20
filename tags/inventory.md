@@ -1,4 +1,4 @@
-# inventory : 34
+# inventory : 36
 
 |id|file|
 |----|----|
@@ -36,3 +36,5 @@
 |13288|[13288_Sync_NetSuite_inventory_items_between_NetSuite_and_Salesforce_products.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13288_Sync_NetSuite_inventory_items_between_NetSuite_and_Salesforce_products.json)|
 |13410|[13410_Search_hardware_inventory_with_Supabase_vector_RAG_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13410_Search_hardware_inventory_with_Supabase_vector_RAG_and_Google_Gemini.json)|
 |13594|[13594_Handle_e-commerce_support__orders_and_inventory_with_Claude__Shopify_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13594_Handle_e-commerce_support__orders_and_inventory_with_Claude__Shopify_and_Slack.json)|
+|13961|[13961_Monitor_D2C_inventory__forecast_demand_with_GPT-4o__and_send_POs_via_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13961_Monitor_D2C_inventory__forecast_demand_with_GPT-4o__and_send_POs_via_Google_Sheets_and_Gmail.json)|
+|14192|[14192_Monitor_WooCommerce_inventory_daily_and_send_Slack_alerts_with_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14192_Monitor_WooCommerce_inventory_daily_and_send_Slack_alerts_with_Supabase.json)|

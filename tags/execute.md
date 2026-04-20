@@ -1,4 +1,4 @@
-# execute : 8
+# execute : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |688|[688_Execute_Set_node_based_on_Function_output.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/688_Execute_Set_node_based_on_Function_output.json)|
 |716|[716_Execute_a_command_that_gives_the_hard_disk_memory_used_on_the_host_machine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/716_Execute_a_command_that_gives_the_hard_disk_memory_used_on_the_host_machine.json)|
 |913|[913_Execute_multiple_Command_Lines_based_on_Text_File_Inputs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/913_Execute_multiple_Command_Lines_based_on_Text_File_Inputs.json)|
+|14235|[14235_Execute_forex_trading_signals_from_Telegram_on_MetaTrader_5_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14235_Execute_forex_trading_signals_from_Telegram_on_MetaTrader_5_with_Claude.json)|

@@ -1,4 +1,4 @@
-# deals : 18
+# deals : 21
 
 |id|file|
 |----|----|
@@ -20,3 +20,6 @@
 |12328|[12328_Analyze_lost_HubSpot_deals_and_generate_revival_strategies_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12328_Analyze_lost_HubSpot_deals_and_generate_revival_strategies_with_OpenAI.json)|
 |12435|[12435_Find_cheap_flight_deals_using_Google_Gemini__GPT-4__Telegram_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12435_Find_cheap_flight_deals_using_Google_Gemini__GPT-4__Telegram_and_BrowserAct.json)|
 |13837|[13837_Manage_creator_sponsorship_and_brand_deals_with_Gmail__OpenAI__Notion_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13837_Manage_creator_sponsorship_and_brand_deals_with_Gmail__OpenAI__Notion_and_Telegram.json)|
+|13994|[13994_Monitor_AppSumo_lifetime_deals_with_ScrapeOps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13994_Monitor_AppSumo_lifetime_deals_with_ScrapeOps_and_Google_Sheets.json)|
+|14239|[14239_Screen_and_score_investment_deals_with_AI_using_OpenAI__Gmail__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14239_Screen_and_score_investment_deals_with_AI_using_OpenAI__Gmail__and_Telegram.json)|
+|14900|[14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json)|

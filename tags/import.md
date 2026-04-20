@@ -1,4 +1,4 @@
-# import : 34
+# import : 36
 
 |id|file|
 |----|----|
@@ -36,3 +36,5 @@
 |12358|[12358_Import_Faire_products_to_Shopify_using_BrowserAct__Gemini__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12358_Import_Faire_products_to_Shopify_using_BrowserAct__Gemini__and_Telegram.json)|
 |13425|[13425_Selectively_import_workflows_between_instances_using_the_n8n_API_and_forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13425_Selectively_import_workflows_between_instances_using_the_n8n_API_and_forms.json)|
 |13647|[13647_Extract_LinkedIn_search_results_into_a_Google_Sheet_with_SourceGeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13647_Extract_LinkedIn_search_results_into_a_Google_Sheet_with_SourceGeek.json)|
+|13999|[13999_Validate_JSON_and_CSV_import_data_via_webhook_with_configurable_rules.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13999_Validate_JSON_and_CSV_import_data_via_webhook_with_configurable_rules.json)|
+|14040|[14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json)|

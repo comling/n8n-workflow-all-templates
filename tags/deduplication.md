@@ -1,4 +1,4 @@
-# deduplication : 7
+# deduplication : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |9748|[9748_Auto-Post_X_Videos_with_OpenRouter_AI_Captions___Google_Sheets_Deduplication.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9748_Auto-Post_X_Videos_with_OpenRouter_AI_Captions___Google_Sheets_Deduplication.json)|
 |11210|[11210_Automated_MIT_AI_News_Delivery_to_Discord_with_Deduplication.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11210_Automated_MIT_AI_News_Delivery_to_Discord_with_Deduplication.json)|
 |13464|[13464_Scrape_RSS_job_posts__deduplicate_with_Google_Sheets__and_send_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13464_Scrape_RSS_job_posts__deduplicate_with_Google_Sheets__and_send_Telegram_alerts.json)|
+|14274|[14274_Upload_documents_with_validation__deduplication_and_Postgres_storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14274_Upload_documents_with_validation__deduplication_and_Postgres_storage.json)|

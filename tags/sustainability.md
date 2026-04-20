@@ -1,4 +1,4 @@
-# sustainability : 6
+# sustainability : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |10961|[10961_EU_Sustainability_News_Curation_with_RSS__GPT__Gmail__ElevenLabs___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10961_EU_Sustainability_News_Curation_with_RSS__GPT__Gmail__ElevenLabs___Telegram.json)|
 |12198|[12198_Monitor_IoT_sustainability_compliance_and_ESG_reports_with_OpenAI__Airtable__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12198_Monitor_IoT_sustainability_compliance_and_ESG_reports_with_OpenAI__Airtable__Slack_and_Gmail.json)|
 |12988|[12988_Analyze_global_supply_chain_sustainability_and_risk_with_GPT-4o_and_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12988_Analyze_global_supply_chain_sustainability_and_risk_with_GPT-4o_and_email_alerts.json)|
+|14426|[14426_Automate_ESG_compliance_routing_and_reporting_with_GPT-4o__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14426_Automate_ESG_compliance_routing_and_reporting_with_GPT-4o__Slack_and_Google_Sheets.json)|
+|14433|[14433_Orchestrate_sustainability_lifecycle_analytics_with_GPT-4o__Slack__Gmail_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14433_Orchestrate_sustainability_lifecycle_analytics_with_GPT-4o__Slack__Gmail_and_Google_Docs.json)|

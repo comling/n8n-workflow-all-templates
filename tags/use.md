@@ -1,4 +1,4 @@
-# use : 24
+# use : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |11253|[11253_Generate_Single-Use_Personalized_Calendly_Links_with_Google_Sheets_Tracking___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11253_Generate_Single-Use_Personalized_Calendly_Links_with_Google_Sheets_Tracking___Slack_Alerts.json)|
 |13270|[13270_Use_skills_In_n8n_agent_node.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13270_Use_skills_In_n8n_agent_node.json)|
 |13804|[13804_Generate_AI_product_marketing_photos_from_Google_Sheets_with_Google_Gemini_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13804_Generate_AI_product_marketing_photos_from_Google_Sheets_with_Google_Gemini_and_Drive.json)|
+|13920|[13920_Generate_8-second_product_ad_videos_from_Drive_images_with_Gemini_and_Veo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13920_Generate_8-second_product_ad_videos_from_Drive_images_with_Gemini_and_Veo.json)|

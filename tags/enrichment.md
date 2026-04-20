@@ -1,4 +1,4 @@
-# enrichment : 79
+# enrichment : 85
 
 |id|file|
 |----|----|
@@ -81,3 +81,9 @@
 |13351|[13351_Detect_job_and_company_changes_with_Lusha_bulk_enrichment_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13351_Detect_job_and_company_changes_with_Lusha_bulk_enrichment_and_HubSpot.json)|
 |13513|[13513_Generate_Google_Maps_leads_with_AI_enrichment__social_discovery_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13513_Generate_Google_Maps_leads_with_AI_enrichment__social_discovery_and_Google_Sheets.json)|
 |13842|[13842_Enrich_event_registrations_with_HubSpot__Clearbit__LinkedIn_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13842_Enrich_event_registrations_with_HubSpot__Clearbit__LinkedIn_and_Gemini_AI.json)|
+|14097|[14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json)|
+|14098|[14098_Detect_competitor_tech_adoption_and_notify_AEs_with_PredictLeads__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14098_Detect_competitor_tech_adoption_and_notify_AEs_with_PredictLeads__Sheets_and_Gmail.json)|
+|14099|[14099_Track_new_complementary-tool_adopters_with_PredictLeads__Google_Sheets__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14099_Track_new_complementary-tool_adopters_with_PredictLeads__Google_Sheets__OpenAI_and_Gmail.json)|
+|14100|[14100_Monitor_CRM_hiring_spikes_and_send_Slack_alerts_with_HubSpot_and_PredictLeads.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14100_Monitor_CRM_hiring_spikes_and_send_Slack_alerts_with_HubSpot_and_PredictLeads.json)|
+|14102|[14102_Generate_weekly_Seed___Series_A_scouting_reports_with_PredictLeads_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14102_Generate_weekly_Seed___Series_A_scouting_reports_with_PredictLeads_and_OpenAI.json)|
+|14846|[14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json)|

@@ -1,4 +1,4 @@
-# keyword : 67
+# keyword : 69
 
 |id|file|
 |----|----|
@@ -69,3 +69,5 @@
 |13537|[13537_Get_Gmail_alerts_for_dropped_top_10_keyword_rankings_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13537_Get_Gmail_alerts_for_dropped_top_10_keyword_rankings_with_DataForSEO.json)|
 |13737|[13737_Track_daily_Google_SERP_rankings_with_Decodo_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13737_Track_daily_Google_SERP_rankings_with_Decodo_and_Google_Sheets.json)|
 |13903|[13903_Filter_and_label_Gmail_emails_using_keyword-based_rules_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13903_Filter_and_label_Gmail_emails_using_keyword-based_rules_and_Google_Sheets_logging.json)|
+|14298|[14298_Monitor_Reddit_keyword_trends_and_email_reports_with_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14298_Monitor_Reddit_keyword_trends_and_email_reports_with_Apify.json)|
+|14892|[14892_Send_weekly_SEO_keyword_email_reports_with_Google_Search_Console__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14892_Send_weekly_SEO_keyword_email_reports_with_Google_Search_Console__GPT-4o-mini_and_Gmail.json)|

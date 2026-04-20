@@ -1,4 +1,4 @@
-# icebreakers : 13
+# icebreakers : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |12778|[12778_Generate_personalized_cold_email_icebreakers_with_Apify__Baserow_and_OpenRouter_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12778_Generate_personalized_cold_email_icebreakers_with_Apify__Baserow_and_OpenRouter_GPT-4.1.json)|
 |12837|[12837_Generate_personalized_cold_email_icebreakers_from_LinkedIn_or_website_data_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12837_Generate_personalized_cold_email_icebreakers_from_LinkedIn_or_website_data_with_GPT-4.json)|
 |13282|[13282_Generate_research-backed_cold_email_icebreakers_with_web_scraping__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13282_Generate_research-backed_cold_email_icebreakers_with_web_scraping__OpenAI_and_Google_Sheets.json)|
+|14199|[14199_Generate_cold_email_icebreakers_and_subject_lines_with_Google_Sheets_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14199_Generate_cold_email_icebreakers_and_subject_lines_with_Google_Sheets_and_OpenAI.json)|

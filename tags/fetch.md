@@ -1,4 +1,4 @@
-# fetch : 27
+# fetch : 31
 
 |id|file|
 |----|----|
@@ -29,3 +29,7 @@
 |11997|[11997_Fetch_property_listings_from_99Acres___MagicBricks_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11997_Fetch_property_listings_from_99Acres___MagicBricks_with_Apify_and_Google_Sheets.json)|
 |12539|[12539_Fetch_reliable_FX_exchange_rates_with_Frankfurter_and_open.er-api.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12539_Fetch_reliable_FX_exchange_rates_with_Frankfurter_and_open.er-api.json)|
 |13509|[13509_Fetch_Threads_analytics_for_your_latest_posts_and_email_an_HTML_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13509_Fetch_Threads_analytics_for_your_latest_posts_and_email_an_HTML_report.json)|
+|14304|[14304_Add__update__and_fetch_contacts_from_a_Notion_database_by_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14304_Add__update__and_fetch_contacts_from_a_Notion_database_by_email.json)|
+|14509|[14509_Fetch_SAP_SuccessFactors_PerPerson_data_via_SAML_2.0_bearer_OAuth2_flow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14509_Fetch_SAP_SuccessFactors_PerPerson_data_via_SAML_2.0_bearer_OAuth2_flow.json)|
+|14677|[14677_Fetch_daily_YouTube_videos_from_top_AI_automators_and_log_them_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14677_Fetch_daily_YouTube_videos_from_top_AI_automators_and_log_them_to_Google_Sheets.json)|
+|14704|[14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# receipts : 13
+# receipts : 15
 
 |id|file|
 |----|----|
@@ -15,3 +15,5 @@
 |8506|[8506_Extract_Text_from_Receipts_with_OCR.space_Table_Recognition.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8506_Extract_Text_from_Receipts_with_OCR.space_Table_Recognition.json)|
 |8955|[8955_Automate_Payment_Receipts__Email__Archive__and_Track_with_Stripe_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8955_Automate_Payment_Receipts__Email__Archive__and_Track_with_Stripe_and_Google_Workspace.json)|
 |9173|[9173_Followup_Stripe_Checkouts_with_Gmail_Receipts__Internal_Slack__and_Sheets_Logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9173_Followup_Stripe_Checkouts_with_Gmail_Receipts__Internal_Slack__and_Sheets_Logs.json)|
+|14061|[14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json)|
+|14133|[14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json)|

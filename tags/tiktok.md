@@ -1,4 +1,4 @@
-# tiktok : 81
+# tiktok : 84
 
 |id|file|
 |----|----|
@@ -83,3 +83,6 @@
 |13526|[13526_Generate_AI_videos_and_carousels_with_Blotato_for_Instagram_and_TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13526_Generate_AI_videos_and_carousels_with_Blotato_for_Instagram_and_TikTok.json)|
 |13708|[13708_Detect_influencer_fraud_and_fake_followers_with_Instagram__X__TikTok_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13708_Detect_influencer_fraud_and_fake_followers_with_Instagram__X__TikTok_and_Claude.json)|
 |13888|[13888_Generate_Viral_AI_Motion_Video____using_Kling_2.6_Kie_AI___Auto-Post_to_TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13888_Generate_Viral_AI_Motion_Video____using_Kling_2.6_Kie_AI___Auto-Post_to_TikTok.json)|
+|13954|[13954_Repurpose_YouTube_Shorts_to_TikTok_and_Instagram_using_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13954_Repurpose_YouTube_Shorts_to_TikTok_and_Instagram_using_Blotato.json)|
+|14031|[14031_Generate_TikTok_and_Instagram_reel_clips_from_YouTube_videos_with_Vizard_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14031_Generate_TikTok_and_Instagram_reel_clips_from_YouTube_videos_with_Vizard_AI.json)|
+|14064|[14064_Create_and_publish_AI_carousel_posts_from_Telegram_to_Instagram__Facebook_and_TikTok_with_OpenAI__APITemplate.io_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14064_Create_and_publish_AI_carousel_posts_from_Telegram_to_Instagram__Facebook_and_TikTok_with_OpenAI__APITemplate.io_and_Blotato.json)|

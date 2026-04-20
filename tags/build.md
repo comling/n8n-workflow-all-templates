@@ -1,4 +1,4 @@
-# build : 157
+# build : 170
 
 |id|file|
 |----|----|
@@ -159,3 +159,16 @@
 |13641|[13641_Build_an_AI_agent_for_WhatsApp_with_WOZTELL_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13641_Build_an_AI_agent_for_WhatsApp_with_WOZTELL_and_Google_Gemini.json)|
 |13811|[13811_Build_a_private_Llama_chatbot_with_Ollama__Groq__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13811_Build_a_private_Llama_chatbot_with_Ollama__Groq__Slack_and_Google_Sheets.json)|
 |13823|[13823_Build__test_and_deploy_AI_projects_with_Windsurf_CI_CD_and_Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13823_Build__test_and_deploy_AI_projects_with_Windsurf_CI_CD_and_Vercel.json)|
+|13959|[13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json)|
+|13992|[13992_Build_a_Reddit_no-API_weekly_digest_with_ScrapeOps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13992_Build_a_Reddit_no-API_weekly_digest_with_ScrapeOps_and_Google_Sheets.json)|
+|14020|[14020_Build_an_AI_confidence_coach_for_women_with_GPT-4o__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14020_Build_an_AI_confidence_coach_for_women_with_GPT-4o__Google_Sheets_and_Gmail.json)|
+|14041|[14041_Build_a_document-upload_RAG_chatbot_with_OpenAI__Pinecone_and_daily_analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14041_Build_a_document-upload_RAG_chatbot_with_OpenAI__Pinecone_and_daily_analytics.json)|
+|14068|[14068_Track_student_attendance_from_CSV__email_parents__and_build_an_HTML_dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14068_Track_student_attendance_from_CSV__email_parents__and_build_an_HTML_dashboard.json)|
+|14157|[14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json)|
+|14209|[14209_Build_an_omnichannel_OTP_verification_flow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14209_Build_an_omnichannel_OTP_verification_flow.json)|
+|14454|[14454_Build_an_employee_training_video_knowledge_base_using_the_WayinVideo_summaries_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14454_Build_an_employee_training_video_knowledge_base_using_the_WayinVideo_summaries_API.json)|
+|14555|[14555_Build_a_Slack-based_CRM_assistant_with_HubSpot_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14555_Build_a_Slack-based_CRM_assistant_with_HubSpot_and_Google_Gemini.json)|
+|14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|
+|14827|[14827_Build_an_OpenAI_RAG_system_with_document_upload__semantic_search_and_caching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14827_Build_an_OpenAI_RAG_system_with_document_upload__semantic_search_and_caching.json)|
+|14891|[14891_Generate_AI_camera_moves_with_Seedance_and_build_a_previs_review_board.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14891_Generate_AI_camera_moves_with_Seedance_and_build_a_previs_review_board.json)|
+|14979|[14979_Build_an_SEO_chatbot_with_GPT-4o-mini_using_your_Google_Sheets_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14979_Build_an_SEO_chatbot_with_GPT-4o-mini_using_your_Google_Sheets_data.json)|

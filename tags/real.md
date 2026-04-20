@@ -1,4 +1,4 @@
-# real : 135
+# real : 147
 
 |id|file|
 |----|----|
@@ -137,3 +137,15 @@
 |13657|[13657_Automate_Real_Estate_Listing_Scraper____with_ScrapeGraph_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13657_Automate_Real_Estate_Listing_Scraper____with_ScrapeGraph_AI_and_Google_Sheets.json)|
 |13665|[13665_Monitor__PROD__workflows_in_real_time_with_the_n8n_Public_API_dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13665_Monitor__PROD__workflows_in_real_time_with_the_n8n_Public_API_dashboard.json)|
 |13797|[13797_Monitor_Realtor_listings_and_export_CSV_XLSX_with_MrScraper_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13797_Monitor_Realtor_listings_and_export_CSV_XLSX_with_MrScraper_and_Gmail.json)|
+|13991|[13991_Track_Redfin_real_estate_listings_with_ScrapeOps__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13991_Track_Redfin_real_estate_listings_with_ScrapeOps__Google_Sheets__and_Slack.json)|
+|14053|[14053_Generate_Real_Estate_Research_Reports_With_Exa_AI__PandaDoc_and_Instantly_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14053_Generate_Real_Estate_Research_Reports_With_Exa_AI__PandaDoc_and_Instantly_AI.json)|
+|14060|[14060_Verify_form_leads_in_real_time_with_NeverBounce_before_adding_to_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14060_Verify_form_leads_in_real_time_with_NeverBounce_before_adding_to_your_CRM.json)|
+|14111|[14111_Scrape_Google_Maps_realtor_leads_with_ScrapeOps__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14111_Scrape_Google_Maps_realtor_leads_with_ScrapeOps__Google_Sheets__Gmail_and_Slack.json)|
+|14134|[14134_Generate_real-estate_marketing_images_and_videos_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14134_Generate_real-estate_marketing_images_and_videos_with_OpenAI_and_Google_Drive.json)|
+|14137|[14137_Qualify_real_estate_leads_from_Typeform_to_Airtable_with_Gemini_and_smart_email_routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14137_Qualify_real_estate_leads_from_Typeform_to_Airtable_with_Gemini_and_smart_email_routing.json)|
+|14368|[14368_Generate_real-time_IPL_commentary_from_CricAPI_data_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14368_Generate_real-time_IPL_commentary_from_CricAPI_data_with_GPT-4o.json)|
+|14385|[14385_Sync_Ghost_members_with_MailerLite_subscribers_in_real_time.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14385_Sync_Ghost_members_with_MailerLite_subscribers_in_real_time.json)|
+|14431|[14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json)|
+|14899|[14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json)|
+|14900|[14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json)|
+|14935|[14935_Sync_Zoho_CRM_contacts_with_Beex_Contact_Center_in_real_time.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14935_Sync_Zoho_CRM_contacts_with_Beex_Contact_Center_in_real_time.json)|

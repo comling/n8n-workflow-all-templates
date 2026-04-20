@@ -1,4 +1,4 @@
-# payments : 14
+# payments : 16
 
 |id|file|
 |----|----|
@@ -16,3 +16,5 @@
 |12695|[12695_Automate_Xero_invoices_and_payments_using_webhooks__PostgreSQL_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12695_Automate_Xero_invoices_and_payments_using_webhooks__PostgreSQL_and_WhatsApp.json)|
 |13213|[13213_Track_MPESA_and_Airtel_mobile_payments_in_a_fundraising_WhatsApp_group.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13213_Track_MPESA_and_Airtel_mobile_payments_in_a_fundraising_WhatsApp_group.json)|
 |13693|[13693_Handle_WhatsApp_course_enrollment_and_payments_with_Wati_and_Razorpay.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13693_Handle_WhatsApp_course_enrollment_and_payments_with_Wati_and_Razorpay.json)|
+|13980|[13980_Reconcile_Stripe_payments_and_flag_anomalies_with_Google_Sheets_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13980_Reconcile_Stripe_payments_and_flag_anomalies_with_Google_Sheets_and_Gemini_AI.json)|
+|14761|[14761_Generate_invoice_PDFs_from_Stripe_payments_using_TemplateFox__Gmail_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14761_Generate_invoice_PDFs_from_Stripe_payments_using_TemplateFox__Gmail_and_Drive.json)|

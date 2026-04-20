@@ -1,4 +1,4 @@
-# drops : 5
+# drops : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |6503|[6503_Monitor_Flight_Price_Drops_and_Send_Email_Alerts_with_SerpAPI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6503_Monitor_Flight_Price_Drops_and_Send_Email_Alerts_with_SerpAPI_and_Gmail.json)|
 |11401|[11401_Auto-Audit_SEO_Traffic_Drops_with_AI___Google_Search_Console_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11401_Auto-Audit_SEO_Traffic_Drops_with_AI___Google_Search_Console_to_Slack.json)|
 |12091|[12091_Monitor_ad_performance_drops_with_Meta___Google_Ads___multi-channel_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12091_Monitor_ad_performance_drops_with_Meta___Google_Ads___multi-channel_alerts.json)|
+|14595|[14595_Post_new_product_drops_to_Instagram_using_uploadtourl_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14595_Post_new_product_drops_to_Instagram_using_uploadtourl_and_Airtable.json)|

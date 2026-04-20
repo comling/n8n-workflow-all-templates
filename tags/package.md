@@ -1,4 +1,4 @@
-# package : 6
+# package : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |10354|[10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json)|
 |12430|[12430_Send_package_and_visitor_alerts_with_Slack__SMS__email__Google_Sheets_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12430_Send_package_and_visitor_alerts_with_Slack__SMS__email__Google_Sheets_and_Claude.json)|
 |12620|[12620_Match_sponsors_to_event_packages_with_Google_Sheets__GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12620_Match_sponsors_to_event_packages_with_Google_Sheets__GPT-4o_and_Gmail.json)|
+|13945|[13945_Track_npm_package_downloads_with_Telegram_commands_and_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13945_Track_npm_package_downloads_with_Telegram_commands_and_reports.json)|
+|14911|[14911_Analyze_npm_packages_with_Firecrawl__GitHub__npm_APIs__Gemini_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14911_Analyze_npm_packages_with_Firecrawl__GitHub__npm_APIs__Gemini_and_GPT.json)|

@@ -1,4 +1,4 @@
-# duplicate : 18
+# duplicate : 20
 
 |id|file|
 |----|----|
@@ -20,3 +20,5 @@
 |13280|[13280_Route_Gmail_support_emails_to_Zendesk_with_spam_filtering_and_duplicate_checks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13280_Route_Gmail_support_emails_to_Zendesk_with_spam_filtering_and_duplicate_checks.json)|
 |13534|[13534_Detect_and_move_duplicate_Google_Drive_files_with_Supabase_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13534_Detect_and_move_duplicate_Google_Drive_files_with_Supabase_and_Slack.json)|
 |13863|[13863_Prevent_duplicate_webhook_executions_with_AARI_idempotency_gate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13863_Prevent_duplicate_webhook_executions_with_AARI_idempotency_gate.json)|
+|14146|[14146_Flag_duplicate_and_risky_AP_invoices_with_Gmail__OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14146_Flag_duplicate_and_risky_AP_invoices_with_Gmail__OpenAI_and_Supabase.json)|
+|14180|[14180_Detect_duplicate_invoice_PDFs_from_Gmail_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14180_Detect_duplicate_invoice_PDFs_from_Gmail_with_easybits_and_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# digest : 70
+# digest : 78
 
 |id|file|
 |----|----|
@@ -72,3 +72,11 @@
 |13674|[13674_Summarize_RSS_feeds_into_a_daily_AI_digest_with_Gemini__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13674_Summarize_RSS_feeds_into_a_daily_AI_digest_with_Gemini__Slack__and_Gmail.json)|
 |13675|[13675_Digest_and_analyse_YouTube_videos_with_Apify_and_Gemini_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13675_Digest_and_analyse_YouTube_videos_with_Apify_and_Gemini_Pro.json)|
 |13845|[13845_Forward_Zoho_Mail_emails_to_Gmail_with_Gemini_AI_analysis_and_Telegram_digest.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13845_Forward_Zoho_Mail_emails_to_Gmail_with_Gemini_AI_analysis_and_Telegram_digest.json)|
+|13992|[13992_Build_a_Reddit_no-API_weekly_digest_with_ScrapeOps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13992_Build_a_Reddit_no-API_weekly_digest_with_ScrapeOps_and_Google_Sheets.json)|
+|14172|[14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json)|
+|14297|[14297_Send_a_daily_stock_movers_and_news_email_digest_via_Google_Sheets__EODHD_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14297_Send_a_daily_stock_movers_and_news_email_digest_via_Google_Sheets__EODHD_and_Gmail.json)|
+|14332|[14332_Generate_weekly_AI_business_digest_from_Google_Sheets_with_GPT-4o_and_send_to_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14332_Generate_weekly_AI_business_digest_from_Google_Sheets_with_GPT-4o_and_send_to_Slack_and_email.json)|
+|14358|[14358_Send_a_daily_women-focused_job_digest_to_Telegram_with_GPT-4o-mini_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14358_Send_a_daily_women-focused_job_digest_to_Telegram_with_GPT-4o-mini_and_SerpAPI.json)|
+|14676|[14676_Send_a_daily_AI_crypto_news_digest_from_Brave_Search_to_Telegram_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14676_Send_a_daily_AI_crypto_news_digest_from_Brave_Search_to_Telegram_with_GPT-4.1-mini.json)|
+|14708|[14708_Send_post-event_session_digest_emails_with_WayinVideo__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14708_Send_post-event_session_digest_emails_with_WayinVideo__OpenAI_and_Gmail.json)|
+|14952|[14952_Send_a_curated_tech_RSS_digest_to_Gmail_with_OpenAI_GPT-5_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14952_Send_a_curated_tech_RSS_digest_to_Gmail_with_OpenAI_GPT-5_Mini.json)|

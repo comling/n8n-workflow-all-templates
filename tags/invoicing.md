@@ -1,4 +1,4 @@
-# invoicing : 6
+# invoicing : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |8819|[8819_Automate_Client_Invoicing___Payments_with_Stripe__Google_Sheets__Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8819_Automate_Client_Invoicing___Payments_with_Stripe__Google_Sheets__Drive_and_Gmail.json)|
 |9218|[9218_Automate_QuickBooks_Invoicing___Customer_Creation_from_Airtable_Sales_Orders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9218_Automate_QuickBooks_Invoicing___Customer_Creation_from_Airtable_Sales_Orders.json)|
 |9542|[9542_Automate_Stripe_Invoicing_Workflow_with_ClickUp___Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9542_Automate_Stripe_Invoicing_Workflow_with_ClickUp___Gmail_Notifications.json)|
+|13925|[13925_Download_KSeF__Poland_s_e-invoicing_system__invoices_to_an_Excel_spreadsheet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13925_Download_KSeF__Poland_s_e-invoicing_system__invoices_to_an_Excel_spreadsheet.json)|

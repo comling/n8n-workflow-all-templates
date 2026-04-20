@@ -1,4 +1,4 @@
-# comments : 48
+# comments : 51
 
 |id|file|
 |----|----|
@@ -50,3 +50,6 @@
 |13234|[13234_Extract_and_analyze___ALL_Facebook_post_comments_with_sentiment_AI_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13234_Extract_and_analyze___ALL_Facebook_post_comments_with_sentiment_AI_using_Gemini.json)|
 |13462|[13462_Track_Facebook_Page_post_Engagement__Comments__Like__Shares__in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13462_Track_Facebook_Page_post_Engagement__Comments__Like__Shares__in_Google_Sheets.json)|
 |13721|[13721_Create_WordPress_users_from_KlickTipp_and_tag_contacts_based_on_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13721_Create_WordPress_users_from_KlickTipp_and_tag_contacts_based_on_comments.json)|
+|14300|[14300_Analyze_Liveblocks_comment_attachments_with_Anthropic_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14300_Analyze_Liveblocks_comment_attachments_with_Anthropic_Claude_AI.json)|
+|14711|[14711_Reply_to_Facebook_ad_comments_with_OpenRouter_AI__Google_Docs_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14711_Reply_to_Facebook_ad_comments_with_OpenRouter_AI__Google_Docs_and_Slack.json)|
+|14893|[14893_Reply_to_Instagram_ad_comments_with_GPT-4o__Google_Docs__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14893_Reply_to_Instagram_ad_comments_with_GPT-4o__Google_Docs__and_Slack.json)|

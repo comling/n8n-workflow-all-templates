@@ -1,4 +1,4 @@
-# qdrant : 46
+# qdrant : 47
 
 |id|file|
 |----|----|
@@ -48,3 +48,4 @@
 |12228|[12228_Create_an_AI_Telegram_bot_using_Google_Drive__Qdrant__and_OpenAI_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12228_Create_an_AI_Telegram_bot_using_Google_Drive__Qdrant__and_OpenAI_GPT-4.1.json)|
 |12827|[12827_Automate_systematic_literature_reviews_with_Google_Drive__GPT-4__Gemini__Qdrant_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12827_Automate_systematic_literature_reviews_with_Google_Drive__GPT-4__Gemini__Qdrant_and_Airtable.json)|
 |13422|[13422_Implement_on-prem_RAG_with_Qdrant_and_Ollama_for_a_self-hosted_KB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13422_Implement_on-prem_RAG_with_Qdrant_and_Ollama_for_a_self-hosted_KB.json)|
+|14268|[14268_Retrieve_and_answer_Gmail_email_queries_with_Llama_3.2__mxbai-embed__and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14268_Retrieve_and_answer_Gmail_email_queries_with_Llama_3.2__mxbai-embed__and_Qdrant.json)|

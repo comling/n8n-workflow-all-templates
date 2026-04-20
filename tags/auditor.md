@@ -1,4 +1,4 @@
-# auditor : 6
+# auditor : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |11808|[11808_Influencer_Brand_Safety_Auditor_with_Engagement_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11808_Influencer_Brand_Safety_Auditor_with_Engagement_Analysis.json)|
 |13683|[13683_Audit_contract_governance_risk_with_OpenAI__Slack_and_email_routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13683_Audit_contract_governance_risk_with_OpenAI__Slack_and_email_routing.json)|
 |13684|[13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json)|
+|14423|[14423_Audit_workflow_credential_usage_to_Google_Sheets_using_Google_Drive_and_SQLite3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14423_Audit_workflow_credential_usage_to_Google_Sheets_using_Google_Drive_and_SQLite3.json)|

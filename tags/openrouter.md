@@ -1,4 +1,4 @@
-# openrouter : 84
+# openrouter : 90
 
 |id|file|
 |----|----|
@@ -86,3 +86,9 @@
 |13585|[13585_Track_legal_risks_and_litigation_threats_using_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13585_Track_legal_risks_and_litigation_threats_using_Bright_Data__OpenRouter_and_Google_Sheets.json)|
 |13586|[13586_Monitor_supplier_financial_distress_and_risk_with_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13586_Monitor_supplier_financial_distress_and_risk_with_Bright_Data__OpenRouter_and_Google_Sheets.json)|
 |13587|[13587_Analyze_Amazon_review_friction_and_revenue_impact_with_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13587_Analyze_Amazon_review_friction_and_revenue_impact_with_Bright_Data__OpenRouter_and_Google_Sheets.json)|
+|14037|[14037_Automate_LinkedIn_job_search__AI_scoring__and_resume_creation_with_OpenRouter__OpenAI__Google_Sheets___Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14037_Automate_LinkedIn_job_search__AI_scoring__and_resume_creation_with_OpenRouter__OpenAI__Google_Sheets___Docs.json)|
+|14184|[14184_Generate_branded_PDF_reports_from_incoming_emails_using_Autype_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14184_Generate_branded_PDF_reports_from_incoming_emails_using_Autype_and_OpenRouter.json)|
+|14193|[14193_Generate_AI_math_RPG_quests_from_study_logs_with_Google_Sheets_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14193_Generate_AI_math_RPG_quests_from_study_logs_with_Google_Sheets_and_OpenRouter.json)|
+|14194|[14194_Judge_AI_math_RPG_answers_with_OpenAI_OpenRouter_and_update_quests_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14194_Judge_AI_math_RPG_answers_with_OpenAI_OpenRouter_and_update_quests_in_Google_Sheets.json)|
+|14711|[14711_Reply_to_Facebook_ad_comments_with_OpenRouter_AI__Google_Docs_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14711_Reply_to_Facebook_ad_comments_with_OpenRouter_AI__Google_Docs_and_Slack.json)|
+|14923|[14923_Create_and_post_AI_social_captions_from_WordPress_blogs_to_Facebook__Instagram__X__and_LinkedIn_with_GPT-4o_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14923_Create_and_post_AI_social_captions_from_WordPress_blogs_to_Facebook__Instagram__X__and_LinkedIn_with_GPT-4o_via_OpenRouter.json)|

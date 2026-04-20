@@ -1,4 +1,4 @@
-# extract : 246
+# extract : 257
 
 |id|file|
 |----|----|
@@ -248,3 +248,14 @@
 |13647|[13647_Extract_LinkedIn_search_results_into_a_Google_Sheet_with_SourceGeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13647_Extract_LinkedIn_search_results_into_a_Google_Sheet_with_SourceGeek.json)|
 |13779|[13779_Extract_invoice_data_from_scanned_PDFs_to_Google_Sheets_with_Sarvam_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13779_Extract_invoice_data_from_scanned_PDFs_to_Google_Sheets_with_Sarvam_and_Gemini.json)|
 |13800|[13800_Extract_product_details_from_search_result_URLs_with_MrScraper_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13800_Extract_product_details_from_search_result_URLs_with_MrScraper_and_Google_Sheets.json)|
+|14022|[14022_Extract_vocabulary_flashcards_from_Spotify_listening_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14022_Extract_vocabulary_flashcards_from_Spotify_listening_with_Gemini_and_Google_Sheets.json)|
+|14188|[14188_Extract_text_from_Google_Drive_files_to_Google_Sheets_using_NVIDIA_NIM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14188_Extract_text_from_Google_Drive_files_to_Google_Sheets_using_NVIDIA_NIM.json)|
+|14252|[14252_Extract_Indonesian_stock__IDX__trades_from_Telegram_invoices_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14252_Extract_Indonesian_stock__IDX__trades_from_Telegram_invoices_with_Gemini_AI.json)|
+|14327|[14327_Extract_data_from_Dropbox_documents_with_DocuPipe_and_post_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14327_Extract_data_from_Dropbox_documents_with_DocuPipe_and_post_to_Slack.json)|
+|14328|[14328_Extract_data_from_email_attachments_to_Airtable_with_DocuPipe_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14328_Extract_data_from_email_attachments_to_Airtable_with_DocuPipe_AI.json)|
+|14329|[14329_Extract_data_from_Gmail_attachments_to_Google_Sheets_using_DocuPipe.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14329_Extract_data_from_Gmail_attachments_to_Google_Sheets_using_DocuPipe.json)|
+|14505|[14505_Extract_Google_Maps_business_leads_with_Apify__GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14505_Extract_Google_Maps_business_leads_with_Apify__GPT-4o-mini_and_Google_Sheets.json)|
+|14537|[14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json)|
+|14573|[14573_Extract_invoice_data_from_PDF_with_Claude_AI_and_create_vendor_bill_in_Odoo_18.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14573_Extract_invoice_data_from_PDF_with_Claude_AI_and_create_vendor_bill_in_Odoo_18.json)|
+|14641|[14641_Extract_customer_testimonial_clips_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14641_Extract_customer_testimonial_clips_using_WayinVideo_AI_and_Google_Drive.json)|
+|14672|[14672_Extract_live_stream_highlights_using_WayinVideo_AI_Clipping_API_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14672_Extract_live_stream_highlights_using_WayinVideo_AI_Clipping_API_and_Google_Drive.json)|

@@ -1,4 +1,4 @@
-# chain : 12
+# chain : 16
 
 |id|file|
 |----|----|
@@ -14,3 +14,7 @@
 |12988|[12988_Analyze_global_supply_chain_sustainability_and_risk_with_GPT-4o_and_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12988_Analyze_global_supply_chain_sustainability_and_risk_with_GPT-4o_and_email_alerts.json)|
 |13316|[13316_Evaluate_supply_chain_risk_and_orchestrate_contingencies_with_Claude__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13316_Evaluate_supply_chain_risk_and_orchestrate_contingencies_with_Claude__Google_Sheets__Gmail_and_Slack.json)|
 |13337|[13337_Monitor_supply_chain_risks_and_disruptions_with_GPT-4o_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13337_Monitor_supply_chain_risks_and_disruptions_with_GPT-4o_and_Slack_alerts.json)|
+|13944|[13944_Generate_weekly_supply_chain_OTIF_reports_and_AI_analysis_with_Notion_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13944_Generate_weekly_supply_chain_OTIF_reports_and_AI_analysis_with_Notion_and_GPT-4o.json)|
+|13961|[13961_Monitor_D2C_inventory__forecast_demand_with_GPT-4o__and_send_POs_via_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13961_Monitor_D2C_inventory__forecast_demand_with_GPT-4o__and_send_POs_via_Google_Sheets_and_Gmail.json)|
+|14932|[14932_Monitor_supply_chain_risk_news_with_Claude_Sonnet_4.5_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14932_Monitor_supply_chain_risk_news_with_Claude_Sonnet_4.5_and_Telegram_alerts.json)|
+|15042|[15042_Track_multi-chain_crypto_portfolios_and_analyze_risk_with_Gemini_and_QuickNode.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15042_Track_multi-chain_crypto_portfolios_and_analyze_risk_with_Gemini_and_QuickNode.json)|

@@ -1,4 +1,4 @@
-# reader : 7
+# reader : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |5778|[5778_Automated_RSS_Monitoring_with_Gemini_AI_Summaries_and_Deduplication_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5778_Automated_RSS_Monitoring_with_Gemini_AI_Summaries_and_Deduplication_to_Google_Sheets.json)|
 |5864|[5864_Extract_Text_from_Images_with_Telegram_Bot___Gemini_2.0_Flash_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5864_Extract_Text_from_Images_with_Telegram_Bot___Gemini_2.0_Flash_OCR.json)|
 |7978|[7978_Digitize_Business_Cards_with_Thai_OCR___Save_to_Google_Sheets_or_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7978_Digitize_Business_Cards_with_Thai_OCR___Save_to_Google_Sheets_or_CRM.json)|
+|14252|[14252_Extract_Indonesian_stock__IDX__trades_from_Telegram_invoices_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14252_Extract_Indonesian_stock__IDX__trades_from_Telegram_invoices_with_Gemini_AI.json)|

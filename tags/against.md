@@ -1,4 +1,4 @@
-# against : 7
+# against : 9
 
 |id|file|
 |----|----|
@@ -9,3 +9,5 @@
 |13026|[13026_Score_LinkedIn_leads_against_your_ICP_with_Google_Sheets__SourceGeek_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13026_Score_LinkedIn_leads_against_your_ICP_with_Google_Sheets__SourceGeek_and_Gemini.json)|
 |13530|[13530_Verify_email_content_against_Google_Sheets_and_Gmail_logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13530_Verify_email_content_against_Google_Sheets_and_Gmail_logs.json)|
 |13769|[13769_Check_workflow_templates_against_Creator_Hub_guidelines_with_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13769_Check_workflow_templates_against_Creator_Hub_guidelines_with_Gemini_and_Gmail.json)|
+|14208|[14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json)|
+|14295|[14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json)|

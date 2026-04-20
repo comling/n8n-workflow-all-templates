@@ -1,4 +1,4 @@
-# forex : 9
+# forex : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |8522|[8522_Track_and_Analyze_Forex_News_Trading_Results_with_MyFxBook_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8522_Track_and_Analyze_Forex_News_Trading_Results_with_MyFxBook_and_Google_Sheets.json)|
 |9357|[9357_Daily_Import_Yesterday_s_Forex_Factory_Calendar_to_Google_Sheets_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9357_Daily_Import_Yesterday_s_Forex_Factory_Calendar_to_Google_Sheets_with_Telegram_Alerts.json)|
 |11439|[11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json)|
+|14235|[14235_Execute_forex_trading_signals_from_Telegram_on_MetaTrader_5_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14235_Execute_forex_trading_signals_from_Telegram_on_MetaTrader_5_with_Claude.json)|
+|14862|[14862_AI_Forex_Trader_using_claude_gpt__MT5___News_Sentiment_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14862_AI_Forex_Trader_using_claude_gpt__MT5___News_Sentiment_Analysis.json)|

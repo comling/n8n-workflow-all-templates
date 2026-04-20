@@ -1,4 +1,4 @@
-# quickbooks : 37
+# quickbooks : 39
 
 |id|file|
 |----|----|
@@ -39,3 +39,5 @@
 |12013|[12013_Automate_purchase_bill_processing_with_AI_OCR___QuickBooks_integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12013_Automate_purchase_bill_processing_with_AI_OCR___QuickBooks_integration.json)|
 |12344|[12344_Post_bank_statement_transactions_to_QuickBooks_Online_using_OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12344_Post_bank_statement_transactions_to_QuickBooks_Online_using_OpenRouter_AI.json)|
 |13092|[13092_Convert_emailed_timesheets_into_QuickBooks_invoices_with_OCR__AI__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13092_Convert_emailed_timesheets_into_QuickBooks_invoices_with_OCR__AI__Gmail_and_Sheets.json)|
+|14085|[14085_Process_emailed_PDF_invoices_into_QuickBooks_bills_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14085_Process_emailed_PDF_invoices_into_QuickBooks_bills_with_OpenAI.json)|
+|14272|[14272_Process_email_invoices_with_OCR__GPT-4__Slack__QuickBooks_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14272_Process_email_invoices_with_OCR__GPT-4__Slack__QuickBooks_and_Google_Sheets.json)|

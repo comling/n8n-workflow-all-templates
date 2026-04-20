@@ -1,4 +1,4 @@
-# shopify : 110
+# shopify : 120
 
 |id|file|
 |----|----|
@@ -112,3 +112,13 @@
 |13704|[13704_Generate_Shopify_product_images_using_AI_Agent_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13704_Generate_Shopify_product_images_using_AI_Agent_and_deAPI.json)|
 |13829|[13829_Sync_Shopify_and_WooCommerce_sales_into_a_Google_Sheets_accounting_ledger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13829_Sync_Shopify_and_WooCommerce_sales_into_a_Google_Sheets_accounting_ledger.json)|
 |13872|[13872_Analyze_Shopify_orders_with_Gemini_AI_and_send_weekly_Slack_insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13872_Analyze_Shopify_orders_with_Gemini_AI_and_send_weekly_Slack_insights.json)|
+|14032|[14032_Scrape_Shopify_store_leads_with_ScraperCity_and_push_verified_contacts_to_HubSpot_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14032_Scrape_Shopify_store_leads_with_ScraperCity_and_push_verified_contacts_to_HubSpot_CRM.json)|
+|14058|[14058_Scrape_Shopify_store_leads_with_ScraperCity_and_send_contacts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14058_Scrape_Shopify_store_leads_with_ScraperCity_and_send_contacts_to_Slack.json)|
+|14143|[14143_Predict_Shopify_stockouts_with_GPT-4o_and_email_suppliers_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14143_Predict_Shopify_stockouts_with_GPT-4o_and_email_suppliers_via_Gmail.json)|
+|14228|[14228_Send_a_daily_Shopify_order_report_with_Streamline_Connector_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14228_Send_a_daily_Shopify_order_report_with_Streamline_Connector_and_Gmail.json)|
+|14365|[14365_Sync_new_Shopify_orders_to_Google_Sheets_with_GPT-4.1-mini_analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14365_Sync_new_Shopify_orders_to_Google_Sheets_with_GPT-4.1-mini_analysis.json)|
+|14370|[14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json)|
+|14524|[14524_Process_refund_requests_from_Gmail_using_Shopify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14524_Process_refund_requests_from_Gmail_using_Shopify_and_Google_Sheets.json)|
+|14828|[14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json)|
+|14899|[14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json)|
+|14969|[14969_Post_new_Shopify_products_to_Instagram__Facebook_and_X_with_OpenAI_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14969_Post_new_Shopify_products_to_Instagram__Facebook_and_X_with_OpenAI_and_Airtable.json)|

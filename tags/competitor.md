@@ -1,4 +1,4 @@
-# competitor : 73
+# competitor : 84
 
 |id|file|
 |----|----|
@@ -75,3 +75,14 @@
 |13588|[13588_Prioritize_Amazon_competitor_gaps_using_Bright_Data_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13588_Prioritize_Amazon_competitor_gaps_using_Bright_Data_and_Google_Sheets.json)|
 |13817|[13817_Audit_competitor_SEO_content_with_Decodo__Gemini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13817_Audit_competitor_SEO_content_with_Decodo__Gemini__and_Google_Sheets.json)|
 |13836|[13836_Monitor_competitor_prices_with_Google_Shopping_and_Google_Sheets__alert_via_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13836_Monitor_competitor_prices_with_Google_Shopping_and_Google_Sheets__alert_via_Slack_and_Gmail.json)|
+|14014|[14014_Analyze_competitor_Instagram_engagement_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14014_Analyze_competitor_Instagram_engagement_with_Bright_Data_and_GPT-5.4.json)|
+|14015|[14015_Analyze_Reddit_competitor_sentiment_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14015_Analyze_Reddit_competitor_sentiment_with_Bright_Data_and_GPT-5.4.json)|
+|14097|[14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json)|
+|14098|[14098_Detect_competitor_tech_adoption_and_notify_AEs_with_PredictLeads__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14098_Detect_competitor_tech_adoption_and_notify_AEs_with_PredictLeads__Sheets_and_Gmail.json)|
+|14311|[14311_Track_competitor_prices_and_email_AI_insights_with_Google_Sheets__Groq_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14311_Track_competitor_prices_and_email_AI_insights_with_Google_Sheets__Groq_and_Gmail.json)|
+|14408|[14408_Track_competitor_YouTube_videos_using_WayinVideo_summarization_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14408_Track_competitor_YouTube_videos_using_WayinVideo_summarization_and_Gmail.json)|
+|14675|[14675_Track_competitor_prices_daily_with_ZenRows__OpenAI__Telegram__and_DataTables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14675_Track_competitor_prices_daily_with_ZenRows__OpenAI__Telegram__and_DataTables.json)|
+|14815|[14815_Monitor_competitor_websites_daily_with_Firecrawl__Gemini__and_Zalo_Bot_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14815_Monitor_competitor_websites_daily_with_Firecrawl__Gemini__and_Zalo_Bot_alerts.json)|
+|14850|[14850_Generate_a_daily_competitor_intelligence_briefing_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14850_Generate_a_daily_competitor_intelligence_briefing_with_OpenAI_and_Gmail.json)|
+|14882|[14882_Detect_churn_risk_from_competitor_tech_adoption_using_PredictLeads_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14882_Detect_churn_risk_from_competitor_tech_adoption_using_PredictLeads_and_Gmail.json)|
+|14956|[14956_Generate_competitor_content_gap_reports_in_Slack_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14956_Generate_competitor_content_gap_reports_in_Slack_with_GPT-4o-mini.json)|

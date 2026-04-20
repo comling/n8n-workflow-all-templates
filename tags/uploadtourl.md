@@ -1,4 +1,4 @@
-# uploadtourl : 9
+# uploadtourl : 15
 
 |id|file|
 |----|----|
@@ -11,3 +11,9 @@
 |13635|[13635_List_properties_instantly_with_UploadToURL__OpenAI_Vision__WordPress_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13635_List_properties_instantly_with_UploadToURL__OpenAI_Vision__WordPress_and_Airtable.json)|
 |13636|[13636_Fast-track_expense_reimbursements_with_UploadToURL__Mindee_OCR__Expensify__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13636_Fast-track_expense_reimbursements_with_UploadToURL__Mindee_OCR__Expensify__and_Slack.json)|
 |13752|[13752_Generate_cinematic_videos_with_OpenAI_Sora_and_uploadtourl_hosting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13752_Generate_cinematic_videos_with_OpenAI_Sora_and_uploadtourl_hosting.json)|
+|14595|[14595_Post_new_product_drops_to_Instagram_using_uploadtourl_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14595_Post_new_product_drops_to_Instagram_using_uploadtourl_and_Airtable.json)|
+|14597|[14597_Post_branded_Instagram_testimonial_cards_from_Airtable_with_Bannerbear_and_uploadtourl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14597_Post_branded_Instagram_testimonial_cards_from_Airtable_with_Bannerbear_and_uploadtourl.json)|
+|14629|[14629_Create_branded_social_proof_Instagram_posts_from_Airtable_reviews_with_Bannerbear_and_UploadToURL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14629_Create_branded_social_proof_Instagram_posts_from_Airtable_reviews_with_Bannerbear_and_UploadToURL.json)|
+|14648|[14648_Auto-generate_Instagram_posts_from_Google_Sheets_reviews_using_UploadtoUrl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14648_Auto-generate_Instagram_posts_from_Google_Sheets_reviews_using_UploadtoUrl.json)|
+|14658|[14658_Publish_Instagram_Reels_from_Notion_with_Claude_captions_and_UploadToUrl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14658_Publish_Instagram_Reels_from_Notion_with_Claude_captions_and_UploadToUrl.json)|
+|14970|[14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json)|

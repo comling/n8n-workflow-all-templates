@@ -1,4 +1,4 @@
-# uploads : 8
+# uploads : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8017|[8017_Analyze_Videos_with_Google_Gemini_AI_-_Form_Uploads___YouTube_Links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8017_Analyze_Videos_with_Google_Gemini_AI_-_Form_Uploads___YouTube_Links.json)|
 |8054|[8054_Clean___Standardize_CSV_Uploads_for_Google_Sheets_and_Drive_Import.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8054_Clean___Standardize_CSV_Uploads_for_Google_Sheets_and_Drive_Import.json)|
 |10098|[10098_Automated_YouTube_Video_Uploads_with_12h_Interval_Scheduling_in_JST.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10098_Automated_YouTube_Video_Uploads_with_12h_Interval_Scheduling_in_JST.json)|
+|14543|[14543_Monitor_APK_uploads_and_run_MobSF_analysis_with_OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14543_Monitor_APK_uploads_and_run_MobSF_analysis_with_OpenAI_and_Slack_alerts.json)|

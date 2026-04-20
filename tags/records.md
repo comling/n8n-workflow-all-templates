@@ -1,4 +1,4 @@
-# records : 21
+# records : 23
 
 |id|file|
 |----|----|
@@ -23,3 +23,5 @@
 |13166|[13166_Manage_Supabase_database_records_with_Telegram_bot_commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13166_Manage_Supabase_database_records_with_Telegram_bot_commands.json)|
 |13457|[13457_Enrich_Airtable_company_records_with_web_research_using_OpenAI_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13457_Enrich_Airtable_company_records_with_web_research_using_OpenAI_GPT-4o.json)|
 |13881|[13881_Generate_images_from_Airtable_records_with_Layerre_and_Canva.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13881_Generate_images_from_Airtable_records_with_Layerre_and_Canva.json)|
+|14034|[14034_Transform_and_validate_webhook_records_with_configurable_type_conversion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14034_Transform_and_validate_webhook_records_with_configurable_type_conversion.json)|
+|14179|[14179_Enrich_people_skip-trace_results_from_n8n_forms_with_ScraperCity_into_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14179_Enrich_people_skip-trace_results_from_n8n_forms_with_ScraperCity_into_Notion.json)|

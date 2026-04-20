@@ -1,4 +1,4 @@
-# brevo : 8
+# brevo : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |7318|[7318_Automate_Marketing_Campaigns_with_Airtable_CRM___Brevo_Email_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7318_Automate_Marketing_Campaigns_with_Airtable_CRM___Brevo_Email_Tracking.json)|
 |9364|[9364_Inserting_Brevo_Contact_Reports_into_NocoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9364_Inserting_Brevo_Contact_Reports_into_NocoDB.json)|
 |13639|[13639_Manage_Brevo_contact_lists_with_full_CRUD_and_bulk_membership_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13639_Manage_Brevo_contact_lists_with_full_CRUD_and_bulk_membership_control.json)|
+|14671|[14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json)|

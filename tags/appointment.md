@@ -1,4 +1,4 @@
-# appointment : 40
+# appointment : 41
 
 |id|file|
 |----|----|
@@ -42,3 +42,4 @@
 |12985|[12985_Manage_patient_appointments_and_care_follow-ups_with_OpenAI__Gmail_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12985_Manage_patient_appointments_and_care_follow-ups_with_OpenAI__Gmail_and_Twilio.json)|
 |13482|[13482_Send_WhatsApp_appointment_reminders_from_Google_Calendar_with_MoltFlow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13482_Send_WhatsApp_appointment_reminders_from_Google_Calendar_with_MoltFlow.json)|
 |13697|[13697_Send_WhatsApp_appointment_reminders_and_reschedule_bookings_with_Wati_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13697_Send_WhatsApp_appointment_reminders_and_reschedule_bookings_with_Wati_and_Google_Sheets.json)|
+|13960|[13960_Triage_and_schedule_healthcare_appointments_with_Azure_OpenAI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13960_Triage_and_schedule_healthcare_appointments_with_Azure_OpenAI__Google_Sheets_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# langchain : 29
+# langchain : 31
 
 |id|file|
 |----|----|
@@ -31,3 +31,5 @@
 |9306|[9306_Beginner_s_Guide_to_Workflow_Automation_with_OpenAI__LangChain___API_Integrations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9306_Beginner_s_Guide_to_Workflow_Automation_with_OpenAI__LangChain___API_Integrations.json)|
 |9562|[9562_AI-Powered_X__Twitter__Content_Generator_and_Scheduler_with_LangChain_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9562_AI-Powered_X__Twitter__Content_Generator_and_Scheduler_with_LangChain_and_Blotato.json)|
 |10294|[10294_Automated_News_Retrieval___Telegram_Broadcasting_with_OpenAI__SerpAPI___LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10294_Automated_News_Retrieval___Telegram_Broadcasting_with_OpenAI__SerpAPI___LangChain.json)|
+|14012|[14012_Create_AI_newsletters_from_YouTube_with_LangChain__Gemini__Apify___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14012_Create_AI_newsletters_from_YouTube_with_LangChain__Gemini__Apify___Gmail.json)|
+|14317|[14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json)|

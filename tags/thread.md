@@ -1,4 +1,4 @@
-# thread : 9
+# thread : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |5901|[5901_Real-Time_Lead_Enrichment_in_Slack_with_Extruct_AI_In-Thread_Reply.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5901_Real-Time_Lead_Enrichment_in_Slack_with_Extruct_AI_In-Thread_Reply.json)|
 |8538|[8538_Post_Long-Form_Threads_to_X___Twitter__Threads__and_Bluesky.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8538_Post_Long-Form_Threads_to_X___Twitter__Threads__and_Bluesky.json)|
 |9193|[9193_AI-Powered_Gmail_Assistant__send_replies_by_analyzing_Thread_ID_with_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9193_AI-Powered_Gmail_Assistant__send_replies_by_analyzing_Thread_ID_with_Sonnet_4.5.json)|
+|14007|[14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json)|
+|14961|[14961_Generate_trending_X__Facebook__and_Threads_posts_with_Apify__Gemini__and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14961_Generate_trending_X__Facebook__and_Threads_posts_with_Apify__Gemini__and_Buffer.json)|

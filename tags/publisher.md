@@ -1,4 +1,4 @@
-# publisher : 23
+# publisher : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |12128|[12128_Text-to-video_generator___social_media_publisher_with_Fal.ai_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12128_Text-to-video_generator___social_media_publisher_with_Fal.ai_and_Telegram_approval.json)|
 |12131|[12131_Convert_GitHub_code_commits_to_LinkedIn_posts_with_Gemini_AI_and_code_image_generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12131_Convert_GitHub_code_commits_to_LinkedIn_posts_with_Gemini_AI_and_code_image_generation.json)|
 |13767|[13767_Automated_NASA_Image___Content_Publisher_for_WordPress_and_Multi-Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13767_Automated_NASA_Image___Content_Publisher_for_WordPress_and_Multi-Social_Media.json)|
+|14007|[14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json)|

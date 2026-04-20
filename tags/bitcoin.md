@@ -1,4 +1,4 @@
-# bitcoin : 7
+# bitcoin : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |8386|[8386_Cryptocurrency_Dip_Alerts_for_Bitcoin___Ethereum_via_Telegram__Slack___SMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8386_Cryptocurrency_Dip_Alerts_for_Bitcoin___Ethereum_via_Telegram__Slack___SMS.json)|
 |9308|[9308_Automate_Bitcoin_Trading_Insights_with_10-Exchange_Liquidity_Data_and_GPT-4.1_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9308_Automate_Bitcoin_Trading_Insights_with_10-Exchange_Liquidity_Data_and_GPT-4.1_Analysis.json)|
 |11396|[11396_Monitor_Bitcoin_Arbitrage_Between_Binance___Upbit_with_GPT_Analysis___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11396_Monitor_Bitcoin_Arbitrage_Between_Binance___Upbit_with_GPT_Analysis___Email.json)|
+|14213|[14213_Summarize_Bitcoin_news_in_Japanese_and_post_to_Discord_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14213_Summarize_Bitcoin_news_in_Japanese_and_post_to_Discord_with_Gemini_AI.json)|

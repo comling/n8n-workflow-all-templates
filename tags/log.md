@@ -1,4 +1,4 @@
-# log : 63
+# log : 74
 
 |id|file|
 |----|----|
@@ -65,3 +65,14 @@
 |13689|[13689_Track_broken_backlinks_with_DataForSEO__log_to_Google_Sheets__and_create_Asana_tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13689_Track_broken_backlinks_with_DataForSEO__log_to_Google_Sheets__and_create_Asana_tasks.json)|
 |13789|[13789_Log_workflow_errors_to_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13789_Log_workflow_errors_to_Slack_and_Google_Sheets.json)|
 |13871|[13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json)|
+|13937|[13937_Research_people_with_Perplexity_AI_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13937_Research_people_with_Perplexity_AI_and_log_results_to_Google_Sheets.json)|
+|13948|[13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json)|
+|13989|[13989_Route_and_log_incoming_emails_with_GPT-4__Excel_365_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13989_Route_and_log_incoming_emails_with_GPT-4__Excel_365_and_Telegram.json)|
+|14178|[14178_Route_Gmail_emails_to_Slack_by_intent_using_OpenAI_and_log_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14178_Route_Gmail_emails_to_Slack_by_intent_using_OpenAI_and_log_to_Sheets.json)|
+|14210|[14210_Log_LINE_invoice_photos_to_Google_Sheets_with_OCR.space_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14210_Log_LINE_invoice_photos_to_Google_Sheets_with_OCR.space_and_Gemini_AI.json)|
+|14285|[14285_Track_buying_signals_with_Airtop_and_log_them_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14285_Track_buying_signals_with_Airtop_and_log_them_to_Google_Sheets.json)|
+|14515|[14515_Log_invoice_approval_decisions_from_Slack_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14515_Log_invoice_approval_decisions_from_Slack_to_Google_Sheets.json)|
+|14677|[14677_Fetch_daily_YouTube_videos_from_top_AI_automators_and_log_them_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14677_Fetch_daily_YouTube_videos_from_top_AI_automators_and_log_them_to_Google_Sheets.json)|
+|14778|[14778_Analyze_LinkedIn_top_posts_with_Apify_and_OpenAI_and_log_7_ideas_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14778_Analyze_LinkedIn_top_posts_with_Apify_and_OpenAI_and_log_7_ideas_to_Sheets.json)|
+|14779|[14779_Log_Jira_worklogs_nightly_from_Google_Sheets_with_Gmail_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14779_Log_Jira_worklogs_nightly_from_Google_Sheets_with_Gmail_and_GPT-4o-mini.json)|
+|14964|[14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json)|

@@ -1,4 +1,4 @@
-# crypto : 45
+# crypto : 47
 
 |id|file|
 |----|----|
@@ -47,3 +47,5 @@
 |12552|[12552_Get_AI_crypto_price_analysis_via_Telegram_using_GPT-4o-mini_and_TwelveData.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12552_Get_AI_crypto_price_analysis_via_Telegram_using_GPT-4o-mini_and_TwelveData.json)|
 |12795|[12795_Analyze_crypto_market_sentiment_and_send_Discord_alerts_with_Gemini_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12795_Analyze_crypto_market_sentiment_and_send_Discord_alerts_with_Gemini_Gemini_2.5.json)|
 |12796|[12796_Track_CoinMarketCap_crypto_sector_pumps_with_Gemini_AI_and_send_digests_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12796_Track_CoinMarketCap_crypto_sector_pumps_with_Gemini_AI_and_send_digests_to_Discord.json)|
+|14676|[14676_Send_a_daily_AI_crypto_news_digest_from_Brave_Search_to_Telegram_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14676_Send_a_daily_AI_crypto_news_digest_from_Brave_Search_to_Telegram_with_GPT-4.1-mini.json)|
+|15042|[15042_Track_multi-chain_crypto_portfolios_and_analyze_risk_with_Gemini_and_QuickNode.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15042_Track_multi-chain_crypto_portfolios_and_analyze_risk_with_Gemini_and_QuickNode.json)|

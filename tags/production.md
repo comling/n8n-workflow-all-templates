@@ -1,4 +1,4 @@
-# production : 18
+# production : 20
 
 |id|file|
 |----|----|
@@ -20,3 +20,5 @@
 |13847|[13847_Production_AI_Playbook__Human_Oversight__Exercise_1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13847_Production_AI_Playbook__Human_Oversight__Exercise_1.json)|
 |13848|[13848_Production_AI_Playbook__Human_Oversight__Exercise_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13848_Production_AI_Playbook__Human_Oversight__Exercise_2.json)|
 |13849|[13849_Production_AI_Playbook__Human_Oversight__Exercise_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13849_Production_AI_Playbook__Human_Oversight__Exercise_3.json)|
+|14317|[14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json)|
+|14762|[14762_Generate_UK_M_A_research__pitch_decks_and_briefs_from_Slack_using_Anthropic_and_Google_Docs_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14762_Generate_UK_M_A_research__pitch_decks_and_briefs_from_Slack_using_Anthropic_and_Google_Docs_Slides.json)|

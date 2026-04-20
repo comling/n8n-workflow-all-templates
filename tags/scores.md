@@ -1,4 +1,4 @@
-# scores : 5
+# scores : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |6820|[6820_Research-Based_Article_Generator_with_OpenAI_and_Web_Search_for_High_SEO_Scores.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6820_Research-Based_Article_Generator_with_OpenAI_and_Web_Search_for_High_SEO_Scores.json)|
 |8526|[8526_Evaluate_Interview___Update_Scores_with_Azure_GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8526_Evaluate_Interview___Update_Scores_with_Azure_GPT-4o-mini_and_Google_Sheets.json)|
 |13507|[13507_Match_job_descriptions_with_resumes_using_Google_Gemini_and_log_scores_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13507_Match_job_descriptions_with_resumes_using_Google_Gemini_and_log_scores_to_Google_Sheets.json)|
+|14276|[14276_AI-powered_fuzzy_matching__and_assigns_confidence_scores..json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14276_AI-powered_fuzzy_matching__and_assigns_confidence_scores..json)|

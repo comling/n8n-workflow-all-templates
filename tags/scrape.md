@@ -1,4 +1,4 @@
-# scrape : 106
+# scrape : 117
 
 |id|file|
 |----|----|
@@ -108,3 +108,14 @@
 |13464|[13464_Scrape_RSS_job_posts__deduplicate_with_Google_Sheets__and_send_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13464_Scrape_RSS_job_posts__deduplicate_with_Google_Sheets__and_send_Telegram_alerts.json)|
 |13685|[13685_Scrape_Reddit_posts_with_BrowserAct__summarize_with_Gemini__and_save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13685_Scrape_Reddit_posts_with_BrowserAct__summarize_with_Gemini__and_save_to_Google_Sheets.json)|
 |13856|[13856_Scrape_Apollo.io_leads_and_sync_them_to_Google_Sheets_with_ScraperCity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13856_Scrape_Apollo.io_leads_and_sync_them_to_Google_Sheets_with_ScraperCity.json)|
+|13964|[13964_Scrape_and_ingest_web_pages_into_a_Pinecone_RAG_stack_with_Firecrawl_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13964_Scrape_and_ingest_web_pages_into_a_Pinecone_RAG_stack_with_Firecrawl_and_OpenAI.json)|
+|14032|[14032_Scrape_Shopify_store_leads_with_ScraperCity_and_push_verified_contacts_to_HubSpot_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14032_Scrape_Shopify_store_leads_with_ScraperCity_and_push_verified_contacts_to_HubSpot_CRM.json)|
+|14058|[14058_Scrape_Shopify_store_leads_with_ScraperCity_and_send_contacts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14058_Scrape_Shopify_store_leads_with_ScraperCity_and_send_contacts_to_Slack.json)|
+|14111|[14111_Scrape_Google_Maps_realtor_leads_with_ScrapeOps__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14111_Scrape_Google_Maps_realtor_leads_with_ScrapeOps__Google_Sheets__Gmail_and_Slack.json)|
+|14126|[14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json)|
+|14141|[14141_Scrape_B2B_leads_from_Apollo__generate_Groq_AI_emails__and_send_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14141_Scrape_B2B_leads_from_Apollo__generate_Groq_AI_emails__and_send_via_Gmail.json)|
+|14167|[14167_Scrape__search_and_browse_the_web_with_a_Firecrawl_AI_agent_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14167_Scrape__search_and_browse_the_web_with_a_Firecrawl_AI_agent_webhook.json)|
+|14344|[14344_Scrape_WooCommerce_store_leads_with_ScraperCity_and_sync_verified_contacts_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14344_Scrape_WooCommerce_store_leads_with_ScraperCity_and_sync_verified_contacts_to_Airtable.json)|
+|14406|[14406_Scrape_Apollo.io_leads_with_ScraperCity_and_sync_enriched_contacts_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14406_Scrape_Apollo.io_leads_with_ScraperCity_and_sync_enriched_contacts_to_Airtable.json)|
+|14448|[14448_Scrape_Google_Maps_businesses_with_ScraperCity_and_send_Gmail_outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14448_Scrape_Google_Maps_businesses_with_ScraperCity_and_send_Gmail_outreach.json)|
+|14859|[14859_Scrape_and_qualify_HR_job_leads_with_Apify__Google_Sheets_and_OpenAI_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14859_Scrape_and_qualify_HR_job_leads_with_Apify__Google_Sheets_and_OpenAI_GPT-4o-mini.json)|

@@ -1,4 +1,4 @@
-# autype : 7
+# autype : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |13896|[13896_Merge_Google_Drive_PDFs_with_dynamic_cover_pages_and_watermark_using_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13896_Merge_Google_Drive_PDFs_with_dynamic_cover_pages_and_watermark_using_Autype.json)|
 |13902|[13902_Auto-fill_PDF_forms_with_AI_using_Autype__OpenAI__and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13902_Auto-fill_PDF_forms_with_AI_using_Autype__OpenAI__and_Google_Drive.json)|
 |13908|[13908_Generate_AI_market_research_reports_with_Perplexity__Claude__Google_Trends__and_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13908_Generate_AI_market_research_reports_with_Perplexity__Claude__Google_Trends__and_Autype.json)|
+|14184|[14184_Generate_branded_PDF_reports_from_incoming_emails_using_Autype_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14184_Generate_branded_PDF_reports_from_incoming_emails_using_Autype_and_OpenRouter.json)|

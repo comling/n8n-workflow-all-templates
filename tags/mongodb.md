@@ -1,4 +1,4 @@
-# mongodb : 23
+# mongodb : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |12338|[12338_Migrate_large_Hugging_Face_datasets_to_MongoDB_with_a_looping_subworkflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12338_Migrate_large_Hugging_Face_datasets_to_MongoDB_with_a_looping_subworkflow.json)|
 |12760|[12760_Send_meeting_summaries_with_Mailchimp_and_MongoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12760_Send_meeting_summaries_with_Mailchimp_and_MongoDB.json)|
 |13782|[13782_Generate_LinkedIn_posts_using_Google_Gemini__MongoDB_Atlas__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13782_Generate_LinkedIn_posts_using_Google_Gemini__MongoDB_Atlas__Google_Drive_and_Sheets.json)|
+|14356|[14356_Send_SaaS_trial_follow-up_emails_with_MongoDB_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14356_Send_SaaS_trial_follow-up_emails_with_MongoDB_and_Gmail.json)|

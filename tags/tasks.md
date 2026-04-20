@@ -1,4 +1,4 @@
-# tasks : 103
+# tasks : 109
 
 |id|file|
 |----|----|
@@ -105,3 +105,9 @@
 |13490|[13490_Turn_new_high-volume_ranked_keywords_into_Asana_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13490_Turn_new_high-volume_ranked_keywords_into_Asana_tasks_with_DataForSEO.json)|
 |13689|[13689_Track_broken_backlinks_with_DataForSEO__log_to_Google_Sheets__and_create_Asana_tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13689_Track_broken_backlinks_with_DataForSEO__log_to_Google_Sheets__and_create_Asana_tasks.json)|
 |13828|[13828_Create_manager_tasks_from_Keephub_form_submissions_with_OpenAI_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13828_Create_manager_tasks_from_Keephub_form_submissions_with_OpenAI_GPT-4.1.json)|
+|13965|[13965_Route_AI_tasks_between_OpenAI_agents_with_confidence-based_email_fallback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13965_Route_AI_tasks_between_OpenAI_agents_with_confidence-based_email_fallback.json)|
+|14039|[14039_Route_AI_tasks_between_Anthropic_Claude_models_with_Postgres_policies_and_SLA.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14039_Route_AI_tasks_between_Anthropic_Claude_models_with_Postgres_policies_and_SLA.json)|
+|14152|[14152_Route_Discord_support_messages_into_ClickUp_tasks_with_OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14152_Route_Discord_support_messages_into_ClickUp_tasks_with_OpenAI_GPT-4.1-mini.json)|
+|14357|[14357_Classify_GitHub_issues_and_create_Linear_tasks_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14357_Classify_GitHub_issues_and_create_Linear_tasks_using_OpenAI.json)|
+|14683|[14683_Route_AI_tasks_with_OpenAI_GPT_4.1_mini_and_confidence_based_email_fallback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14683_Route_AI_tasks_with_OpenAI_GPT_4.1_mini_and_confidence_based_email_fallback.json)|
+|14773|[14773_Track_and_schedule_Notion_tasks_using_Google_Sheets_and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14773_Track_and_schedule_Notion_tasks_using_Google_Sheets_and_Calendar.json)|

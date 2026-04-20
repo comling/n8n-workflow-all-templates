@@ -1,4 +1,4 @@
-# supabase : 123
+# supabase : 133
 
 |id|file|
 |----|----|
@@ -125,3 +125,13 @@
 |13749|[13749_Summarize_YouTube_video_transcripts_in_Discord_with_Gemini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13749_Summarize_YouTube_video_transcripts_in_Discord_with_Gemini_and_Supabase.json)|
 |13765|[13765_Monitor_BOAMP_IT_tenders_and_score_them_with_GPT-4o_Mini_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13765_Monitor_BOAMP_IT_tenders_and_score_them_with_GPT-4o_Mini_to_Supabase.json)|
 |13875|[13875_Analyze_contract_risk_from_PDFs_with_OpenAI__Supabase_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13875_Analyze_contract_risk_from_PDFs_with_OpenAI__Supabase_and_Slack_alerts.json)|
+|14016|[14016_Analyze_sales_calls_with_GPT-4__Supabase_RAG__Slack_and_multi-CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14016_Analyze_sales_calls_with_GPT-4__Supabase_RAG__Slack_and_multi-CRM.json)|
+|14145|[14145_Handle_GDPR_access_and_erasure_emails_with_Gmail__GPT-4o__Supabase_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14145_Handle_GDPR_access_and_erasure_emails_with_Gmail__GPT-4o__Supabase_and_Airtable.json)|
+|14146|[14146_Flag_duplicate_and_risky_AP_invoices_with_Gmail__OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14146_Flag_duplicate_and_risky_AP_invoices_with_Gmail__OpenAI_and_Supabase.json)|
+|14192|[14192_Monitor_WooCommerce_inventory_daily_and_send_Slack_alerts_with_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14192_Monitor_WooCommerce_inventory_daily_and_send_Slack_alerts_with_Supabase.json)|
+|14362|[14362_Capture__score_and_route_Gmail_leads_with_Groq_Llama_3.3__Supabase_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14362_Capture__score_and_route_Gmail_leads_with_Groq_Llama_3.3__Supabase_and_Slack.json)|
+|14745|[14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json)|
+|14806|[14806_Aggregate_multi-source_job_boards_into_Supabase_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14806_Aggregate_multi-source_job_boards_into_Supabase_and_Google_Sheets.json)|
+|14814|[14814_Score_WhatsApp_PDF_resumes_with_OpenAI_GPT-4o-mini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14814_Score_WhatsApp_PDF_resumes_with_OpenAI_GPT-4o-mini_and_Supabase.json)|
+|14975|[14975_Convert_Supabase_support_FAQs_to_audio_with_Google_Cloud_TTS_and_Webflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14975_Convert_Supabase_support_FAQs_to_audio_with_Google_Cloud_TTS_and_Webflow.json)|
+|14996|[14996_Aggregate_multi-source_job_boards_to_Supabase_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14996_Aggregate_multi-source_job_boards_to_Supabase_and_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# check : 52
+# check : 55
 
 |id|file|
 |----|----|
@@ -54,3 +54,6 @@
 |13229|[13229_Check_file_hash_reputation_with_VirusTotal_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13229_Check_file_hash_reputation_with_VirusTotal_and_Slack_alerts.json)|
 |13448|[13448_Check_phishing_URL_reputation_with_VirusTotal_and_log_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13448_Check_phishing_URL_reputation_with_VirusTotal_and_log_to_Google_Sheets.json)|
 |13769|[13769_Check_workflow_templates_against_Creator_Hub_guidelines_with_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13769_Check_workflow_templates_against_Creator_Hub_guidelines_with_Gemini_and_Gmail.json)|
+|14020|[14020_Build_an_AI_confidence_coach_for_women_with_GPT-4o__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14020_Build_an_AI_confidence_coach_for_women_with_GPT-4o__Google_Sheets_and_Gmail.json)|
+|14807|[14807_Check_job_apply_URLs_and_deactivate_dead_links_in_Postgres_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14807_Check_job_apply_URLs_and_deactivate_dead_links_in_Postgres_and_Google_Sheets.json)|
+|14995|[14995_Check_and_deactivate_broken_job_apply_URLs_with_Postgres_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14995_Check_and_deactivate_broken_job_apply_URLs_with_Postgres_and_Google_Sheets.json)|

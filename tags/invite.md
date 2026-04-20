@@ -1,4 +1,4 @@
-# invite : 4
+# invite : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |811|[811_Manage_Slack_channel_and_users_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/811_Manage_Slack_channel_and_users_automatically.json)|
 |1088|[1088_Add_a_new_user_to_Notion_database_on_Calendly_invite_creation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1088_Add_a_new_user_to_Notion_database_on_Calendly_invite_creation.json)|
 |1340|[1340_Create_Zoom_meeting_link_from_Google_Calendar_invite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/13/1340_Create_Zoom_meeting_link_from_Google_Calendar_invite.json)|
+|14987|[14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json)|

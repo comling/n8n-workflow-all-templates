@@ -1,4 +1,4 @@
-# linear : 15
+# linear : 19
 
 |id|file|
 |----|----|
@@ -17,3 +17,7 @@
 |8845|[8845_Automatic_Issue_Routing_in_Linear_with_GPT-4-mini_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8845_Automatic_Issue_Routing_in_Linear_with_GPT-4-mini_Classification.json)|
 |8891|[8891_Sync_Productboard_Features_to_Linear_Issues_with_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8891_Sync_Productboard_Features_to_Linear_Issues_with_Telegram_Notifications.json)|
 |10065|[10065_Auto-Reply___Create_Linear_Tickets_from_Gmail_with_GPT-5__gotoHuman___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10065_Auto-Reply___Create_Linear_Tickets_from_Gmail_with_GPT-5__gotoHuman___Human_Review.json)|
+|14071|[14071_Start_an_AI_coding_agent_from_Linear_issues_with_CloudCLI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14071_Start_an_AI_coding_agent_from_Linear_issues_with_CloudCLI.json)|
+|14357|[14357_Classify_GitHub_issues_and_create_Linear_tasks_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14357_Classify_GitHub_issues_and_create_Linear_tasks_using_OpenAI.json)|
+|14518|[14518_Sync_HubSpot_and_Linear_customers_daily_using_Snowflake_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14518_Sync_HubSpot_and_Linear_customers_daily_using_Snowflake_data.json)|
+|14520|[14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json)|

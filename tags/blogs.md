@@ -1,4 +1,4 @@
-# blogs : 13
+# blogs : 15
 
 |id|file|
 |----|----|
@@ -15,3 +15,5 @@
 |12264|[12264_Repurpose_YouTube_videos_into_blogs_and_social_posts_with_GPT-4o__WordPress__LinkedIn__X_and_Instagram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12264_Repurpose_YouTube_videos_into_blogs_and_social_posts_with_GPT-4o__WordPress__LinkedIn__X_and_Instagram.json)|
 |12286|[12286_Turn_new_Shopify_products_into_SEO_blogs_with_Perplexity__Gemini_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12286_Turn_new_Shopify_products_into_SEO_blogs_with_Perplexity__Gemini_and_Sheets.json)|
 |13113|[13113_Publish_SEO_blogs_to_WordPress_with_GPT-4.1__DALL-E__Gemini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13113_Publish_SEO_blogs_to_WordPress_with_GPT-4.1__DALL-E__Gemini__and_Google_Sheets.json)|
+|14715|[14715_Turn_podcast_and_video_URLs_into_blogs_and_social_content_using_WayinVideo_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14715_Turn_podcast_and_video_URLs_into_blogs_and_social_content_using_WayinVideo_and_OpenAI.json)|
+|14923|[14923_Create_and_post_AI_social_captions_from_WordPress_blogs_to_Facebook__Instagram__X__and_LinkedIn_with_GPT-4o_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14923_Create_and_post_AI_social_captions_from_WordPress_blogs_to_Facebook__Instagram__X__and_LinkedIn_with_GPT-4o_via_OpenRouter.json)|

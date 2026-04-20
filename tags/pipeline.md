@@ -1,4 +1,4 @@
-# pipeline : 58
+# pipeline : 63
 
 |id|file|
 |----|----|
@@ -60,3 +60,8 @@
 |13116|[13116_Score_and_route_qualified_leads_to_Notion_and_Matrix.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13116_Score_and_route_qualified_leads_to_Notion_and_Matrix.json)|
 |13192|[13192_Process_incoming_files_and_notify_via_email_with_GitHub_storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13192_Process_incoming_files_and_notify_via_email_with_GitHub_storage.json)|
 |13529|[13529_Run_an_AI_SDR_sales_pipeline_with_OpenAI__Google_Sheets__Gmail_and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13529_Run_an_AI_SDR_sales_pipeline_with_OpenAI__Google_Sheets__Gmail_and_Calendar.json)|
+|14009|[14009_Find_leads_from_LinkedIn_posts_using_Airtop_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14009_Find_leads_from_LinkedIn_posts_using_Airtop_agents.json)|
+|14316|[14316_Ads_Factory__Generate_Unlimited_Length_UGC_AI_Video_Pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14316_Ads_Factory__Generate_Unlimited_Length_UGC_AI_Video_Pipeline.json)|
+|14388|[14388_Generate_multi-variation_FX_concept_clips_with_Seedance_AI__Google_Drive__Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14388_Generate_multi-variation_FX_concept_clips_with_Seedance_AI__Google_Drive__Notion_and_Slack.json)|
+|14390|[14390_Generate_multi-pass_Seedance_AI_roto_mattes_with_QC_and_Nuke_handoff.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14390_Generate_multi-pass_Seedance_AI_roto_mattes_with_QC_and_Nuke_handoff.json)|
+|14889|[14889_Generate_style-locked_Seedance_videos_with_an_automated_QC_pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14889_Generate_style-locked_Seedance_videos_with_an_automated_QC_pipeline.json)|

@@ -1,4 +1,4 @@
-# linkup : 7
+# linkup : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |8801|[8801_AI_DJ__Text-to-Spotify_Playlist_Generator_with_Linkup_and_GPT4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8801_AI_DJ__Text-to-Spotify_Playlist_Generator_with_Linkup_and_GPT4.json)|
 |9567|[9567_Create_Dual-Source_Expert_Articles_with_Internal_Knowledge_and_Web_Research_using_Lookio__Linkup__and_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9567_Create_Dual-Source_Expert_Articles_with_Internal_Knowledge_and_Web_Research_using_Lookio__Linkup__and_GPT-5.json)|
 |9871|[9871_Build_a_Telegram_Q_A_Bot_with_Linkup_Web_Search__GPT-4.1___Mistral_Voice.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9871_Build_a_Telegram_Q_A_Bot_with_Linkup_Web_Search__GPT-4.1___Mistral_Voice.json)|
+|13974|[13974_Retrieve_a_LinkedIn_contact_s_name_from_a_profile_URL_with_LinkUp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13974_Retrieve_a_LinkedIn_contact_s_name_from_a_profile_URL_with_LinkUp.json)|

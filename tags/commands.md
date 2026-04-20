@@ -1,4 +1,4 @@
-# commands : 18
+# commands : 19
 
 |id|file|
 |----|----|
@@ -20,3 +20,4 @@
 |7409|[7409_Delete_Dialogflow_Intents_via_Telegram_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7409_Delete_Dialogflow_Intents_via_Telegram_Commands.json)|
 |11052|[11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json)|
 |13166|[13166_Manage_Supabase_database_records_with_Telegram_bot_commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13166_Manage_Supabase_database_records_with_Telegram_bot_commands.json)|
+|13945|[13945_Track_npm_package_downloads_with_Telegram_commands_and_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13945_Track_npm_package_downloads_with_Telegram_commands_and_reports.json)|

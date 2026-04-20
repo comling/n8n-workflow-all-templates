@@ -1,4 +1,4 @@
-# high : 27
+# high : 28
 
 |id|file|
 |----|----|
@@ -29,3 +29,4 @@
 |12865|[12865_Scrape_high-engagement_LinkedIn_posts_and_auto-post_with_Gemini_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12865_Scrape_high-engagement_LinkedIn_posts_and_auto-post_with_Gemini_images.json)|
 |12965|[12965_Score_and_download_top_YouTube_videos_to_Google_Sheets_with_FetchMedia.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12965_Score_and_download_top_YouTube_videos_to_Google_Sheets_with_FetchMedia.io.json)|
 |13490|[13490_Turn_new_high-volume_ranked_keywords_into_Asana_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13490_Turn_new_high-volume_ranked_keywords_into_Asana_tasks_with_DataForSEO.json)|
+|14531|[14531_Tag_high-risk_WooCommerce_SKUs_and_send_daily_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14531_Tag_high-risk_WooCommerce_SKUs_and_send_daily_alerts_to_Slack.json)|

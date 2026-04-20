@@ -1,4 +1,4 @@
-# notes : 44
+# notes : 48
 
 |id|file|
 |----|----|
@@ -46,3 +46,7 @@
 |12760|[12760_Send_meeting_summaries_with_Mailchimp_and_MongoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12760_Send_meeting_summaries_with_Mailchimp_and_MongoDB.json)|
 |13868|[13868_Auto-generate_sticky_notes_and_rename_nodes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13868_Auto-generate_sticky_notes_and_rename_nodes.json)|
 |13919|[13919_Turn_YouTube_meeting_recordings_into_Notion_notes_with_Claude__deAPI__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13919_Turn_YouTube_meeting_recordings_into_Notion_notes_with_Claude__deAPI__and_Slack_alerts.json)|
+|14065|[14065_Generate_job_descriptions_from_briefing_notes_with_OpenAI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14065_Generate_job_descriptions_from_briefing_notes_with_OpenAI_and_Google_Docs.json)|
+|14502|[14502_Convert_LINE_handwritten_memo_images_to_tagged__searchable_notes_with_Gemini__Google_Drive_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14502_Convert_LINE_handwritten_memo_images_to_tagged__searchable_notes_with_Gemini__Google_Drive_and_Google_Sheets.json)|
+|14520|[14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json)|
+|14895|[14895_Structure_AI_meeting_notes_with_GPT-4o-mini_and_save_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14895_Structure_AI_meeting_notes_with_GPT-4o-mini_and_save_to_Google_Drive.json)|

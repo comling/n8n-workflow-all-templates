@@ -1,4 +1,4 @@
-# home : 8
+# home : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8411|[8411_Voice___Text_Control_for_Home_Assistant_using_Telegram__Whisper___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8411_Voice___Text_Control_for_Home_Assistant_using_Telegram__Whisper___Gemini.json)|
 |9010|[9010_Import_E.ON_W1000_Energy_Meter_Data_to_Home_Assistant_with_Spook_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9010_Import_E.ON_W1000_Energy_Meter_Data_to_Home_Assistant_with_Spook_Integration.json)|
 |10466|[10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json)|
+|14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|

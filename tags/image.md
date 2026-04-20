@@ -1,4 +1,4 @@
-# image : 214
+# image : 218
 
 |id|file|
 |----|----|
@@ -216,3 +216,7 @@
 |13767|[13767_Automated_NASA_Image___Content_Publisher_for_WordPress_and_Multi-Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13767_Automated_NASA_Image___Content_Publisher_for_WordPress_and_Multi-Social_Media.json)|
 |13777|[13777_Generate_styled_PDF_or_DOCX_business_reports_from_Markdown_with_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13777_Generate_styled_PDF_or_DOCX_business_reports_from_Markdown_with_Autype.json)|
 |13880|[13880_Generate_Layerre_image_variants_from_a_webhook_and_post_them_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13880_Generate_Layerre_image_variants_from_a_webhook_and_post_them_to_Slack.json)|
+|14201|[14201_Generate_product_photos_and_videos_from_a_reference_image_with_OpenAI_and_RunwayML.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14201_Generate_product_photos_and_videos_from_a_reference_image_with_OpenAI_and_RunwayML.json)|
+|14863|[14863_Upload_images_to_Webflow_via_API_as_a_reusable_sub-workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14863_Upload_images_to_Webflow_via_API_as_a_reusable_sub-workflow.json)|
+|14928|[14928_Bulk_sync_products_from_Google_Sheets_to_Odoo_with_auto_image_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14928_Bulk_sync_products_from_Google_Sheets_to_Odoo_with_auto_image_upload.json)|
+|15033|[15033_Generate_Instagram_posts_with_OpenAI__RSS_news__and_auto_image_posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15033_Generate_Instagram_posts_with_OpenAI__RSS_news__and_auto_image_posting.json)|

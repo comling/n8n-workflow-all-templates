@@ -1,4 +1,4 @@
-# based : 119
+# based : 127
 
 |id|file|
 |----|----|
@@ -121,3 +121,11 @@
 |13721|[13721_Create_WordPress_users_from_KlickTipp_and_tag_contacts_based_on_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13721_Create_WordPress_users_from_KlickTipp_and_tag_contacts_based_on_comments.json)|
 |13900|[13900_Scan_code_repositories_for_governance_issues_with_GPT-4o_and_severity-based_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13900_Scan_code_repositories_for_governance_issues_with_GPT-4o_and_severity-based_reports.json)|
 |13903|[13903_Filter_and_label_Gmail_emails_using_keyword-based_rules_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13903_Filter_and_label_Gmail_emails_using_keyword-based_rules_and_Google_Sheets_logging.json)|
+|13965|[13965_Route_AI_tasks_between_OpenAI_agents_with_confidence-based_email_fallback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13965_Route_AI_tasks_between_OpenAI_agents_with_confidence-based_email_fallback.json)|
+|14087|[14087_Gate_AI_Slack_DevOps_bot_actions_with_OpenAI_and_Permit.io_RBAC.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14087_Gate_AI_Slack_DevOps_bot_actions_with_OpenAI_and_Permit.io_RBAC.json)|
+|14191|[14191_AI_YouTube_Shorts_Creator______Prompt-Based_Clipping__Dubbing___Social_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14191_AI_YouTube_Shorts_Creator______Prompt-Based_Clipping__Dubbing___Social_Upload.json)|
+|14469|[14469_Detect_underpriced_MLS_properties_with_GPT_and_alert_via_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14469_Detect_underpriced_MLS_properties_with_GPT_and_alert_via_Gmail_and_Slack.json)|
+|14555|[14555_Build_a_Slack-based_CRM_assistant_with_HubSpot_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14555_Build_a_Slack-based_CRM_assistant_with_HubSpot_and_Google_Gemini.json)|
+|14576|[14576_Publish_Google_News_based_SEO_blog_posts_to_WordPress_with_Claude__Gemini_and_RankMath.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14576_Publish_Google_News_based_SEO_blog_posts_to_WordPress_with_Claude__Gemini_and_RankMath.json)|
+|14683|[14683_Route_AI_tasks_with_OpenAI_GPT_4.1_mini_and_confidence_based_email_fallback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14683_Route_AI_tasks_with_OpenAI_GPT_4.1_mini_and_confidence_based_email_fallback.json)|
+|14914|[14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json)|

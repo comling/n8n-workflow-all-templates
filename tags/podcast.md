@@ -1,4 +1,4 @@
-# podcast : 23
+# podcast : 25
 
 |id|file|
 |----|----|
@@ -25,3 +25,5 @@
 |12020|[12020_Automated_podcast_production___publishing_with_OpenAI__Airtable___Buzzsprout.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12020_Automated_podcast_production___publishing_with_OpenAI__Airtable___Buzzsprout.json)|
 |12434|[12434_Create_Telegram_podcast_digests_from_Apple_Podcasts_with_BrowserAct_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12434_Create_Telegram_podcast_digests_from_Apple_Podcasts_with_BrowserAct_and_Gemini.json)|
 |12780|[12780_Generate_podcast_topic_ideas_from_RSS_feeds_with_Gemini__SerpAPI_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12780_Generate_podcast_topic_ideas_from_RSS_feeds_with_Gemini__SerpAPI_and_Notion.json)|
+|14170|[14170_Summarize_Apple_podcast_episodes_with_ElevenLabs_and_GPT-5-MINI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14170_Summarize_Apple_podcast_episodes_with_ElevenLabs_and_GPT-5-MINI.json)|
+|14715|[14715_Turn_podcast_and_video_URLs_into_blogs_and_social_content_using_WayinVideo_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14715_Turn_podcast_and_video_URLs_into_blogs_and_social_content_using_WayinVideo_and_OpenAI.json)|

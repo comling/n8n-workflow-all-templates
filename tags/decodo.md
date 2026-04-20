@@ -1,4 +1,4 @@
-# decodo : 35
+# decodo : 37
 
 |id|file|
 |----|----|
@@ -37,3 +37,5 @@
 |13637|[13637_Generate_rotating_user-agents_and_proxy_IPs_for_scraping_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13637_Generate_rotating_user-agents_and_proxy_IPs_for_scraping_APIs.json)|
 |13737|[13737_Track_daily_Google_SERP_rankings_with_Decodo_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13737_Track_daily_Google_SERP_rankings_with_Decodo_and_Google_Sheets.json)|
 |13817|[13817_Audit_competitor_SEO_content_with_Decodo__Gemini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13817_Audit_competitor_SEO_content_with_Decodo__Gemini__and_Google_Sheets.json)|
+|14084|[14084_Generate_and_enrich_local_business_leads_with_Decodo__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14084_Generate_and_enrich_local_business_leads_with_Decodo__OpenAI_and_Gmail.json)|
+|14088|[14088_Generate_AI-powered_investment_due_diligence_PDF_reports_with_OpenAI__LlamaParse_and_Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14088_Generate_AI-powered_investment_due_diligence_PDF_reports_with_OpenAI__LlamaParse_and_Decodo.json)|

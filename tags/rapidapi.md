@@ -1,4 +1,4 @@
-# rapidapi : 38
+# rapidapi : 40
 
 |id|file|
 |----|----|
@@ -40,3 +40,5 @@
 |8957|[8957_Pre-Meeting_Lead_Research_Agent_with_Calendly__Perplexity___RapidAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8957_Pre-Meeting_Lead_Research_Agent_with_Calendly__Perplexity___RapidAPI.json)|
 |9025|[9025_Automated_Economic_Calendar_PDF_Reports_to_Telegram_via_RapidAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9025_Automated_Economic_Calendar_PDF_Reports_to_Telegram_via_RapidAPI.json)|
 |9067|[9067_Automated_Plagiarism_Detection_with_Email_Reports_using_RapidAPI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9067_Automated_Plagiarism_Detection_with_Email_Reports_using_RapidAPI___Google_Sheets.json)|
+|14001|[14001_Convert_YouTube_transcripts_in_Google_Sheets_to_X__Twitter__threads_with_Apify__OpenAI_and_RapidAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14001_Convert_YouTube_transcripts_in_Google_Sheets_to_X__Twitter__threads_with_Apify__OpenAI_and_RapidAPI.json)|
+|14366|[14366_Generate_and_qualify_local_business_leads_using_Google_Sheets__RapidAPI_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14366_Generate_and_qualify_local_business_leads_using_Google_Sheets__RapidAPI_and_OpenAI.json)|

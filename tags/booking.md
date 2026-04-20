@@ -1,4 +1,4 @@
-# booking : 49
+# booking : 52
 
 |id|file|
 |----|----|
@@ -51,3 +51,6 @@
 |12063|[12063_Sync_AI-enriched_TimeRex_bookings_to_Google_Sheets_and_Slack_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12063_Sync_AI-enriched_TimeRex_bookings_to_Google_Sheets_and_Slack_with_Gemini.json)|
 |12745|[12745_Nurture_landscaping_leads_and_book_calls_with_GoHighLevel__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12745_Nurture_landscaping_leads_and_book_calls_with_GoHighLevel__OpenAI_and_Slack.json)|
 |12831|[12831_Book__manage__and_check_appointments_using_Vapi_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12831_Book__manage__and_check_appointments_using_Vapi_and_Google_Calendar.json)|
+|13923|[13923_Schedule_appointments_from_a_booking_form_with_Google_Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13923_Schedule_appointments_from_a_booking_form_with_Google_Calendar_and_Gmail.json)|
+|13960|[13960_Triage_and_schedule_healthcare_appointments_with_Azure_OpenAI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13960_Triage_and_schedule_healthcare_appointments_with_Azure_OpenAI__Google_Sheets_and_Gmail.json)|
+|13984|[13984_AI-Powered_WhatsApp_Chatbot_____Complete_Booking_Assistant_with_Gemini___Google.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13984_AI-Powered_WhatsApp_Chatbot_____Complete_Booking_Assistant_with_Gemini___Google.json)|

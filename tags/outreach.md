@@ -1,4 +1,4 @@
-# outreach : 101
+# outreach : 106
 
 |id|file|
 |----|----|
@@ -103,3 +103,8 @@
 |13466|[13466_Run_AI-scored_cold_email_outreach_and_follow-ups_with_Ollama_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13466_Run_AI-scored_cold_email_outreach_and_follow-ups_with_Ollama_and_Gmail.json)|
 |13732|[13732_Run_email_outreach_campaigns_from_Telegram_with_Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13732_Run_email_outreach_campaigns_from_Telegram_with_Gmail_and_Google_Sheets.json)|
 |13843|[13843_Re-engage_event_participants_from_HubSpot_with_Gemini_and_email_outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13843_Re-engage_event_participants_from_HubSpot_with_Gemini_and_email_outreach.json)|
+|14099|[14099_Track_new_complementary-tool_adopters_with_PredictLeads__Google_Sheets__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14099_Track_new_complementary-tool_adopters_with_PredictLeads__Google_Sheets__OpenAI_and_Gmail.json)|
+|14104|[14104_Track_leadership_hires_and_send_AI_outreach_using_PredictLeads__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14104_Track_leadership_hires_and_send_AI_outreach_using_PredictLeads__OpenAI_and_Gmail.json)|
+|14448|[14448_Scrape_Google_Maps_businesses_with_ScraperCity_and_send_Gmail_outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14448_Scrape_Google_Maps_businesses_with_ScraperCity_and_send_Gmail_outreach.json)|
+|14811|[14811_Send_deduplicated_partner_outreach_emails_from_Google_Sheets_via_Zoho_ZeptoMail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14811_Send_deduplicated_partner_outreach_emails_from_Google_Sheets_via_Zoho_ZeptoMail.json)|
+|14984|[14984_Automate_social_fan-out__marketplace_outreach__and_CRM_alerts_with_Salesforce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14984_Automate_social_fan-out__marketplace_outreach__and_CRM_alerts_with_Salesforce.json)|

@@ -1,4 +1,4 @@
-# itineraries : 8
+# itineraries : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |9708|[9708_Create_Personalized_City_Trip_Itineraries_with_Telegram_Bot___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9708_Create_Personalized_City_Trip_Itineraries_with_Telegram_Bot___GPT-4o.json)|
 |10232|[10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json)|
 |10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|
+|13921|[13921_Plan_AI-powered_travel_itineraries_with_Apify__OpenAI__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13921_Plan_AI-powered_travel_itineraries_with_Apify__OpenAI__and_Google_Docs.json)|

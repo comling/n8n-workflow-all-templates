@@ -1,4 +1,4 @@
-# contract : 21
+# contract : 25
 
 |id|file|
 |----|----|
@@ -23,3 +23,7 @@
 |13683|[13683_Audit_contract_governance_risk_with_OpenAI__Slack_and_email_routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13683_Audit_contract_governance_risk_with_OpenAI__Slack_and_email_routing.json)|
 |13757|[13757_Automate_contract_signing_from_Tally_to_Airtable_and_DocuSign.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13757_Automate_contract_signing_from_Tally_to_Airtable_and_DocuSign.json)|
 |13875|[13875_Analyze_contract_risk_from_PDFs_with_OpenAI__Supabase_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13875_Analyze_contract_risk_from_PDFs_with_OpenAI__Supabase_and_Slack_alerts.json)|
+|14155|[14155_Send_contract_renewal_reminders_from_HubSpot_via_Gmail_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14155_Send_contract_renewal_reminders_from_HubSpot_via_Gmail_and_Slack_alerts.json)|
+|14413|[14413_Assess_blockchain_smart_contract_and_tokenomics_risk_with_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14413_Assess_blockchain_smart_contract_and_tokenomics_risk_with_GPT-4o_and_Gmail.json)|
+|14434|[14434_Route_legal_contract_risks_with_GPT-4o__Slack__Google_Sheets_and_a_regulatory_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14434_Route_legal_contract_risks_with_GPT-4o__Slack__Google_Sheets_and_a_regulatory_API.json)|
+|14823|[14823_Analyze_contract_PDFs_and_score_risk_with_Claude_3.5__Postgres__email_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14823_Analyze_contract_PDFs_and_score_risk_with_Claude_3.5__Postgres__email_and_Slack_alerts.json)|

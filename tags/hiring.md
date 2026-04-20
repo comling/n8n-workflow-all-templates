@@ -1,4 +1,4 @@
-# hiring : 17
+# hiring : 19
 
 |id|file|
 |----|----|
@@ -19,3 +19,5 @@
 |11912|[11912_Automated_resume_screening___interview_scheduling_with_Gmail__GPT___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11912_Automated_resume_screening___interview_scheduling_with_Gmail__GPT___Airtable.json)|
 |13352|[13352_Orchestrate_AI-driven_hiring_analytics_and_candidate_assessment_with_GPT-4__Claude__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13352_Orchestrate_AI-driven_hiring_analytics_and_candidate_assessment_with_GPT-4__Claude__Google_Sheets__Gmail_and_Slack.json)|
 |13517|[13517_Automate_end-to-end_hiring_with_Keka__Google_Sheets__Gmail_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13517_Automate_end-to-end_hiring_with_Keka__Google_Sheets__Gmail_and_GPT-4.json)|
+|14100|[14100_Monitor_CRM_hiring_spikes_and_send_Slack_alerts_with_HubSpot_and_PredictLeads.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14100_Monitor_CRM_hiring_spikes_and_send_Slack_alerts_with_HubSpot_and_PredictLeads.json)|
+|14101|[14101_Send_personalized_data_engineer_hiring_emails_with_PredictLeads__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14101_Send_personalized_data_engineer_hiring_emails_with_PredictLeads__OpenAI_and_Gmail.json)|

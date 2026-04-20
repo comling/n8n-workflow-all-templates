@@ -1,4 +1,4 @@
-# follow : 71
+# follow : 77
 
 |id|file|
 |----|----|
@@ -73,3 +73,9 @@
 |13466|[13466_Run_AI-scored_cold_email_outreach_and_follow-ups_with_Ollama_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13466_Run_AI-scored_cold_email_outreach_and_follow-ups_with_Ollama_and_Gmail.json)|
 |13480|[13480_Send_WhatsApp_follow-up_when_a_new_lead_submits_a_form_with_MoltFlow_and_log_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13480_Send_WhatsApp_follow-up_when_a_new_lead_submits_a_form_with_MoltFlow_and_log_to_Sheets.json)|
 |13723|[13723_Automate_WhatsApp_lead_follow-ups_and_nurturing_with_WATI__Airtable_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13723_Automate_WhatsApp_lead_follow-ups_and_nurturing_with_WATI__Airtable_and_OpenAI.json)|
+|14356|[14356_Send_SaaS_trial_follow-up_emails_with_MongoDB_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14356_Send_SaaS_trial_follow-up_emails_with_MongoDB_and_Gmail.json)|
+|14440|[14440_Send_vendor_follow-up_emails_for_overdue_POs_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14440_Send_vendor_follow-up_emails_for_overdue_POs_with_Google_Sheets_and_Gmail.json)|
+|14578|[14578_Generate_overdue_lead_follow-up_Gmail_drafts_with_Google_Sheets_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14578_Generate_overdue_lead_follow-up_Gmail_drafts_with_Google_Sheets_and_Gemini.json)|
+|14803|[14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json)|
+|14813|[14813_Send_personalized_cold_email_follow-ups_from_Google_Sheets_with_ZeptoMail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14813_Send_personalized_cold_email_follow-ups_from_Google_Sheets_with_ZeptoMail.json)|
+|14846|[14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json)|

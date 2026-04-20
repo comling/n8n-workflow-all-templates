@@ -1,4 +1,4 @@
-# stats : 10
+# stats : 12
 
 |id|file|
 |----|----|
@@ -12,3 +12,5 @@
 |7655|[7655_Create_a_Witty_Telegram_Bot_with_AI-Powered_Humor__Roasts___Stats_using_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7655_Create_a_Witty_Telegram_Bot_with_AI-Powered_Humor__Roasts___Stats_using_OpenRouter.json)|
 |8362|[8362_Automate_Daily_Signup_Stats_from_PostgreSQL_to_Slack__Teams___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8362_Automate_Daily_Signup_Stats_from_PostgreSQL_to_Slack__Teams___Telegram.json)|
 |10712|[10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json)|
+|14671|[14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json)|
+|15008|[15008_Track_Idealista_market_stats_weekly_and_email_Google_Sheets_reports_with_Idealista_Scraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15008_Track_Idealista_market_stats_weekly_and_email_Google_Sheets_reports_with_Idealista_Scraper.json)|

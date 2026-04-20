@@ -1,4 +1,4 @@
-# fal : 35
+# fal : 36
 
 |id|file|
 |----|----|
@@ -37,3 +37,4 @@
 |12270|[12270_Create_AI_sci_fi_book_review_videos_with_ChatGPT__Fal.ai_and_Nexrender.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12270_Create_AI_sci_fi_book_review_videos_with_ChatGPT__Fal.ai_and_Nexrender.json)|
 |12318|[12318_Generate_and_schedule_themed_social_posts_with_Notion__OpenAI__Fal.ai_and_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12318_Generate_and_schedule_themed_social_posts_with_Notion__OpenAI__Fal.ai_and_Postiz.json)|
 |12867|[12867_Auto-dub_Viral_Instagram_and_TikTok_videos___with_Fal_AI_ElevenLabs_dubbing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12867_Auto-dub_Viral_Instagram_and_TikTok_videos___with_Fal_AI_ElevenLabs_dubbing.json)|
+|14372|[14372_Create_daily_historical_AI_videos_with_Gemini__fal.ai__Telegram_and_YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14372_Create_daily_historical_AI_videos_with_Gemini__fal.ai__Telegram_and_YouTube.json)|

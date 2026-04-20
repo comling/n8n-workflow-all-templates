@@ -1,4 +1,4 @@
-# recap : 11
+# recap : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |8415|[8415_Clone___Customize_Competitor_Facebook_Ads_with_Gemini_AI_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8415_Clone___Customize_Competitor_Facebook_Ads_with_Gemini_AI_and_Apify.json)|
 |9432|[9432_Generate_UGC_Marketing_Videos_for_eCommerce_with_Sora_2_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9432_Generate_UGC_Marketing_Videos_for_eCommerce_with_Sora_2_and_Gemini.json)|
 |10063|[10063_AI_Video_Generator_for_eCommerce_Product_Catalogs_with_Veo_3.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10063_AI_Video_Generator_for_eCommerce_Product_Catalogs_with_Veo_3.1.json)|
+|14656|[14656_Create_event_recap_Instagram_carousels_from_photo_dumps_using_Upload_to_URL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14656_Create_event_recap_Instagram_carousels_from_photo_dumps_using_Upload_to_URL.json)|

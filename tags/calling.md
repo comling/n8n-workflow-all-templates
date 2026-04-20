@@ -1,4 +1,4 @@
-# calling : 7
+# calling : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |6309|[6309_Create_Multilingual_Voice_Calling_Bot_with_GPT-4o__ElevenLabs___Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6309_Create_Multilingual_Voice_Calling_Bot_with_GPT-4o__ElevenLabs___Twilio.json)|
 |7380|[7380_Automate_Order_Confirmations_with_VAPI_Voice_AI___Timezone_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7380_Automate_Order_Confirmations_with_VAPI_Voice_AI___Timezone_Intelligence.json)|
 |8987|[8987_Automate_Lead_Calling_with_VAPI__Google_Sheets_Logging__and_Calendar_Bookings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8987_Automate_Lead_Calling_with_VAPI__Google_Sheets_Logging__and_Calendar_Bookings.json)|
+|14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|

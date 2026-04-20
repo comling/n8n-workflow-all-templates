@@ -1,4 +1,4 @@
-# browser : 12
+# browser : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |7932|[7932_Automate_Cross-Posting_from_Telegram_to_Facebook_with_Airtop_Browser_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7932_Automate_Cross-Posting_from_Telegram_to_Facebook_with_Airtop_Browser_Automation.json)|
 |13375|[13375_Audit_browser_and_proxy_fingerprint_IP_integrity_with_GPT-4o__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13375_Audit_browser_and_proxy_fingerprint_IP_integrity_with_GPT-4o__Sheets_and_Slack.json)|
 |13793|[13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json)|
+|13967|[13967_Grow_Reddit_karma_with_DeepSeek__Google_Sheets__Multilogin_and_Browser_MCP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13967_Grow_Reddit_karma_with_DeepSeek__Google_Sheets__Multilogin_and_Browser_MCP.json)|

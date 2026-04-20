@@ -1,4 +1,4 @@
-# transcription : 28
+# transcription : 29
 
 |id|file|
 |----|----|
@@ -30,3 +30,4 @@
 |12003|[12003_Build_a_voice___text_Telegram_Bot_with_GPT-4.1-Mini_and_Gemini_transcription.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12003_Build_a_voice___text_Telegram_Bot_with_GPT-4.1-Mini_and_Gemini_transcription.json)|
 |12934|[12934_Summarize_YouTube_videos_in_Slack_using_AssemblyAI_transcription_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12934_Summarize_YouTube_videos_in_Slack_using_AssemblyAI_transcription_and_OpenAI.json)|
 |13073|[13073_Create_an_auto-journal_from_WhatsApp_with_AI_transcription.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13073_Create_an_auto-journal_from_WhatsApp_with_AI_transcription.json)|
+|14799|[14799_Analyze_sales_calls_with_Whisper_transcription__GPT-4o__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14799_Analyze_sales_calls_with_Whisper_transcription__GPT-4o__Airtable_and_Slack.json)|

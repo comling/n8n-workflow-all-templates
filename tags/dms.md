@@ -1,4 +1,4 @@
-# dms : 9
+# dms : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |10568|[10568_Automate_Instagram_DMs___Engagement_with_Google_Sheets___Puppeteer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10568_Automate_Instagram_DMs___Engagement_with_Google_Sheets___Puppeteer.json)|
 |12159|[12159_Automate_follower_resource_distribution_on_BlueSky_with_keyword-triggered_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12159_Automate_follower_resource_distribution_on_BlueSky_with_keyword-triggered_DMs.json)|
 |12311|[12311_Send_personalized_LinkedIn_DMs_to_profile_visitors_with_ConnectSafely.ai_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12311_Send_personalized_LinkedIn_DMs_to_profile_visitors_with_ConnectSafely.ai_and_Google_Sheets.json)|
+|14005|[14005_Archive_Outlook_email_attachments_to_DATEV_DMS_and_notify_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14005_Archive_Outlook_email_attachments_to_DATEV_DMS_and_notify_Slack.json)|
+|14026|[14026_Auto-reply_to_Instagram_DMs_with_an_AI_chatbot_and_Google_Gemini_history.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14026_Auto-reply_to_Instagram_DMs_with_an_AI_chatbot_and_Google_Gemini_history.json)|

@@ -1,4 +1,4 @@
-# backups : 13
+# backups : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |7707|[7707_Scheduled_n8n_Workflow_Backups_to_Google_Drive_using_n8n_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7707_Scheduled_n8n_Workflow_Backups_to_Google_Drive_using_n8n_API.json)|
 |7850|[7850_Automated_Workflow_Backups_with_Google_Drive_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7850_Automated_Workflow_Backups_with_Google_Drive_and_Slack_Notifications.json)|
 |9779|[9779_Automated_Daily_Workflow_Backups_to_Google_Drive_with_Cleanup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9779_Automated_Daily_Workflow_Backups_to_Google_Drive_with_Cleanup.json)|
+|14925|[14925_Sync_self-hosted_workflow_backups_to_GitHub_for_version_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14925_Sync_self-hosted_workflow_backups_to_GitHub_for_version_control.json)|

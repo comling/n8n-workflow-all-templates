@@ -1,4 +1,4 @@
-# comment : 31
+# comment : 33
 
 |id|file|
 |----|----|
@@ -33,3 +33,5 @@
 |10331|[10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json)|
 |12028|[12028_Moderate_Facebook_comments_with_AI_and_send_reports_to_Slack___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12028_Moderate_Facebook_comments_with_AI_and_send_reports_to_Slack___Telegram.json)|
 |12375|[12375_Pick_a_daily_Facebook_comment_contest_winner_with_OpenAI__Airtable_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12375_Pick_a_daily_Facebook_comment_contest_winner_with_OpenAI__Airtable_and_Telegram.json)|
+|14299|[14299_Automatic_AI_reply_when_mentioned_in_a_Liveblocks_comment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14299_Automatic_AI_reply_when_mentioned_in_a_Liveblocks_comment.json)|
+|14300|[14300_Analyze_Liveblocks_comment_attachments_with_Anthropic_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14300_Analyze_Liveblocks_comment_attachments_with_Anthropic_Claude_AI.json)|

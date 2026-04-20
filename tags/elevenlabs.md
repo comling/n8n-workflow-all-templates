@@ -1,4 +1,4 @@
-# elevenlabs : 76
+# elevenlabs : 80
 
 |id|file|
 |----|----|
@@ -78,3 +78,7 @@
 |12727|[12727_Generate_VEED_AI_talking_head_videos_from_sheet_rows_with_OpenAI_or_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12727_Generate_VEED_AI_talking_head_videos_from_sheet_rows_with_OpenAI_or_ElevenLabs.json)|
 |12867|[12867_Auto-dub_Viral_Instagram_and_TikTok_videos___with_Fal_AI_ElevenLabs_dubbing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12867_Auto-dub_Viral_Instagram_and_TikTok_videos___with_Fal_AI_ElevenLabs_dubbing.json)|
 |12924|[12924_Create_AI_YouTube_SRT_subtitles___with_ElevenLabs___and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12924_Create_AI_YouTube_SRT_subtitles___with_ElevenLabs___and_Google_Drive.json)|
+|14170|[14170_Summarize_Apple_podcast_episodes_with_ElevenLabs_and_GPT-5-MINI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14170_Summarize_Apple_podcast_episodes_with_ElevenLabs_and_GPT-5-MINI.json)|
+|14546|[14546_Generate_Financial_Risk_Reports___from_ElevenLabs_interviews___using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14546_Generate_Financial_Risk_Reports___from_ElevenLabs_interviews___using_OpenAI.json)|
+|14973|[14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json)|
+|14985|[14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json)|

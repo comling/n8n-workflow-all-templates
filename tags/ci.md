@@ -1,4 +1,4 @@
-# ci : 4
+# ci : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |3994|[3994_Readable_Workflow_Export___Deployment_Pipeline_for_Multi-Environment_CI_CD.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3994_Readable_Workflow_Export___Deployment_Pipeline_for_Multi-Environment_CI_CD.json)|
 |11828|[11828_CI_Artifact_Completeness_Gate__Git_Push__Sentry_Artifact_Verification__Commit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11828_CI_Artifact_Completeness_Gate__Git_Push__Sentry_Artifact_Verification__Commit.json)|
 |13823|[13823_Build__test_and_deploy_AI_projects_with_Windsurf_CI_CD_and_Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13823_Build__test_and_deploy_AI_projects_with_Windsurf_CI_CD_and_Vercel.json)|
+|14129|[14129_Analyze_GitLab_CI_job_failures_with_GPT-5.3_and_send_reports_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14129_Analyze_GitLab_CI_job_failures_with_GPT-5.3_and_send_reports_to_Slack.json)|

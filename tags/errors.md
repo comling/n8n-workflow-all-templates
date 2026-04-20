@@ -1,4 +1,4 @@
-# errors : 16
+# errors : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |13672|[13672_Monitor_website_uptime_and_diagnose_errors_with_Gemini_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13672_Monitor_website_uptime_and_diagnose_errors_with_Gemini_and_Slack_alerts.json)|
 |13789|[13789_Log_workflow_errors_to_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13789_Log_workflow_errors_to_Slack_and_Google_Sheets.json)|
 |13846|[13846_Monitor_workflow_errors_via_n8n_API_with_Gemini_analysis_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13846_Monitor_workflow_errors_via_n8n_API_with_Gemini_analysis_and_Telegram_alerts.json)|
+|14964|[14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json)|

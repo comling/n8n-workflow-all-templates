@@ -1,4 +1,4 @@
-# game : 6
+# game : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |5731|[5731_Learn_JavaScript_Coding_with_an_Interactive_RPG-Style_Tutorial_Game.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5731_Learn_JavaScript_Coding_with_an_Interactive_RPG-Style_Tutorial_Game.json)|
 |6666|[6666_Automated_Multi-Platform_Game_Deals_Tracker_with_Deku_Deals___Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6666_Automated_Multi-Platform_Game_Deals_Tracker_with_Deku_Deals___Gmail_Alerts.json)|
 |12194|[12194_Find_the_best_Roblox_server_for_your_game_using_a_webhook_and_Roblox_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12194_Find_the_best_Roblox_server_for_your_game_using_a_webhook_and_Roblox_API.json)|
+|14165|[14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json)|

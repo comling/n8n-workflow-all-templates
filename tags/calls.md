@@ -1,4 +1,4 @@
-# calls : 39
+# calls : 46
 
 |id|file|
 |----|----|
@@ -41,3 +41,10 @@
 |13535|[13535_Recover_missed_calls_with_Twilio__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13535_Recover_missed_calls_with_Twilio__Slack_and_Google_Sheets.json)|
 |13590|[13590_Route_MCP_tool_calls_through_an_intelligent_gateway_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13590_Route_MCP_tool_calls_through_an_intelligent_gateway_with_Claude_AI.json)|
 |13593|[13593_Analyze_customer_sales_calls_and_update_CRM_with_Whisper_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13593_Analyze_customer_sales_calls_and_update_CRM_with_Whisper_and_GPT-4.json)|
+|13948|[13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json)|
+|14016|[14016_Analyze_sales_calls_with_GPT-4__Supabase_RAG__Slack_and_multi-CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14016_Analyze_sales_calls_with_GPT-4__Supabase_RAG__Slack_and_multi-CRM.json)|
+|14169|[14169_Qualify_and_manage_voice_sales_calls_with_Claude__GPT-4o__Gemini__and_GoHighLevel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14169_Qualify_and_manage_voice_sales_calls_with_Claude__GPT-4o__Gemini__and_GoHighLevel.json)|
+|14588|[14588_Summarize_sales_calls_and_update_CRM_using_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14588_Summarize_sales_calls_and_update_CRM_using_WayinVideo_and_GPT-4o-mini.json)|
+|14799|[14799_Analyze_sales_calls_with_Whisper_transcription__GPT-4o__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14799_Analyze_sales_calls_with_Whisper_transcription__GPT-4o__Airtable_and_Slack.json)|
+|14986|[14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json)|
+|15013|[15013_Analyze_weekly_Fireflies_sales_calls_with_GPT-4o-mini__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15013_Analyze_weekly_Fireflies_sales_calls_with_GPT-4o-mini__Google_Sheets_and_Slack.json)|

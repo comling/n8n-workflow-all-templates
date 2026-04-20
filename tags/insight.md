@@ -1,4 +1,4 @@
-# insight : 9
+# insight : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |7183|[7183_Auto-Analyze_Google_Analytics_Data_with_Gemini_AI___Smart_Gmail_Telegram_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7183_Auto-Analyze_Google_Analytics_Data_with_Gemini_AI___Smart_Gmail_Telegram_Routing.json)|
 |8369|[8369_Task_Time_Analysis__Automated_Overspend_Time_Insights_for_ClickUp_and_More.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8369_Task_Time_Analysis__Automated_Overspend_Time_Insights_for_ClickUp_and_More.json)|
 |13435|[13435_Mine_user_complaints_and_generate_insight_reports_with_Olostep__Gemini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13435_Mine_user_complaints_and_generate_insight_reports_with_Olostep__Gemini_and_Google_Docs.json)|
+|14702|[14702_Curate_tech_news_from_RSS_with_OpenAI__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14702_Curate_tech_news_from_RSS_with_OpenAI__Google_Sheets_and_Slack.json)|

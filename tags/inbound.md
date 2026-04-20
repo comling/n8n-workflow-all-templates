@@ -1,4 +1,4 @@
-# inbound : 13
+# inbound : 16
 
 |id|file|
 |----|----|
@@ -15,3 +15,6 @@
 |11590|[11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json)|
 |12480|[12480_Qualify_webhook_leads_with_GPT-4o-mini_and_create_Asana_tasks_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12480_Qualify_webhook_leads_with_GPT-4o-mini_and_create_Asana_tasks_automatically.json)|
 |13348|[13348_Score_and_enrich_inbound_leads_with_Lusha__Slack__and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13348_Score_and_enrich_inbound_leads_with_Lusha__Slack__and_HubSpot.json)|
+|13948|[13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json)|
+|14836|[14836_Qualify_and_route_inbound_leads_with_Claude__Gmail__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14836_Qualify_and_route_inbound_leads_with_Claude__Gmail__Slack_and_Google_Sheets.json)|
+|15028|[15028_Qualify_and_route_inbound_leads_with_OpenAI__Trello__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15028_Qualify_and_route_inbound_leads_with_OpenAI__Trello__Slack_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# deal : 27
+# deal : 31
 
 |id|file|
 |----|----|
@@ -29,3 +29,7 @@
 |12328|[12328_Analyze_lost_HubSpot_deals_and_generate_revival_strategies_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12328_Analyze_lost_HubSpot_deals_and_generate_revival_strategies_with_OpenAI.json)|
 |12474|[12474_Score_HubSpot_deal_conversion_risk_with_OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12474_Score_HubSpot_deal_conversion_risk_with_OpenAI_and_Slack_alerts.json)|
 |12577|[12577_Monitor_HubSpot_deal_risk_with_OpenAI_scoring_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12577_Monitor_HubSpot_deal_risk_with_OpenAI_scoring_and_Slack_alerts.json)|
+|13994|[13994_Monitor_AppSumo_lifetime_deals_with_ScrapeOps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13994_Monitor_AppSumo_lifetime_deals_with_ScrapeOps_and_Google_Sheets.json)|
+|14271|[14271_Monitor_deal_risk_from_HubSpot_and_Gmail_with_GPT-4.1_mini_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14271_Monitor_deal_risk_from_HubSpot_and_Gmail_with_GPT-4.1_mini_and_Slack_alerts.json)|
+|14803|[14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json)|
+|14900|[14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json)|

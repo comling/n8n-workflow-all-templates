@@ -1,4 +1,4 @@
-# quotes : 14
+# quotes : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |12285|[12285_Generate_client_quotes_from_call_transcripts_with_Claude_GPT__Google_Drive__and_PandaDoc.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12285_Generate_client_quotes_from_call_transcripts_with_Claude_GPT__Google_Drive__and_PandaDoc.json)|
 |12638|[12638_Manage_supplier_quote_requests_and_follow-ups_with_Gmail__Sheets__GPT-4o-mini_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12638_Manage_supplier_quote_requests_and_follow-ups_with_Gmail__Sheets__GPT-4o-mini_and_WhatsApp.json)|
 |12994|[12994_Generate_and_send_AI-powered_sales_quotes_with_Gmail__OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12994_Generate_and_send_AI-powered_sales_quotes_with_Gmail__OpenAI_and_Supabase.json)|
+|14174|[14174_Generate_and_email_PDF_quotes_from_Airtable_via_Gmail_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14174_Generate_and_email_PDF_quotes_from_Airtable_via_Gmail_and_Google_Drive.json)|

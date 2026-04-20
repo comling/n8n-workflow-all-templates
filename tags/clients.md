@@ -1,4 +1,4 @@
-# clients : 9
+# clients : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |8139|[8139_Automate_Invoice_Processing_with_OCR.Space__GPT-4___Google_Drive_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8139_Automate_Invoice_Processing_with_OCR.Space__GPT-4___Google_Drive_to_Gmail.json)|
 |8596|[8596_Generate_Secure_Social_Media_Connection_Links_for_Clients_with_Upload-Post.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8596_Generate_Secure_Social_Media_Connection_Links_for_Clients_with_Upload-Post.json)|
 |10553|[10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json)|
+|14097|[14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json)|
+|14217|[14217_Re-engage_old_clients_with_Claude_3.7_Sonnet__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14217_Re-engage_old_clients_with_Claude_3.7_Sonnet__Gmail_and_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# incidents : 6
+# incidents : 9
 
 |id|file|
 |----|----|
@@ -8,3 +8,6 @@
 |8247|[8247_Automate_Marker.io_Issues_to_ServiceNow_Incidents_with_Full_Technical_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8247_Automate_Marker.io_Issues_to_ServiceNow_Incidents_with_Full_Technical_Context.json)|
 |12086|[12086_Monitor_Cloudflare_incidents_and_alert_via_Slack__Telegram__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12086_Monitor_Cloudflare_incidents_and_alert_via_Slack__Telegram__and_Jira.json)|
 |12686|[12686_Predict_incidents_and_run_autonomous_remediation_with_GPT-4_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12686_Predict_incidents_and_run_autonomous_remediation_with_GPT-4_and_Slack.json)|
+|14044|[14044_Analyze_logs_and_correlate_incidents_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14044_Analyze_logs_and_correlate_incidents_with_OpenAI_and_Slack.json)|
+|14237|[14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json)|
+|14347|[14347_Analyze_Alertmanager_incidents_and_post_diagnostic_reports_to_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14347_Analyze_Alertmanager_incidents_and_post_diagnostic_reports_to_Mattermost.json)|

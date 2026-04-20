@@ -1,4 +1,4 @@
-# gitlab : 24
+# gitlab : 28
 
 |id|file|
 |----|----|
@@ -26,3 +26,7 @@
 |12154|[12154_Automatically_track_certification_changes_with_ScrapeGraphAI__GitLab_and_Rocket.Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12154_Automatically_track_certification_changes_with_ScrapeGraphAI__GitLab_and_Rocket.Chat.json)|
 |12234|[12234_Track_certification_requirements_with_ScrapeGraphAI__GitLab_and_Rocket.Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12234_Track_certification_requirements_with_ScrapeGraphAI__GitLab_and_Rocket.Chat.json)|
 |12394|[12394_Generate_your_GitLab_year-in-review_wrapped_report_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12394_Generate_your_GitLab_year-in-review_wrapped_report_automatically.json)|
+|13943|[13943_Manage_Claude_Code_sessions_from_Matrix_with_YouTrack_and_GitLab.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13943_Manage_Claude_Code_sessions_from_Matrix_with_YouTrack_and_GitLab.json)|
+|14129|[14129_Analyze_GitLab_CI_job_failures_with_GPT-5.3_and_send_reports_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14129_Analyze_GitLab_CI_job_failures_with_GPT-5.3_and_send_reports_to_Slack.json)|
+|14338|[14338_Review_GitLab_merge_requests_with_parallel_Azure_OpenAI_reviewers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14338_Review_GitLab_merge_requests_with_parallel_Azure_OpenAI_reviewers.json)|
+|14520|[14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json)|

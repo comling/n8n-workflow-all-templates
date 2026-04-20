@@ -1,4 +1,4 @@
-# journal : 9
+# journal : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |12151|[12151_Log_daily_Interactive_Brokers_trades_to_a_Google_Sheets_journal.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12151_Log_daily_Interactive_Brokers_trades_to_a_Google_Sheets_journal.json)|
 |12337|[12337_Create_a_daily_visual_journal_from_Discord_chats_with_GPT-4__DALL-E_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12337_Create_a_daily_visual_journal_from_Discord_chats_with_GPT-4__DALL-E_and_Notion.json)|
 |13073|[13073_Create_an_auto-journal_from_WhatsApp_with_AI_transcription.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13073_Create_an_auto-journal_from_WhatsApp_with_AI_transcription.json)|
+|14265|[14265_Create_AI_travel_journal_stories_from_WhatsApp_using_Claude_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14265_Create_AI_travel_journal_stories_from_WhatsApp_using_Claude_and_Google_Drive.json)|

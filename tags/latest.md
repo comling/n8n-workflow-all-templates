@@ -1,4 +1,4 @@
-# latest : 14
+# latest : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |7797|[7797_Compare_Your_n8n_Version_with_Latest_Release_using_n8n_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7797_Compare_Your_n8n_Version_with_Latest_Release_using_n8n_API.json)|
 |8346|[8346_Daily_AI_News_Digest_with_Perplexity_AI_and_Gmail_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8346_Daily_AI_News_Digest_with_Perplexity_AI_and_Gmail_Automation.json)|
 |13509|[13509_Fetch_Threads_analytics_for_your_latest_posts_and_email_an_HTML_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13509_Fetch_Threads_analytics_for_your_latest_posts_and_email_an_HTML_report.json)|
+|14704|[14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json)|

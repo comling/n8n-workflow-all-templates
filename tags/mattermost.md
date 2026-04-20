@@ -1,4 +1,4 @@
-# mattermost : 23
+# mattermost : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |5186|[5186_Mattermost_Tool_MCP_Server___all_19_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5186_Mattermost_Tool_MCP_Server___all_19_operations.json)|
 |12751|[12751_Score_and_route_leads_with_Clearbit__Mattermost_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12751_Score_and_route_leads_with_Clearbit__Mattermost_and_Trello.json)|
 |12781|[12781_Send_daily_CRM_summary_reports_to_Mattermost_from_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12781_Send_daily_CRM_summary_reports_to_Mattermost_from_HubSpot.json)|
+|14347|[14347_Analyze_Alertmanager_incidents_and_post_diagnostic_reports_to_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14347_Analyze_Alertmanager_incidents_and_post_diagnostic_reports_to_Mattermost.json)|

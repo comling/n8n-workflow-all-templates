@@ -1,4 +1,4 @@
-# deepseek : 44
+# deepseek : 46
 
 |id|file|
 |----|----|
@@ -46,3 +46,5 @@
 |13449|[13449_Track_AI_search_visibility_across_ChatGPT__Claude__DeepSeek_and_Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13449_Track_AI_search_visibility_across_ChatGPT__Claude__DeepSeek_and_Perplexity.json)|
 |13759|[13759_Upload_Instagram_Reels_from_Google_Sheets_with_DeepSeek_AI_captions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13759_Upload_Instagram_Reels_from_Google_Sheets_with_DeepSeek_AI_captions.json)|
 |13887|[13887_Analyze_YouTube_videos_and_auto-generate_AI_reports_in_Google_Docs_with_DeepSeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13887_Analyze_YouTube_videos_and_auto-generate_AI_reports_in_Google_Docs_with_DeepSeek.json)|
+|13967|[13967_Grow_Reddit_karma_with_DeepSeek__Google_Sheets__Multilogin_and_Browser_MCP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13967_Grow_Reddit_karma_with_DeepSeek__Google_Sheets__Multilogin_and_Browser_MCP.json)|
+|14215|[14215_Generate_Upwork_SEO_proposals_with_GPT-4__DeepSeek__Claude_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14215_Generate_Upwork_SEO_proposals_with_GPT-4__DeepSeek__Claude_and_Google_Docs.json)|

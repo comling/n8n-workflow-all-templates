@@ -1,4 +1,4 @@
-# sora : 24
+# sora : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |12590|[12590_Generate_Sora_v2_ASMR_clips_with_GPT-5.1__stitch_via_Cloudinary__and_post_to_Twitter_X.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12590_Generate_Sora_v2_ASMR_clips_with_GPT-5.1__stitch_via_Cloudinary__and_post_to_Twitter_X.json)|
 |13085|[13085_Create_and_publish_AI_videos_with_Sora_2_Cameos__Gemini__and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13085_Create_and_publish_AI_videos_with_Sora_2_Cameos__Gemini__and_Blotato.json)|
 |13752|[13752_Generate_cinematic_videos_with_OpenAI_Sora_and_uploadtourl_hosting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13752_Generate_cinematic_videos_with_OpenAI_Sora_and_uploadtourl_hosting.json)|
+|14256|[14256_Generate_UGC_product_videos_from_Google_Sheets_with_DALL_E__GPT-4_and_Sora.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14256_Generate_UGC_product_videos_from_Google_Sheets_with_DALL_E__GPT-4_and_Sora.json)|

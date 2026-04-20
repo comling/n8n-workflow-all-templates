@@ -1,4 +1,4 @@
-# smtp : 13
+# smtp : 15
 
 |id|file|
 |----|----|
@@ -15,3 +15,5 @@
 |12607|[12607_Monitor_SSL_certificate_expiry_with_Google_Sheets_and_SMTP_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12607_Monitor_SSL_certificate_expiry_with_Google_Sheets_and_SMTP_email_alerts.json)|
 |12696|[12696_Send_daily_Reddit_digest_email_with_Google_Sheets_scoring_and_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12696_Send_daily_Reddit_digest_email_with_Google_Sheets_scoring_and_SMTP.json)|
 |12982|[12982_Send_personalized_emails_from_Google_Sheets_via_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12982_Send_personalized_emails_from_Google_Sheets_via_SMTP.json)|
+|14267|[14267_Send_AI_job_application_auto-replies_with_Gmail__OpenAI_GPT-4o_and_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14267_Send_AI_job_application_auto-replies_with_Gmail__OpenAI_GPT-4o_and_SMTP.json)|
+|14275|[14275_Send_bulk_email_campaigns_with_Gmail_SMTP_and_Postgres_reputation-safe_timing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14275_Send_bulk_email_campaigns_with_Gmail_SMTP_and_Postgres_reputation-safe_timing.json)|

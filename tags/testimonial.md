@@ -1,4 +1,4 @@
-# testimonial : 9
+# testimonial : 12
 
 |id|file|
 |----|----|
@@ -11,3 +11,6 @@
 |8593|[8593_Automate_Meeting_Scheduling_through_Telegram_with_Google_Calendar___Notion_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8593_Automate_Meeting_Scheduling_through_Telegram_with_Google_Calendar___Notion_CRM.json)|
 |10135|[10135_Process_Testimonials_with_GPT-4___Auto-Generate_Social_Media_Cards_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10135_Process_Testimonials_with_GPT-4___Auto-Generate_Social_Media_Cards_with_Google_Sheets.json)|
 |12152|[12152_Send_Telegram_notifications_for_new_Feedspace_testimonials.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12152_Send_Telegram_notifications_for_new_Feedspace_testimonials.json)|
+|14597|[14597_Post_branded_Instagram_testimonial_cards_from_Airtable_with_Bannerbear_and_uploadtourl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14597_Post_branded_Instagram_testimonial_cards_from_Airtable_with_Bannerbear_and_uploadtourl.json)|
+|14641|[14641_Extract_customer_testimonial_clips_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14641_Extract_customer_testimonial_clips_using_WayinVideo_AI_and_Google_Drive.json)|
+|14916|[14916_Collect_and_publish_customer_testimonials_with_Claude__email__CRM_and_review_sites.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14916_Collect_and_publish_customer_testimonials_with_Claude__email__CRM_and_review_sites.json)|

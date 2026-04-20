@@ -1,4 +1,4 @@
-# code : 47
+# code : 52
 
 |id|file|
 |----|----|
@@ -49,3 +49,8 @@
 |13652|[13652_Review_GitHub_pull_requests_with_AI_and_log_results_to_PostgreSQL_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13652_Review_GitHub_pull_requests_with_AI_and_log_results_to_PostgreSQL_and_Slack.json)|
 |13827|[13827_Generate__review__and_optimize_code_with_Cursor_AI__GitHub__Google__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13827_Generate__review__and_optimize_code_with_Cursor_AI__GitHub__Google__and_Slack.json)|
 |13900|[13900_Scan_code_repositories_for_governance_issues_with_GPT-4o_and_severity-based_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13900_Scan_code_repositories_for_governance_issues_with_GPT-4o_and_severity-based_reports.json)|
+|13943|[13943_Manage_Claude_Code_sessions_from_Matrix_with_YouTrack_and_GitLab.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13943_Manage_Claude_Code_sessions_from_Matrix_with_YouTrack_and_GitLab.json)|
+|14070|[14070_Turn_new_Jira_tickets_into_CloudCLI_AI_coding_sessions_with_Claude_Code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14070_Turn_new_Jira_tickets_into_CloudCLI_AI_coding_sessions_with_Claude_Code.json)|
+|14216|[14216_Generate_concert_ticket_PDFs_with_QR_codes_using_PDF_Generator_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14216_Generate_concert_ticket_PDFs_with_QR_codes_using_PDF_Generator_API.json)|
+|14373|[14373_Send_Emails_from_Google_Sheets__no_code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14373_Send_Emails_from_Google_Sheets__no_code.json)|
+|14539|[14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json)|

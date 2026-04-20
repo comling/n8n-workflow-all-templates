@@ -1,4 +1,4 @@
-# board : 11
+# board : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |9300|[9300_Automatically_Scrape_Make.com_Job_Board_with_GPT-5-mini_Summaries___Email_Digest.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9300_Automatically_Scrape_Make.com_Job_Board_with_GPT-5-mini_Summaries___Email_Digest.json)|
 |13873|[13873_Summarize_Trello_board_activity_with_Gemini_and_send_updates_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13873_Summarize_Trello_board_activity_with_Gemini_and_send_updates_to_Slack.json)|
 |13898|[13898_Generate_board-ready_workforce_analytics_and_talent_reports_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13898_Generate_board-ready_workforce_analytics_and_talent_reports_with_GPT-4o.json)|
+|14891|[14891_Generate_AI_camera_moves_with_Seedance_and_build_a_previs_review_board.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14891_Generate_AI_camera_moves_with_Seedance_and_build_a_previs_review_board.json)|

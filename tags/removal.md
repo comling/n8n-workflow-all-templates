@@ -1,4 +1,4 @@
-# removal : 6
+# removal : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |5640|[5640_Background_Removal_API_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5640_Background_Removal_API_MCP_Server.json)|
 |6512|[6512_Automated_Background_Removal_from_Images_with_APImage_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6512_Automated_Background_Removal_from_Images_with_APImage_AI.json)|
 |9820|[9820_Video_Background_Removal_and_Image_Composition_with_Google_Drive_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9820_Video_Background_Removal_and_Image_Composition_with_Google_Drive_Integration.json)|
+|14381|[14381_Generate_AI_document_titles_for_Paperless-ngx_with_GPT-4o_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14381_Generate_AI_document_titles_for_Paperless-ngx_with_GPT-4o_Mini.json)|
+|14387|[14387_Generate_clean_plates_and_automate_object_removal_with_Seedance_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14387_Generate_clean_plates_and_automate_object_removal_with_Seedance_AI.json)|

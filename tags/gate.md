@@ -1,4 +1,4 @@
-# gate : 6
+# gate : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |11828|[11828_CI_Artifact_Completeness_Gate__Git_Push__Sentry_Artifact_Verification__Commit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11828_CI_Artifact_Completeness_Gate__Git_Push__Sentry_Artifact_Verification__Commit.json)|
 |13445|[13445_Gate_deployments_on_WAF_scan_results_with_WAFtester.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13445_Gate_deployments_on_WAF_scan_results_with_WAFtester.json)|
 |13863|[13863_Prevent_duplicate_webhook_executions_with_AARI_idempotency_gate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13863_Prevent_duplicate_webhook_executions_with_AARI_idempotency_gate.json)|
+|14087|[14087_Gate_AI_Slack_DevOps_bot_actions_with_OpenAI_and_Permit.io_RBAC.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14087_Gate_AI_Slack_DevOps_bot_actions_with_OpenAI_and_Permit.io_RBAC.json)|

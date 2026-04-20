@@ -1,4 +1,4 @@
-# menu : 6
+# menu : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |5877|[5877_Food_Menu_Update_Notifier.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5877_Food_Menu_Update_Notifier.json)|
 |5881|[5881_Automate_Restaurant_Customer_Service_with_WhatsApp_and_Llama_AI_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5881_Automate_Restaurant_Customer_Service_with_WhatsApp_and_Llama_AI_Chatbot.json)|
 |8844|[8844_Create_a_Dynamic_Telegram_Bot_Menu_System_with_Multi-Level_Navigation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8844_Create_a_Dynamic_Telegram_Bot_Menu_System_with_Multi-Level_Navigation.json)|
+|14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|

@@ -1,4 +1,4 @@
-# oauth2 : 5
+# oauth2 : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |3279|[3279_OAuth2_Settings_Finder_with_OpenRouter_Chat_Model_and_Llama_3.3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3279_OAuth2_Settings_Finder_with_OpenRouter_Chat_Model_and_Llama_3.3.json)|
 |7646|[7646_Reliable_Reddit_Subreddit_Search_with_OAuth2_API_Authentication.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7646_Reliable_Reddit_Subreddit_Search_with_OAuth2_API_Authentication.json)|
 |10950|[10950_Automate_LINE___Google_Account_Linking_with_OAuth2_Authentication.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10950_Automate_LINE___Google_Account_Linking_with_OAuth2_Authentication.json)|
+|14509|[14509_Fetch_SAP_SuccessFactors_PerPerson_data_via_SAML_2.0_bearer_OAuth2_flow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14509_Fetch_SAP_SuccessFactors_PerPerson_data_via_SAML_2.0_bearer_OAuth2_flow.json)|

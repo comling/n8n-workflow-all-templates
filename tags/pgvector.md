@@ -1,4 +1,4 @@
-# pgvector : 6
+# pgvector : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |5908|[5908_Real-time_Email_RAG_Assistant_with_Gmail__OpenAI_GPT__and_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5908_Real-time_Email_RAG_Assistant_with_Gmail__OpenAI_GPT__and_PGVector.json)|
 |6543|[6543_Vectorize_Medical_Procedures_for_Semantic_Search_with_TUSS__Gemini___pgVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6543_Vectorize_Medical_Procedures_for_Semantic_Search_with_TUSS__Gemini___pgVector.json)|
 |10157|[10157_Local_Document_Question_Answering_with_Ollama_AI__Agentic_RAG___PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10157_Local_Document_Question_Answering_with_Ollama_AI__Agentic_RAG___PGVector.json)|
+|14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|

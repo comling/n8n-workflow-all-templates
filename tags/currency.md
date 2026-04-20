@@ -1,4 +1,4 @@
-# currency : 11
+# currency : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |6185|[6185_Scheduled_Currency_Exchange_Rate_Updates_to_Telegram_with_Exchange_Rate_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6185_Scheduled_Currency_Exchange_Rate_Updates_to_Telegram_with_Exchange_Rate_API.json)|
 |6520|[6520_Monitor_Egyptian_Gold___Currency_Prices_with_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6520_Monitor_Egyptian_Gold___Currency_Prices_with_Telegram_Notifications.json)|
 |8380|[8380_Daily_Currency_Rates_Email_Report_with_USD_EUR_NGN___BTC_ETH_Price_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8380_Daily_Currency_Rates_Email_Report_with_USD_EUR_NGN___BTC_ETH_Price_Tracking.json)|
+|14133|[14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json)|

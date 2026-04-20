@@ -1,4 +1,4 @@
-# other : 8
+# other : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |6808|[6808_Create_Images_from_Text_Prompts_using_Lumi_and_Replicate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6808_Create_Images_from_Text_Prompts_using_Lumi_and_Replicate.json)|
 |6852|[6852_Create_Images_from_Text_Prompts_using_HeraNathalie_Model_and_Replicate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6852_Create_Images_from_Text_Prompts_using_HeraNathalie_Model_and_Replicate.json)|
 |6858|[6858_Run_ComfyUI_Image_Generation_Workflows_through_Replicate_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6858_Run_ComfyUI_Image_Generation_Workflows_through_Replicate_API.json)|
+|14165|[14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json)|

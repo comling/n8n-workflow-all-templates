@@ -1,4 +1,4 @@
-# serpapi : 56
+# serpapi : 59
 
 |id|file|
 |----|----|
@@ -58,3 +58,6 @@
 |13608|[13608_Research_web_topics_and_email_a_Claude_report_via_Gmail_using_SerpApi__Jina.ai_and_Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13608_Research_web_topics_and_email_a_Claude_report_via_Gmail_using_SerpApi__Jina.ai_and_Firecrawl.json)|
 |13678|[13678_Generate_Google_Maps_lead_lists_with_SerpApi__Google_Gemini_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13678_Generate_Google_Maps_lead_lists_with_SerpApi__Google_Gemini_and_Sheets.json)|
 |13867|[13867_Generate_AEO_snippets_from_Google_PAA_with_SerpApi_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13867_Generate_AEO_snippets_from_Google_PAA_with_SerpApi_and_Gemini.json)|
+|14063|[14063_Automate_job_applications_with_Telegram__SerpAPI__and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14063_Automate_job_applications_with_Telegram__SerpAPI__and_OpenAI.json)|
+|14358|[14358_Send_a_daily_women-focused_job_digest_to_Telegram_with_GPT-4o-mini_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14358_Send_a_daily_women-focused_job_digest_to_Telegram_with_GPT-4o-mini_and_SerpAPI.json)|
+|14361|[14361_Generate_live_cricket_score_commentary_using_SerpAPI__GPT-4o-mini__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14361_Generate_live_cricket_score_commentary_using_SerpAPI__GPT-4o-mini__and_Telegram.json)|

@@ -1,4 +1,4 @@
-# wordpress : 149
+# wordpress : 156
 
 |id|file|
 |----|----|
@@ -151,3 +151,10 @@
 |13635|[13635_List_properties_instantly_with_UploadToURL__OpenAI_Vision__WordPress_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13635_List_properties_instantly_with_UploadToURL__OpenAI_Vision__WordPress_and_Airtable.json)|
 |13721|[13721_Create_WordPress_users_from_KlickTipp_and_tag_contacts_based_on_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13721_Create_WordPress_users_from_KlickTipp_and_tag_contacts_based_on_comments.json)|
 |13767|[13767_Automated_NASA_Image___Content_Publisher_for_WordPress_and_Multi-Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13767_Automated_NASA_Image___Content_Publisher_for_WordPress_and_Multi-Social_Media.json)|
+|13924|[13924_Write_daily_tech_news_with_OpenAI_using_RSS_feeds_and_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13924_Write_daily_tech_news_with_OpenAI_using_RSS_feeds_and_WordPress.json)|
+|14156|[14156_Auto-publish_new_WordPress_posts_to_Pinterest_with_PinBridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14156_Auto-publish_new_WordPress_posts_to_Pinterest_with_PinBridge.json)|
+|14525|[14525_Publish_AI-written_newsletters_and_LinkedIn_posts_from_WordPress_with_Gemini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14525_Publish_AI-written_newsletters_and_LinkedIn_posts_from_WordPress_with_Gemini__Google_Sheets_and_Gmail.json)|
+|14576|[14576_Publish_Google_News_based_SEO_blog_posts_to_WordPress_with_Claude__Gemini_and_RankMath.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14576_Publish_Google_News_based_SEO_blog_posts_to_WordPress_with_Claude__Gemini_and_RankMath.json)|
+|14690|[14690_Publish_WordPress_SEO_blog_drafts_from_trending_news_with_Brave_Search_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14690_Publish_WordPress_SEO_blog_drafts_from_trending_news_with_Brave_Search_and_OpenAI.json)|
+|14758|[14758_Publish_blog_posts_from_YouTube_transcripts_to_WordPress_and_Telegram_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14758_Publish_blog_posts_from_YouTube_transcripts_to_WordPress_and_Telegram_with_Gemini.json)|
+|14923|[14923_Create_and_post_AI_social_captions_from_WordPress_blogs_to_Facebook__Instagram__X__and_LinkedIn_with_GPT-4o_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14923_Create_and_post_AI_social_captions_from_WordPress_blogs_to_Facebook__Instagram__X__and_LinkedIn_with_GPT-4o_via_OpenRouter.json)|

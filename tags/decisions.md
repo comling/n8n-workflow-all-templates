@@ -1,4 +1,4 @@
-# decisions : 5
+# decisions : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |13154|[13154_Moderate_user_content_and_route_governance_decisions_with_Claude_and_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13154_Moderate_user_content_and_route_governance_decisions_with_Claude_and_APIs.json)|
 |13432|[13432_Validate_academic_promotion_decisions_with_GPT-4o__policy_rules__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13432_Validate_academic_promotion_decisions_with_GPT-4o__policy_rules__and_Gmail.json)|
 |13684|[13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json)|
+|14515|[14515_Log_invoice_approval_decisions_from_Slack_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14515_Log_invoice_approval_decisions_from_Slack_to_Google_Sheets.json)|

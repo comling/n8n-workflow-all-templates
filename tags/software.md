@@ -1,4 +1,4 @@
-# software : 6
+# software : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |5529|[5529_Monitor_Software_Compliance_with_Jamf_Patch_Summaries_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5529_Monitor_Software_Compliance_with_Jamf_Patch_Summaries_in_Slack.json)|
 |11404|[11404_Track_Software_Vulnerability_Patents_with_ScrapeGraphAI__Matrix__and_Intercom.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11404_Track_Software_Vulnerability_Patents_with_ScrapeGraphAI__Matrix__and_Intercom.json)|
 |11635|[11635_Track_Software_Security_Patents_with_ScrapeGraphAI__Notion__and_Pushover_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11635_Track_Software_Security_Patents_with_ScrapeGraphAI__Notion__and_Pushover_Alerts.json)|
+|14309|[14309_Send_end-of-life_software_alerts_using_NocoDB__endoflife.date__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14309_Send_end-of-life_software_alerts_using_NocoDB__endoflife.date__and_Slack.json)|

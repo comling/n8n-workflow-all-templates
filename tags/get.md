@@ -1,4 +1,4 @@
-# get : 205
+# get : 210
 
 |id|file|
 |----|----|
@@ -207,3 +207,8 @@
 |13694|[13694_Pull_new_backlinks_into_Google_Sheets_with_DataForSEO_and_Gmail_email_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13694_Pull_new_backlinks_into_Google_Sheets_with_DataForSEO_and_Gmail_email_report.json)|
 |13695|[13695_Monitor_lost_backlinks_with_DataForSEO__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13695_Monitor_lost_backlinks_with_DataForSEO__Google_Sheets_and_Gmail.json)|
 |13766|[13766_Get_actionable_Gmail_alerts_on_Telegram_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13766_Get_actionable_Gmail_alerts_on_Telegram_with_OpenAI.json)|
+|14027|[14027_Get_long-lived_Facebook_Page_access_tokens_and_subscribe_Messenger_webhook_fields_via_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14027_Get_long-lived_Facebook_Page_access_tokens_and_subscribe_Messenger_webhook_fields_via_Graph_API.json)|
+|14165|[14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json)|
+|14172|[14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json)|
+|14322|[14322_Get_AI_insights_from_Databox_in_Slack_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14322_Get_AI_insights_from_Databox_in_Slack_using_OpenAI.json)|
+|14537|[14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json)|

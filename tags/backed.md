@@ -1,4 +1,4 @@
-# backed : 6
+# backed : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |8351|[8351_Create_Research-Backed_Articles_with_AI_Planning__Linkup_Search___GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8351_Create_Research-Backed_Articles_with_AI_Planning__Linkup_Search___GPT-5.json)|
 |12477|[12477_Generate_research-backed_blog_articles_from_news_with_OpenAI__Tavily_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12477_Generate_research-backed_blog_articles_from_news_with_OpenAI__Tavily_and_Google_Docs.json)|
 |13282|[13282_Generate_research-backed_cold_email_icebreakers_with_web_scraping__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13282_Generate_research-backed_cold_email_icebreakers_with_web_scraping__OpenAI_and_Google_Sheets.json)|
+|13995|[13995_Generate_research-backed_curriculum_plans_with_GPT-4o__Perplexity_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13995_Generate_research-backed_curriculum_plans_with_GPT-4o__Perplexity_and_Google_Sheets.json)|
+|14000|[14000_Generate_research-backed_infographics_with_GPT-4__kie.ai__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14000_Generate_research-backed_infographics_with_GPT-4__kie.ai__and_Gmail.json)|

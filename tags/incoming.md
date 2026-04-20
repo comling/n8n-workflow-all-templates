@@ -1,4 +1,4 @@
-# incoming : 10
+# incoming : 12
 
 |id|file|
 |----|----|
@@ -12,3 +12,5 @@
 |5595|[5595_Categorize_and_Label_Incoming_Gmail_Emails_Automatically_with_GPT-4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5595_Categorize_and_Label_Incoming_Gmail_Emails_Automatically_with_GPT-4o_mini.json)|
 |8031|[8031_Auto-Translate_Incoming_Gmail_Emails_to_English_with_OpenAI_GPT-3.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8031_Auto-Translate_Incoming_Gmail_Emails_to_English_with_OpenAI_GPT-3.5.json)|
 |13192|[13192_Process_incoming_files_and_notify_via_email_with_GitHub_storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13192_Process_incoming_files_and_notify_via_email_with_GitHub_storage.json)|
+|13989|[13989_Route_and_log_incoming_emails_with_GPT-4__Excel_365_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13989_Route_and_log_incoming_emails_with_GPT-4__Excel_365_and_Telegram.json)|
+|14184|[14184_Generate_branded_PDF_reports_from_incoming_emails_using_Autype_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14184_Generate_branded_PDF_reports_from_incoming_emails_using_Autype_and_OpenRouter.json)|

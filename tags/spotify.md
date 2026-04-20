@@ -1,4 +1,4 @@
-# spotify : 23
+# spotify : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |10267|[10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json)|
 |11300|[11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json)|
 |12736|[12736_Create_lyric_posters_from_Spotify_tracks_with_Musixmatch_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12736_Create_lyric_posters_from_Spotify_tracks_with_Musixmatch_and_OpenAI.json)|
+|14022|[14022_Extract_vocabulary_flashcards_from_Spotify_listening_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14022_Extract_vocabulary_flashcards_from_Spotify_listening_with_Gemini_and_Google_Sheets.json)|

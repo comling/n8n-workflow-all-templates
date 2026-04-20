@@ -1,4 +1,4 @@
-# hours : 6
+# hours : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |8635|[8635_Complete_Booking_System_with_Google_Calendar__Business_Hours___REST_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8635_Complete_Booking_System_with_Google_Calendar__Business_Hours___REST_API.json)|
 |9550|[9550_Analyze_USD_JPY_Rates_with_AI_and_Tavily_News_Search_for_Email_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9550_Analyze_USD_JPY_Rates_with_AI_and_Tavily_News_Search_for_Email_Reporting.json)|
 |13088|[13088_Create_hours-long_wave_music_videos_with_Suno__ffmpeg-api_and_YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13088_Create_hours-long_wave_music_videos_with_Suno__ffmpeg-api_and_YouTube.json)|
+|14113|[14113_Rerank_PM_priorities_every_2_hours_using_OpenAI__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14113_Rerank_PM_priorities_every_2_hours_using_OpenAI__Notion__and_Slack.json)|

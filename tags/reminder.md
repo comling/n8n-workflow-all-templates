@@ -1,4 +1,4 @@
-# reminder : 41
+# reminder : 42
 
 |id|file|
 |----|----|
@@ -43,3 +43,4 @@
 |13475|[13475_Send_WhatsApp_payment_reminders_automatically_with_MoltFlow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13475_Send_WhatsApp_payment_reminders_automatically_with_MoltFlow.json)|
 |13516|[13516_Send_AI_pre-op_reminders_with_Google_Calendar__Gmail__Sheets__Slack_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13516_Send_AI_pre-op_reminders_with_Google_Calendar__Gmail__Sheets__Slack_and_GPT-4o.json)|
 |13786|[13786_Bulk_generate_payment_reminder_PDFs_from_NocoDB_with_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13786_Bulk_generate_payment_reminder_PDFs_from_NocoDB_with_Autype.json)|
+|14860|[14860_Track_medicine_adherence_and_monitor_patients_with_Google_Sheets__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14860_Track_medicine_adherence_and_monitor_patients_with_Google_Sheets__OpenAI_and_Slack.json)|

@@ -1,4 +1,4 @@
-# fitness : 4
+# fitness : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |6697|[6697_Telegram_Fitness_Bot__Custom_Workout_Plans_from_Photo_Text_using_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6697_Telegram_Fitness_Bot__Custom_Workout_Plans_from_Photo_Text_using_Gemini_AI.json)|
 |13152|[13152_Gamify_fitness_tracking_with_GPT-4o-mini_multi-agents_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13152_Gamify_fitness_tracking_with_GPT-4o-mini_multi-agents_and_Google_Sheets.json)|
 |13574|[13574_Log_workouts_and_get_AI_fitness_analysis_with_a_form__Google_Gemini__Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13574_Log_workouts_and_get_AI_fitness_analysis_with_a_form__Google_Gemini__Sheets__Slack__and_Gmail.json)|
+|14858|[14858_Track_nutrition_and_fitness_via_webhook_with_OpenAI__Google_Sheets_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14858_Track_nutrition_and_fitness_via_webhook_with_OpenAI__Google_Sheets_and_Slack_alerts.json)|

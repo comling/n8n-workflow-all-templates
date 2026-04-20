@@ -1,4 +1,4 @@
-# quickchart : 5
+# quickchart : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |3642|[3642_Customer_Feedback_Analysis_with_AI__QuickChart___HTML_Report_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3642_Customer_Feedback_Analysis_with_AI__QuickChart___HTML_Report_Generator.json)|
 |7238|[7238_Flight_Data_Visualization_with_Chart.js__QuickChart_API___Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7238_Flight_Data_Visualization_with_Chart.js__QuickChart_API___Telegram_Bot.json)|
 |8697|[8697_Transform_Spreadsheet_Data_into_Smart_Charts_with_OpenAI__QuickChart___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8697_Transform_Spreadsheet_Data_into_Smart_Charts_with_OpenAI__QuickChart___Google_Drive.json)|
+|14808|[14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json)|

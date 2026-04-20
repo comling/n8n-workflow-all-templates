@@ -1,4 +1,4 @@
-# quiz : 9
+# quiz : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |9715|[9715_Automate_Quiz_Creation_from_Documents_with_Google_Gemini_and_Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9715_Automate_Quiz_Creation_from_Documents_with_Google_Gemini_and_Jotform.json)|
 |10994|[10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json)|
 |12012|[12012_Automate_AI-powered_quiz_generation_from_PDFs_with_Google_Forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12012_Automate_AI-powered_quiz_generation_from_PDFs_with_Google_Forms.json)|
+|14539|[14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json)|

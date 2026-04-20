@@ -1,4 +1,4 @@
-# birthday : 6
+# birthday : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |6201|[6201_Automated_Birthday_Emails_with_Google_Sheets__OpenRouter_GPT-4o___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6201_Automated_Birthday_Emails_with_Google_Sheets__OpenRouter_GPT-4o___Gmail.json)|
 |7936|[7936_Automate_Birthday_Discount_Emails_for_E-Commerce_using_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7936_Automate_Birthday_Discount_Emails_for_E-Commerce_using_Google_Sheets_and_Gmail.json)|
 |10645|[10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json)|
+|14432|[14432_Automate_Birthday_Wishes_from_Google_Contacts_with_Multi-Platform_Messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14432_Automate_Birthday_Wishes_from_Google_Contacts_with_Multi-Platform_Messaging.json)|
+|14802|[14802_Send_personalized_birthday_and_anniversary_emails_with_Google_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14802_Send_personalized_birthday_and_anniversary_emails_with_Google_Sheets__Gemini__and_Gmail.json)|

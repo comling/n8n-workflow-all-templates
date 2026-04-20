@@ -1,4 +1,4 @@
-# embeddings : 14
+# embeddings : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |9620|[9620_Create_Knowledge_Base_from_Jira_Tickets_with_OpenAI_Embeddings_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9620_Create_Knowledge_Base_from_Jira_Tickets_with_OpenAI_Embeddings_and_Pinecone.json)|
 |11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|
 |11971|[11971_Synchronize_MySQL_database_schemas_to_Pinecone_with_OpenAI_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11971_Synchronize_MySQL_database_schemas_to_Pinecone_with_OpenAI_embeddings.json)|
+|14036|[14036_Maintain_RAG_embeddings_with_OpenAI__Postgres_and_auto_drift_rollback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14036_Maintain_RAG_embeddings_with_OpenAI__Postgres_and_auto_drift_rollback.json)|

@@ -1,4 +1,4 @@
-# plan : 10
+# plan : 14
 
 |id|file|
 |----|----|
@@ -12,3 +12,7 @@
 |6652|[6652_Plan_Travel_Itineraries_with_Gemini_AI__Live_Amadeus_Flights__and_Airbnb_Stays.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6652_Plan_Travel_Itineraries_with_Gemini_AI__Live_Amadeus_Flights__and_Airbnb_Stays.json)|
 |7181|[7181_Create_Personalized_Diet_Plans_from_Health_Reports_with_Ollama_AI_and_Email_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7181_Create_Personalized_Diet_Plans_from_Health_Reports_with_Ollama_AI_and_Email_Automation.json)|
 |7427|[7427_Generate_Weekly_Grocery_Lists_in_Notion_with_Automated_Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7427_Generate_Weekly_Grocery_Lists_in_Notion_with_Automated_Email_Notifications.json)|
+|13921|[13921_Plan_AI-powered_travel_itineraries_with_Apify__OpenAI__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13921_Plan_AI-powered_travel_itineraries_with_Apify__OpenAI__and_Google_Docs.json)|
+|14095|[14095_Create_a_weekly_Mealie_dinner_plan_and_generate_a_smart_shopping_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14095_Create_a_weekly_Mealie_dinner_plan_and_generate_a_smart_shopping_list.json)|
+|14745|[14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json)|
+|14914|[14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json)|

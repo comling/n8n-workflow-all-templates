@@ -1,0 +1,11 @@
+# esg : 7
+
+|id|file|
+|----|----|
+|6643|[6643_Carbon_Footprint_Tracker_with_ScrapeGraphAI_Analysis_and_Google_Drive_ESG_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6643_Carbon_Footprint_Tracker_with_ScrapeGraphAI_Analysis_and_Google_Drive_ESG_Reports.json)|
+|12198|[12198_Monitor_IoT_sustainability_compliance_and_ESG_reports_with_OpenAI__Airtable__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12198_Monitor_IoT_sustainability_compliance_and_ESG_reports_with_OpenAI__Airtable__Slack_and_Gmail.json)|
+|14426|[14426_Automate_ESG_compliance_routing_and_reporting_with_GPT-4o__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14426_Automate_ESG_compliance_routing_and_reporting_with_GPT-4o__Slack_and_Google_Sheets.json)|
+|14462|[14462_Monitor_and_optimize_carbon_emissions_for_ESG_with_GPT_4o__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14462_Monitor_and_optimize_carbon_emissions_for_ESG_with_GPT_4o__Slack_and_Google_Sheets.json)|
+|14463|[14463_Automate_ESG_carbon_monitoring_and_strategy_execution_with_GPT-4o__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14463_Automate_ESG_carbon_monitoring_and_strategy_execution_with_GPT-4o__Slack_and_Sheets.json)|
+|14464|[14464_Monitor_and_optimize_carbon_emissions_for_ESG_reporting_with_GPT-4o__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14464_Monitor_and_optimize_carbon_emissions_for_ESG_reporting_with_GPT-4o__Slack_and_Sheets.json)|
+|14465|[14465_Automate_ESG_carbon_monitoring_and_strategy_execution_with_GPT-4o__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14465_Automate_ESG_carbon_monitoring_and_strategy_execution_with_GPT-4o__Slack_and_Google_Sheets.json)|
