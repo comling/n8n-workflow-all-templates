@@ -21,12 +21,6 @@ synchronized and updated every 2 months.
 - [n8n_workflow_templates_tag_counts.md](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/tag_counts.md)
 ## file_counts
 - 9146
-## join wechat group
-- wechat : youandme10086
-
-|wechat|wechat-group|
-|------|----------|
-|![wechat](https://gitee.com/zengfr/n8n-workflow-all-templates/raw/main/img/1wechat.jpg)|![wechat-group](https://gitee.com/zengfr/n8n-workflow-all-templates/raw/main/img/2wechat-group.jpg)|
 
 ## 다양한 템플릿 제공(공식)
-- [![n8n 공식 템플릿 모음](https://n8n.io/workflows/)]
+- [n8n 공식 템플릿 모음](https://n8n.io/workflows/)
